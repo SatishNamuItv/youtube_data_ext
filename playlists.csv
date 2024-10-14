@@ -1,1196 +1,202 @@
-playlist_id,channel_id,title,description,creation_date,total_videos
-PLf0swTFhTI8rA8t1Igqp6j6i62r-jvWgb,UCakdSIPsJqiOLqylgoYmwQg,Mastering Medium: A Guide to Writing and Publishing”,"This playlist is your ultimate guide to becoming a successful writer on Medium. Whether you’re just getting started or looking to refine your writing and publishing process, these videos will walk you through everything you need to know. From signing up and writing your first article to effectively crafting engaging content and understanding the publication process, we’ve got you covered. Learn how to build your presence, get your articles reviewed and published, and leverage Medium to share your ideas with the world. Perfect for beginners and aspiring writers!",2024-10-14T06:18:56Z,1
-PLf0swTFhTI8rCnpGTml8URzGG-QGxY0fE,UCakdSIPsJqiOLqylgoYmwQg,Master Apache Spark 3.x using Databricks Community Edition,"Welcome to our comprehensive video tutorial series aimed at helping you master Apache Spark 3.x using the Databricks Community Edition. This playlist is your ultimate guide to learning how Spark can revolutionize data handling, offering a mixture of theoretical knowledge and practical applications to enhance your data skills.
-
-Starting from the basics, we introduce you to Spark RDDs (Resilient Distributed Datasets), the fundamental building blocks of Spark applications. You’ll learn how to use RDDs to perform complex data operations in a distributed environment efficiently. Next, we’ll dive into the Dataframe APIs, which simplify data manipulation by offering powerful, high-level abstractions.
-
-We’ll also cover Spark SQL, a module for working with structured data. Here, you’ll discover how to seamlessly query data using SQL commands in Spark, making your data analysis tasks easier and more intuitive. For those interested in the latest advancements in Spark, our tutorials include sessions on Delta Lake, an open-source storage layer that brings reliability to data lakes. Delta Lake provides ACID transactions, scalable metadata handling, and unifies streaming and batch data processing.
-
-Continuing with cutting-edge features, our series explores Spark Structured Streaming, a scalable and fault-tolerant stream processing engine built on the Spark SQL engine. You’ll learn how to handle live data streams and make real-time data-driven decisions.
-
-Moreover, our playlist offers detailed guides on creating end-to-end applications for data pipelines. Whether you’re designing complex data transformation pipelines or building robust data integration solutions, these videos provide you with the tools and knowledge needed to succeed.
-
-Throughout this series, our focus is on clarity and practicality, ensuring that each tutorial is easy to follow and packed with useful insights. Whether you’re a beginner looking to get started in the world of big data, or an experienced professional aiming to deepen your expertise in Apache Spark, this playlist is designed to cater to all levels.
-
-Join us to transform your data into actionable insights and advance your career in data science and engineering. Don’t forget to subscribe and hit the notification bell to stay updated with the latest tutorials. 
-
-#LearnSpark #DataBricksCommunity #BigDataSimplified #SparkTutorial #DataEngineeringBasics #DataScienceLearning #RealTimeData #SparkStreaming",2024-07-02T23:22:39Z,0
-PLf0swTFhTI8oQNiY2ZTf81zvKB7-y3y4e,UCakdSIPsJqiOLqylgoYmwQg,PostgreSQL SQL Full Course: Beginner to Advanced Techniques,"Welcome to “PostgreSQL SQL Full Course: Beginner to Advanced Techniques,” a definitive learning series designed to take you from a novice to a proficient user of SQL using the powerful PostgreSQL database system. This playlist is your comprehensive guide to mastering all aspects of SQL, including data definition, manipulation, and query, along with advanced features like indexing, partitioning, and optimization.
-
-What You Will Learn:
-
-	•	Introduction to PostgreSQL: Get started with PostgreSQL, understand its architecture, and learn how to install and configure it on various platforms.
-	•	Basic SQL Operations: Dive into SQL basics with an emphasis on PostgreSQL. Learn how to create, modify, and manage databases using Data Definition Language (DDL).
-	•	Data Manipulation Techniques: Explore Data Manipulation Language (DML) to insert, update, delete, and manage data within your databases effectively.
-	•	Querying Data: Master Data Query Language (DQL) to retrieve data using complex SQL queries, including joins, subqueries, and common table expressions.
-	•	Indexes and Performance Tuning: Discover how to create and manage indexes to optimize query performance. Learn best practices for analyzing and tuning queries to ensure your applications run efficiently.
-	•	Database Design: Understand the principles of database design, normalization, and denormalization to structure your databases optimally.
-	•	Partitioning and Sharding: Explore advanced database architectures by learning about partitioning and sharding techniques for large-scale database management.
-	•	Practical Applications: Apply your skills through guided projects and real-world scenarios that enhance your problem-solving capabilities.
-
-Who Should Watch This Playlist?
-This playlist is tailored for students, IT professionals, software developers, and anyone eager to learn SQL using PostgreSQL. Whether you are starting your journey in database management or looking to deepen your existing SQL skills, this series offers valuable insights and practical knowledge.
-
-Why PostgreSQL?
-PostgreSQL is renowned for its robustness, feature-rich environment, and strong community support, making it an ideal learning platform for database enthusiasts and professionals. By the end of this series, you will not only be able to perform complex database tasks but also have a solid understanding of how databases work under the hood.
-
-Join us in “PostgreSQL SQL Full Course: Beginner to Advanced Techniques” to unlock your potential as a database expert. Subscribe to our channel and turn on notifications to stay updated with new uploads, and don’t forget to leave your questions and comments below each video. Your feedback helps us improve and tailor our content to your learning needs.
-
-Let’s embark on this journey together and transform your understanding and skills in SQL and PostgreSQL!
-
-#PostgreSQL #SQLTraining #DatabaseManagement #LearnSQL #TechTutorial #DataScience #Coding #BeginnerToExpert #SQLCourse #DatabaseOptimization",2024-06-26T15:46:08Z,92
-PLf0swTFhTI8rZRa5OzGpOu-Y2txIlVlCH,UCakdSIPsJqiOLqylgoYmwQg,Building Data Pipelines using DBT,,2024-06-25T16:09:56Z,1
-PLf0swTFhTI8qeHGtGE57P3ZxPaP0OKNPk,UCakdSIPsJqiOLqylgoYmwQg,SQL Interview Tips and Questions,"Master SQL for Technical Interviews with the ""SQL Interview Tips and Questions"" Playlist on ITVersity! 🌟
-
-Are you preparing for an SQL-heavy technical interview or looking to sharpen your SQL querying skills? This comprehensive playlist is designed specifically for you. From fundamental queries to complex problem-solving, we've got you covered with actionable tips and deep-dives into essential SQL topics.
-
-Features of this Playlist:
-
-Structured Learning Path: Begin with SQL basics and gradually advance to complex queries and optimizations.
-Real-World Examples: Learn how to approach common interview questions with practical, easy-to-understand solutions.
-Expert Guidance: Gain insights from professionals who know what top tech companies are looking for in candidates.
-
-🔔 Subscribe to ITVersity for more tech interview preparations, system design concepts, case studies, and much more. Equip yourself with the knowledge needed to succeed in today’s tech job market.
-
-Channel Link: https://www.youtube.com/itversityin?sub_confirmation=1
-
-💬 Feedback Wanted!
-Please share your thoughts after watching the videos. Your feedback drives our content, helping us to better meet your learning needs. Let us know what topics you found helpful and what you’d like us to cover in the future.
-
-📌 Hashtags: #SQLInterviews #TechJobs #DataManagement #ITVersity #CareerDevelopment #TechEducation
-
-👥 Engage and Grow: Connect with fellow tech enthusiasts in our community. Participate in discussions, polls, and quizzes. Enhance your learning experience by interacting with peers and experts.
-
-Thank you for choosing ITVersity as your partner in learning and career growth. Dive into the playlist and start transforming your SQL skills today!",2024-06-17T03:25:55Z,1
-PLf0swTFhTI8puXTkRCPxht7jgL731FxsF,UCakdSIPsJqiOLqylgoYmwQg,Udemy Resources,,2022-08-16T05:29:50Z,3
-PLf0swTFhTI8rWa0FlKjxjVdorLARMmZrX,UCakdSIPsJqiOLqylgoYmwQg,Linux Shell Commands for absolute beginners using Ubuntu 20.04,"Linux shell commands for absolute beginners such as students and IT professionals hands-on using real-time examples.
-
-Here are the high-level details of the Linux Commands that are covered as part of this hands-on course.
-
-* Basic Linux Commands
-* Listing files and folders in Linux File System using ls
-* Filtering files and folders in Linux File System
-* Processing Data in Files using Linux Commands
-* Understanding File and Folder Properties using Linux Commands
-* Managing Files and Folders in Linux
-* Basic System Commands in Linux
-* Comparing Files and Folders in Linux using diff
-* Variables and Environment Variables in Linux
-* Getting Started with AWS
-* Overview of SSH to interact with remote servers
-* Basic Networking Concepts using Linux
-* Copy Files and Folders between Multiple Systems using Linux Commands such as scp
-* Troubleshooting Application issues using commands such as  find and grep in Linux
-* Monitoring and Managing Linux Servers using System Commands
-* Overview of Developer Tools for Linux using Windows 
-* Overview of Ansible for Server Automation
-* Overview of Automation using Python on Linux",2022-05-11T19:28:37Z,19
-PLf0swTFhTI8p0EfYLeOYPu6T7MOK7ETI7,UCakdSIPsJqiOLqylgoYmwQg,Databricks Certified Associate Developer - Apache Spark 3.0 using Azure (Complete Playlist),"Welcome to our definitive tutorial series on mastering Apache Spark 3.0 with Databricks, tailored specifically for those preparing for the Databricks Certified Associate Developer exam using Microsoft Azure. This playlist is your ultimate guide to understanding and applying the powerful features of Apache Spark and Databricks in real-world data processing scenarios.
-
-Start with the basics of setting up your Databricks environment on Azure, and gradually delve into more complex topics including creating and manipulating Spark DataFrames using Python, Pandas, and PySpark. Learn essential techniques such as selecting, renaming, filtering, dropping, and sorting columns within DataFrames, as well as advanced data operations like aggregations, joins, and partitioning.
-
-Each tutorial is designed to build on the previous one, ensuring a comprehensive learning curve. We also cover the manipulation of columns and integration of Spark SQL functions for enhanced data querying and analytics. Additionally, gain insights into Spark's architecture and learn how to optimize your applications with Adaptive Query Execution for improved performance.
-
-Whether you are a beginner looking to get started with big data technologies or an experienced developer eager to enhance your skills in Apache Spark and Databricks, this series offers valuable content to help you achieve your goals. By the end of this series, you'll be well-equipped to handle large-scale data with efficiency and confidence, making you a valuable asset in the data-driven world.
-
-Perfect for data scientists, software developers, and IT professionals, these tutorials not only prepare you for certification but also equip you with the knowledge to apply these skills in your projects or at your workplace. Dive into our tutorials and transform your understanding and capabilities in data processing with Apache Spark and Databricks!",2022-03-26T15:56:30Z,15
-PLf0swTFhTI8p5g_4QtmZjtVtU0vL5MBJ0,UCakdSIPsJqiOLqylgoYmwQg,Building Machine Learning Models using Python Series (recordings of live sessions),,2022-03-02T02:33:00Z,2
-PLf0swTFhTI8qo4G7NiwG-X8uTsUPtoQ0a,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering using Databricks - Deep Dive into Databricks Features on Cloud using AWS as well as Azure,"FULL COURSE WITH SUPPORT ON UDEMY:
-🔴Data Engineering using Databricks features on AWS and Azure:
-🔗 https://www.udemy.com/course/data-engineering-using-databricks-on-aws-and-azure/?referralCode=EEA8219E6538F56E3B5B
-
-As part of this Data Engineering using Databricks - Deep Dive into Databricks Features playlist we will be deep-diving into the
-
-* Getting Started with Databricks on Azure
-* Setup Azure CLI and Manage ADLS Containers as well as files using Azure CLI
-* Mount ADLS Container on to Azure Databricks Clusters or Environment
-* Delta lake using Pyspark Data Frames
-* Delta lake using Spark SQL
-* Overview of Databricks SQL Clusters",2022-02-12T13:00:48Z,6
-PLf0swTFhTI8rBHpmJ0y1jhpMW1_fqTl3f,UCakdSIPsJqiOLqylgoYmwQg,Section 033 - Apache Spark using Python - Data Processing Overview,"In this module we will learn about Data Processing Overview. Below are the following topics covered in this module.
-
-Starting Spark Context - Pyspark
-Overview of Spark Read APIs
-Understanding airlines data
-Inferring Schema
-Previewing Airlines Data
-Overview of Data Frame APIs
-Overview of Functions
-Overview of Spark Write APIs",2022-01-04T16:36:01Z,8
-PLf0swTFhTI8q7WBSxGhFyt15H6NcvAVIU,UCakdSIPsJqiOLqylgoYmwQg,Section 032 - Data Engineering using Spark SQL - Windowing Functions,"In this module we will learn about Spark SQL - Windowing Functions. Below are the following topics covered in this module.
-
-Introduction - Windowing Functions
-Prepare HR Database
-Overview of Windowing Functions
-Aggregations using Windowing Functions
-Using LEAD or LAG
-Getting first and last values
-Ranking using Windowing Functions
-Order of execution of SQL.cmproj
-Overview of Subqueries
-Filtering Windowing Function Results",2022-01-04T16:27:29Z,10
-PLf0swTFhTI8rZVCKvu19nOjRey7ZSFEPI,UCakdSIPsJqiOLqylgoYmwQg,Section 038 - Apache Spark using Python - Development Life Cycle using Python,"In this module we will learn about the development of data engineering pipeline using spark. Below are the following topics covered in this module.
-
-Setup Virtual Environment and Install Pyspark
-Getting Started with Pycharm
-Passing Run Time Arguments
-Accessing OS Environment Variables
-Getting Started with Spark
-Create Function for Spark Session
-Setup Sample Data
-Read Data from Files
-Process Data using Spark APIs
-Write Data to Files
-Validating Writing Data to Files
-Productionizing the Code
-Setting up Data for Production Validation
-Running Application using YARN
-Detailed Validation of the Application",2021-12-31T13:50:32Z,15
-PLf0swTFhTI8o2QERCE5SCNySlCIJtFZh1,UCakdSIPsJqiOLqylgoYmwQg,Section 037 - Apache Spark using Python - Spark Metastore,"In this module we will get an overview of Spark Metastore and how we can leverage it to manage databases and tables on top of Big Data based file systems such as HDFS, s3 etc. Below are the following topics covered in this module.
-
-Overview of Spark Metastore
-Exploring Spark Catalog
-Creating Metastore Tables using catalog
-Inferring Schema for Tables
-Define Schema for Tables using StructType
-Inserting into Existing Tables
-Read and Process data from Metastore Tables
-Create Partitioned Tables
-Saving as Partitioned Table
-Creating Temporary Views
-Using Spark SQL",2021-12-31T13:40:14Z,11
-PLf0swTFhTI8owtKU0z8CABANjXa5PnF05,UCakdSIPsJqiOLqylgoYmwQg,Section 036 - Apache Spark using Python - Joining Data Sets,"""In this module we will learn about Joining Datasets using Spark. Below are the following topics covered in this module.
-Prepare Datasets for Joins
-Analyze Datasets for Joins
-Problem Statements for Joins
-Overview of Joins
-Using Inner Joins
-Left or Right Outer Join
-Solution - Get Flight Count Per US Airport
-Solution - Get Flight Count Per US State
-Solution - Get Dormant US Airports
-Solution - Get Origins without master data
-Solution - Get Count of Flights without master data
-Solution - Get Count of Flights per Airport without master data
-Solution - Get Daily Revenue
-Solution - Get Daily Revenue rolled up till Yearly""",2021-12-31T13:06:50Z,14
-PLf0swTFhTI8qnp6jJ5IOzVLpKqX3bsqhs,UCakdSIPsJqiOLqylgoYmwQg,Section 035 - Apache Spark using Python - Basic Transformations,"In this module we will learn about Basic Transformations in Spark. Below are the following topics covered in this module.
-
-Overview of Basic Transformations
-Data Frames for basic transformations
-Basic Filtering of Data
-Filtering Example using dates
-Boolean Operators
-Using IN Operator or isin Function
-Using LIKE Operator or like Function
-Using BETWEEN Operator
-Dealing with Nulls while Filtering
-Total Aggregations
-Aggregate data using groupBy
-Aggregate data using rollup
-Aggregate data using cube.cmproj
-Overview of Sorting Data Frames
-Solution - Problem 1 - Get Total Aggregations
-Solution - Problem 2 - Get Total Aggregations By FlightDate",2021-12-31T12:35:44Z,16
-PLf0swTFhTI8rHFnqaSzKc7kx37PFt61CV,UCakdSIPsJqiOLqylgoYmwQg,Section 034 - Apache Spark using Python - Processing Column Data,"In this section we will get an overview of Predefined Functions in Spark. Below are the following topics covered in this module.
-
-Overview of Predefined Functions in Spark
-Create Dummy Data Frame
-Categories of Functions
-Special Functions - col and lit
-Common String Manipulation Functions
-Extracting Strings using substring
-Extracting Strings using split
-Padding Characters around Strings
-Trimming Characters from Strings
-Date and Time Manipulation Functions
-Date and Time Arithmetic
-Using Date and Time Trunc Functions
-Date and Time Extract Functions
-Using to_date and to_timestamp
-Using date_format Function
-Dealing with Unix Timestamp
-Dealing with Nulls
-Using CASE and WHEN",2021-12-31T12:05:17Z,18
-PLf0swTFhTI8q902mY30MeE2E2ASxRllK2,UCakdSIPsJqiOLqylgoYmwQg,Section 031 - Data Engineering using Spark SQL - Overview of Spark SQL Functions,"In this module let us get an overview of Spark SQL Functions. Below are the following topics covered in this module.
-
-Introduction - Overview of Spark SQL Functions
-Overview of Functions
-Validating Functions
-String Manipulation Functions
-Date Manipulation Functions
-Overview of Numeric Functions
-Data Type Conversion
-Dealing with Nulls
-Using CASE and WHEN
-Query Example - Word Count",2021-12-31T11:19:00Z,10
-PLf0swTFhTI8rOjNTDL5U9g9srd3UVaSOO,UCakdSIPsJqiOLqylgoYmwQg,Section 030 - Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,"In this module we will learn about Managing Tables - DML and Partitioning. Below are the following topics covered in this module.
-
-Introduction - Managing Tables - DML and Partitioning
-Introduction to Partitioning
-Creating Tables using Parquet
-Load vs Insert
-Inserting Data using Stage Table
-Creating Partitioned Tables
-Adding Partitions to Tables
-Loading Data into Partitioned Tables
-Inserting Data into Partitions
-Using Dynamic Partition Mode
-Exercise - Partitioned Tables",2021-12-31T10:58:45Z,11
-PLf0swTFhTI8qzDkGaAFv9USzTstd3PXKU,UCakdSIPsJqiOLqylgoYmwQg,Section 029 - Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,"In this module we will learn about Managing Tables - DDL and DML. Below are the following topics covered in this module.
-
-Create Spark Metastore Tables
-Overview of Data Types
-Adding Comments
-Loading Data Into Tables - Local
-Loading Data Into Tables - HDFS
-Loading Data - Append and Overwrite
-Creating External Tables
-Managed Tables vs External Tables
-Overview of File Formats
-Drop Tables and Databases
-Truncating Tables
-Exercise - Managed Tables
-Introduction - Managing Tables - DML and Partitioning
-Introduction to Partitioning
-Creating Tables using Parquet
-Load vs Insert
-Inserting Data using Stage Table
-Creating Partitioned Tables
-Adding Partitions to Tables
-Loading Data into Partitioned Tables
-Inserting Data into Partitions
-Using Dynamic Partition Mode
-Exercise - Partitioned Tables",2021-12-31T10:42:58Z,13
-PLf0swTFhTI8qszjfS4NGUF0_-B2wYLs52,UCakdSIPsJqiOLqylgoYmwQg,Section 028 - Data Engineering using Spark SQL - Basic Transformations,"In this module we will learn about Basic Transformations using Spark SQL. Below are the following topics covered in this module.
-
-Basic Transformations - Introduction
-Spark SQL - Overview
-Define Problem Statement
-Prepare Tables
-Projecting Data
-Filtering Data
-Joining Tables - Inner
-Joining Tables - Outer
-Aggregation Data
-Sorting Data
-Conclusion - Final Solution",2021-12-31T10:33:06Z,11
-PLf0swTFhTI8oQ-OWLFkyBhFlRncauK1E-,UCakdSIPsJqiOLqylgoYmwQg,Section 027 - Data Engineering using Spark SQL - Getting Started,"In this module we will get started with Spark SQL. Below are the following topics covered in this module.
-
-Getting Started - Overview
-Overview of Spark Documentation
-Launching and using Spark SQL CLI
-Overview of Spark sql properties
-Running OS Commands using Spark SQL
-Understanding Warehouse Directory
-Managing Spark Metastore Databases
-Managing Spark Metastore Tables
-Retrieve Metadata of Tables
-Role of Spark Metastore or Hive Metastore
-Exercise - Getting Started with Spark SQL",2021-12-31T10:23:23Z,11
-PLf0swTFhTI8rAX1_VRSVa500fnIRDmcWT,UCakdSIPsJqiOLqylgoYmwQg,Section 026 - Introduction to Hadoop eco system - Overview of HDFS,"In this module we will learn about Hadoop Ecosystem - Overview of HDFS. Below are the following topics covered in this module.
-
-Getting help or usage
-Listing HDFS Files
-Managing HDFS Directories
-Copying files from local to HDFS
-Copying files from HDFS to local
-Getting Files Metadata
-Previewing Data in HDFS Files
-HDFS Block Size
-HDFS Replication Factor
-Getting HDFS Storage Usage
-Using HDFS Stat Commands
-HDFS File Permissions
-Overriding Properties",2021-12-31T10:11:04Z,13
-PLf0swTFhTI8qZ4m-7jZphBG2nXD8bhLk6,UCakdSIPsJqiOLqylgoYmwQg,Section 025 - Big Data ecosystem - Setup Hive and Spark on Single Node Cluster,"In this module we will learn how to Setup Hive and Spark on Single Node Cluster. Below are the following topics covered in this module.
-
-Setup Data Sets for Practice
-Download and Install Hive
-Setup Database for Hive Metastore
-Configure and Setup Hive Metastore
-Launch and Validate Hive
-Scripts to Manage Single Node Cluster
-Download and Install Spark 2
-Configure Spark 2
-Validate Spark 2 using CLIs
-Validate Jupyter Lab Setup
-Intergrate Spark 2 with Jupyter Lab
-Download and Install Spark 3
-Configure Spark 3
-Validate Spark 3 using CLIs
-Intergrate Spark 3 with Jupyter Lab",2021-12-31T08:43:48Z,15
-PLf0swTFhTI8q2pJKnoFfZrXK590l1UKy9,UCakdSIPsJqiOLqylgoYmwQg,Section 024 - Big Data ecosystem - Setup Hadoop on Single Node Cluster,"In this module we will learn how to Setup Hadoop on Single Node Cluster. Below are the following topics covered in this module.
-
-Introduction to Single Node Hadoop Cluster
-Setup Prerequisties
-Setup Password less login
-Download and Install Hadoop
-Configure Hadoop HDFS
-Start and Validate HDFS
-Configure Hadoop YARN
-Start and Validate YARN
-Managing Single Node Hadoop",2021-12-31T08:34:00Z,9
-PLf0swTFhTI8pDr_1bLCaiBp9rOzlT8Md9,UCakdSIPsJqiOLqylgoYmwQg,Section 023 - Programming Essentials using Python - Database Programming - Batch Operations,"In this module we will learn about Batch Operations. Below are the following topics covered in this module.
-
-Recap of Insert
-Preparing Database
-Reading Data From File
-Batch Loading of Data
-Best Practices Batch Loading",2021-12-31T08:28:22Z,5
-PLf0swTFhTI8p9EXJzcVhHtgrYXv8RIwfW,UCakdSIPsJqiOLqylgoYmwQg,Section 022 - Programming Essentials using Python - Database Programming - CRUD Operations,"In this module we will learn about CRUD Operations - Database Programming using Python. Below are the following topics covered in this module.
-
-Overview of Data Programming
-Recap of RDBMS Concepts
-Setup Database Client Libraries
-Function Get Database Connection
-Create Database Table
-Inserting Data into Table
-Updating Existing Table Data
-Deleting Data From Table
-Querying Data From Table
-Recap - CRUD Operations",2021-12-31T08:13:04Z,10
-PLf0swTFhTI8ryxuW3kiSOtR_SpjX6RvOx,UCakdSIPsJqiOLqylgoYmwQg,Section 021 - Programming Essentials using Python - Overview of Pandas Libraries,"In this module we will learn about Pandas Libraries. Below are the following topics covered in this module.
-
-Pandas data-structure
-overview series
-Data Frames
-Total aggregation
-Grouped aggregation
-Writing and joining data frames",2021-12-31T07:47:05Z,10
-PLf0swTFhTI8o-Mp_7XKP0tvNQH58n5jxj,UCakdSIPsJqiOLqylgoYmwQg,Section 020 - Programming Essentials using Python - Understanding Map Reduce Libraries,"In this module we will learn about Map Reduce Libraries. Below are the following topics covered in this module.
-
-Preparing datasets
-Filtering data 
-Projecting data
-Row level transformation using map",2021-12-31T07:37:03Z,4
-PLf0swTFhTI8qWjbW0ZHN1bxEI3XhhYnda,UCakdSIPsJqiOLqylgoYmwQg,Section 019 - Programming Essentials using Python - Manipulating Collections using loops,"In this module we will learn about Manipulating Collections using loops.
-
-Reading Files into Collections
-Overview of Standard Transformations
-Row Level Transformations
-Getting Unique Elements
-Filtering Data
-Preparing Data Sets
-Quick recap of dict operations
-Performing Total Aggregations
-Joining Data Sets
-Limitations of using loops",2021-12-31T07:23:17Z,10
-PLf0swTFhTI8qfzZRxJGY2IM7sfk1KbVDv,UCakdSIPsJqiOLqylgoYmwQg,Section 018 - Programming Essentials using Python - Overview of Collections - dict and tuple,"In this section we will get an overview of dict and tuple. Below are the following topics covered in this module.
-
-Overview of dict and tuple
-Common Operations - dict and tuple
-Accessing Elements - tuples
-Accessing Elements - dict
-Manipulating dict
-Common Examples - dict
-List of Tuples
-List of dicts",2021-12-31T07:07:40Z,8
-PLf0swTFhTI8qKi4vinmYGFseNqUccOKBi,UCakdSIPsJqiOLqylgoYmwQg,Section 017 - Programming Essentials using Python - Overview of Collections - list and set,"Let us get an overview of list and set as part of the Python Collections. Below are the following topics covered in this module.
-
-Overview of list and set
-Common Operations
-Accessing Elements from Lists
-Adding Elements to list
-Updating and Deleting Elements - list
-Other list operations
-Adding and Deleting elements - set
-Typical set operations
-Validating set
-list and set - Usage",2021-12-31T06:36:34Z,10
-PLf0swTFhTI8qdciIijBo8IIQqEyO4mYyc,UCakdSIPsJqiOLqylgoYmwQg,Section 016 - Programming Essentials using Python - User Defined Functions,"In this module we will learn about User defined functions along with exercises. Below are the following topics covered in this module.
-
-Defining Functions
-Doc Strings
-Returning Values
-Function Parameters and Arguinents
-Varrying Arguments
-Keyword Arguments
-Passing Functions as Arguments
-Lambda Functions
-Usage of Lambda Functions
-Exercise",2021-12-17T16:22:19Z,12
-PLf0swTFhTI8rnhaSGZIR1arDMy7z951CK,UCakdSIPsJqiOLqylgoYmwQg,Section 015 - Programming Essentials using Python - Predefined Functions,"Let us get an overview of Pre-defined Functions using python. In this module we will learn about the following.
-
-Overview of Predefined Functions
-Numeric Functions
-Overview of Strings
-String Manipulation Functions
-Formatting Strings
-Print and Input Functions
-Date Manipulation Functions",2021-12-17T16:11:59Z,7
-PLf0swTFhTI8qbGQThd7sdQEWgPw5_8IDj,UCakdSIPsJqiOLqylgoYmwQg,Section 014 - Programming Essentials using Python - Basic Programming Constructs,"In this module we will learn about Basic Programming Constructs. Below are the following topics covered in this module.
-
-Getting Help
-Variables and Objects
-Data Type - Commonly Used
-Operators in Python
-Tasks - Data Types and Operators
-Conditionals
-All about for loops
-Running os commands",2021-12-16T17:40:51Z,8
-PLf0swTFhTI8pa2C4dihwYvhNMU6-kX8qN,UCakdSIPsJqiOLqylgoYmwQg,Section 013 - Programming Essentials using Python - Getting Started with Python,"In this section we will learn how to get started with Python. Below are the following topics covered in this module. 
-
-Installing Python on windows
-Overview of Anaconda
-Overview Jupyter Notebook and Lab
-Using IDEs - Pycharm and VS code and Google Colab
-Using ITVersity Labs
-Leveraging Google Colab",2021-12-15T15:00:13Z,8
-PLf0swTFhTI8oL_jsMjiDcAFF2JtOsOZ1Q,UCakdSIPsJqiOLqylgoYmwQg,Section 012 - Programming Essentials using Python - Perform Database Operations,"In this module we will perform basic database operations in Postgres. This is just to get started and advanced concepts will be covered as part of other courses.
-
-Overview of SQL
-Create Database and Users Table
-DOL-Data Definition Language
-DML-Data Manipulation Language
-DQL-Data Query Language
-CRUD Operations-DML and DQL
-TCL-Transaction Control Language
-Example-Data Engineering
-Example-Web Application
-Exercise-Database Operations",2021-12-14T15:48:20Z,11
-PLf0swTFhTI8pkpSgVrAyJXgSH9e3ySGEu,UCakdSIPsJqiOLqylgoYmwQg,Section 011 - Database Essentials using Postgres - Writing Advanced SQL Queries,"In this module we will learn how to Write Advanced SQl Queries. Below are the following topics covered in this module.
-
-Overview of views
-Named Queries
-Sub Queries
-CTAS
-Advance DML Operation
-Merging Data
-Pivoting Rows
-Overview of Analytic Functions
-Analytic Functions - Aggregations
-Cumulative or Moving Aggregations
-Analytic Functions - Windowing
-Analytic Functions - Ranking
-Analytic Functions - Filtering
-Ranking and Filtering - Recap",2021-12-13T15:34:44Z,14
-PLf0swTFhTI8o01Lh0ywX68-xzSGIghvQE,UCakdSIPsJqiOLqylgoYmwQg,Section 010 - Database Essentials using Postgres - Predefined Functions,"In this module we will learn about Predefined Functions. Below are the following topics covered in this module.
-
-String Manipulation Functions
-Case Conversion and Length
-Extracting Data - Using substr and split_part
-Using position or strpos
-Trimming and Padding Functions
-Reverse and Concatenate Multiple Strings
-String Replacement
-Date Manipulation Functions
-Getting Current Date or Timestamp
-Date Arithmetic
-Beginning Date or Time using date_trunc
-Using to_char and to_date
-Extracting Information using extract
-Dealing with Unix Timestamp or epoch
-Overview of Numeric Functions
-Data Type Conversion
-Handling NULL Values
-Using CASE and WHEN",2021-12-13T10:56:35Z,19
-PLf0swTFhTI8plB12vCFR1qYZpDN3X05CY,UCakdSIPsJqiOLqylgoYmwQg,Section 009 - Database Essentials using Postgres - Partitioning Tables and Indexes,"In this module we will learn about Partitioning tables and Indexes. Below are the following topics covered in this module.
-
-Overview of Partitioning
-List Partitioning
-Managing Partitions - List
-Manipulating Data
-Range Partitioning
-Managing Partitions - Range
-Repartitioning - Range
-Hash Partitioning
-Managing Partitions - Hash
-Usage Scenarios
-Sub Partitioning
-Exercise - Partitioned Tables",2021-12-05T03:15:42Z,12
-PLf0swTFhTI8pKFYyMn1Q1TmGJFquTfFXQ,UCakdSIPsJqiOLqylgoYmwQg,Section 008 - Database Essentials using Postgres,"In this module we will learn about Creating Tables and Indexes. Below are the following topics covered in this module.
-
-DDL - Data Definition Language
-Overview of Data Types
-Adding or Modifying Columns
-Different Type of Constraints
-Managing Constraints
-Indexes on Tables
-Indexes for Constraints
-Overview of Sequences
-Truncating Tables
-Dropping Tables",2021-11-28T14:26:11Z,10
-PLf0swTFhTI8pJ13QTvxqxNMpZXSYArf_U,UCakdSIPsJqiOLqylgoYmwQg,Section 007 - Database Essentials using Postgres - Writing Basic SQL Queries,,2021-11-20T13:33:34Z,12
-PLf0swTFhTI8rCM7Y3l3p-nUMj4nVEBvbY,UCakdSIPsJqiOLqylgoYmwQg,Section 006 - Database Essentials using Postgres - Database Operations,"In this module we will go through the Database Operations. They are broadly categorised into the following:
-
-CRUD Operations
-Creating Table
-Inserting Data
-Updating Data
-Deleting Data
-Transactions",2021-11-12T15:29:34Z,8
-PLf0swTFhTI8pCEKy0WjPUSgtOxAs_qPYk,UCakdSIPsJqiOLqylgoYmwQg,Section 005 - Database Essentials using Postgres - Getting Started,"""Let us get started with Postgres. In this module we will learn about the following:
-Connecting to Database
-Using psql
-Setup Postgres using Docker
-Setup SQL Workbench
-SQL Workbench and Postgres
-SQL Workbench Features
-Data Loading Utilities
-Loading Data - Docker""",2021-11-05T17:01:36Z,8
-PLf0swTFhTI8q3xE87-EvjnMveAEZfuIIC,UCakdSIPsJqiOLqylgoYmwQg,Section 004 - Setting up Environment - Setup Postgres Database on Ubuntu VM,"""In this module we will learn to setup Postgresql Environment. Below are the topic covered in this module.
-Introduction - Setup Postgres Database
-Setup Postgres using Docker
-Docker Cheat Sheet
-Accessing Postgres using Docker CLI
-Create Database and User
-Execute SQL Scripts
-SQL Workbench and Postgres
-Jupyter Lab and Postgresql on local systems such as Mac
-Jupyter Lab and Postgresql using Ubuntu VM""",2021-10-29T10:16:34Z,9
-PLf0swTFhTI8p1WpFLLWJxVcWoB-IB98Dv,UCakdSIPsJqiOLqylgoYmwQg,Section 003 - Setting up Environment - Overview of GCP and Provision Ubuntu VM,"In this module we will get an overview of GCP and about Provision Ubuntu VM. Below are the following topics covered.
-
-Signing up for GCP
-Overview of GCP Web Console
-Overview of GCP Pricing
-Provision Ubuntu VM from GCP
-Setup Docker
-Validating Python
-Setup Jupyter Lab",2021-10-21T07:25:16Z,7
-PLf0swTFhTI8pRV9DDzae2o1m-cqe5PtJ2,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Pipeline using Python and Airflow,"As part of this playlist you will learn complete data pipeline lifecycle using Python and Airflow.
-
-You will also understand few details related to Pycharm as IDE for application development using Python as well as using Git for code versioning.
-
-* Setup Project and Develop Program to read table list
-* Develop required functionality to read the data
-* Troubleshooting development environment issues for Python based Data Pipelines
-* Develop functionality to write data into target table
-* Setting up AirFlow and some of the key concepts
-* Logging and Scheduling Concepts and implementation using Python
-* Airflow DAGs for Wokflow or Pipeline as well as Scheduling using Airflow
-* Data Pipeline Orchestration using Airflow DAGs
-* Using Docker Operator as part of Airflow DAGs",2021-10-13T16:17:17Z,9
-PLf0swTFhTI8qOlvqmI6VyJubSt_jZRGku,UCakdSIPsJqiOLqylgoYmwQg,Section 002 - Setting up Environment using AWS Cloud9,"In this module we will learn about setting up Environment using AWS Cloud9. Below are following to topics covered.
-Getting Started with Cloud9
-Creating Cloud9 Environment
-Warming up with Cloud9 IDE
-Details about material to setup postgres database using docker
-Overview of EC2 related to Cloud9
-Opening ports for Cloud9 Instance
-Associating Elastic IPs to Cloud9 Instance
-Increase EBS Volume Size of Cloud9 Instance
-Setup Jupyter Lab on Cloud9
-[Commands] Setup Jupyter Lab on Cloud9",2021-10-08T17:00:33Z,9
-PLf0swTFhTI8oRM0Qv2UGijAkeGZDqs-xF,UCakdSIPsJqiOLqylgoYmwQg,"Data Engineering Essentials using Spark, Python and SQL","Data Engineering Essentials using Spark, Python and SQL YouTube playlist details:
-FULL COURSE WITH SUPPORT on udemy:
-🔴Data Engineering Essentials Hands-on - SQL, Python and Spark:
-🔗https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/?referralCode=EEF55B4668DA42F6154D
-
-As part of this playlist, you will be learning Data Engineering Essentials such as SQL, Programming using Python and Spark. Here is the detailed agenda for the course.  Data Engineering Labs - Python and SQL  You will start with setting up self-support Data Engineering Labs either on GCP or Cloud9 so that you can learn the key skills related to Data Engineering with a lot of practice leveraging tasks and exercises provided by us.
-
-Keywords for this playlist:
-
-""data engineering courses""
-""data engineering interview questions""
-""data engineering""
-""data engineering jobs""
-""data engineering skills""
-""data engineering certification""
-""data engineering tools""
-""big data engineering""
-""python for data engineering""
-""azure data engineering""
-""best data engineering courses""
-""coursera data engineering""
-""reddit data engineering""
-""learn data engineering""
-""data science and data engineering""
-""knowledge and data engineering""
-""data flow diagram in software engineering""
-""data science vs software engineering""
-""data dictionary in software engineering""
-""data science engineering""
-""data driven science and engineering""
-""data design in software engineering""
-""data modeling concepts in software engineering""
-""data analysis in engineering""
-data engineering roadmap
-Example of data engineering",2021-10-01T16:17:15Z,402
-PLf0swTFhTI8qnYQf5hKVNJLNsN194d9rS,UCakdSIPsJqiOLqylgoYmwQg,Section 001 - Introduction about the course,"In this module we will understand about the Course, Desired Audience, Pre-requisites, Training Approach and Overview of Environment.",2021-10-01T15:22:36Z,6
-PLf0swTFhTI8pWSHIHxl8fLp21ggMrIMg8,UCakdSIPsJqiOLqylgoYmwQg,ITVersity - All live Sessions,,2021-09-18T15:05:49Z,6
-PLf0swTFhTI8o-9Ix2eeR2Xnr1a-Pw8lxS,UCakdSIPsJqiOLqylgoYmwQg,Free Python and SQL Hands On Training for fresh graduates (July 2021),,2021-07-31T15:20:51Z,3
-PLf0swTFhTI8ouplAD9T0tWc895R80Qhj-,UCakdSIPsJqiOLqylgoYmwQg,Python Practice Tests - Self Assessments for professionals as well as Technical Screening for recruiters,,2021-07-20T06:17:33Z,1
-PLf0swTFhTI8qMc4aL8jFqnPODItCxz9ax,UCakdSIPsJqiOLqylgoYmwQg,Python and Data Engineering Bootcamp Program - 2021 August,"As part of this playlist, we are going to cover the tasks that are supposed to be performed before starting our actual training program.
-
- This playlist is for the August batch and we will cover all aspects to be comfortable as part of the program.
-
-* Understanding Configuration of the system
-* Self assess the typing speed
-* Setup Windows PC for effective training
-* Make yourself comfortable with the training platform
-* Use tools such as Slack to seek expert support from us
-* Be comfortable while communicating with support staff using tools like snipper, markdown, etc.
-
-If you are watching this playlist and not part of our August 2021 batch and interested to be part of our programs, feel free to fill this form for our upcoming programs.
-
-https://docs.google.com/forms/d/1GeVEzkBnx5la4-BSndWv8ijPGtsr67Cvto54L9a-I00/",2021-06-28T11:55:39Z,20
-PLf0swTFhTI8qbQ5pF9VacNUPZcoMWlgG4,UCakdSIPsJqiOLqylgoYmwQg,Python and Data Engineering Bootcamp Program - 2021 July,"As part of this playlist, we are going to cover the tasks that are supposed to be performed before starting our actual training program.
-
- This playlist is for the July batch and we will cover all aspects to be comfortable as part of the program.
-
-* Understanding Configuration of the system
-* Self assess the typing speed
-* Setup Windows PC for effective training
-* Make yourself comfortable with the training platform
-* Use tools such as Slack to seek expert support from us
-* Be comfortable while communicating with support staff using tools like snipper, markdown etc.
-
-If you are watching this playlist and not part of our July 2021 batch and interested to be part of our programs, feel free to fill this form for our upcoming programs.
-
-https://docs.google.com/forms/d/1GeVEzkBnx5la4-BSndWv8ijPGtsr67Cvto54L9a-I00/",2021-06-14T23:31:19Z,20
-PLf0swTFhTI8ov46uXlJnsGp6NucjxgL9W,UCakdSIPsJqiOLqylgoYmwQg,ITVersity Trainings - Support Sessions and Demos,,2021-06-02T12:03:40Z,2
-PLf0swTFhTI8o5Lb5yw1aDtvVJ8Wo4Lpm-,UCakdSIPsJqiOLqylgoYmwQg,"Getting Started with ITVersity's Data Engineering Labs - Hadoop, Spark and Kafka on multi node cluster",This playlist is primarily to provide a starter kit for our lab customers. It will cover how to get started using Big Data or Data Engineering labs provided by ITVersity.,2021-03-15T12:43:12Z,8
-PLf0swTFhTI8rkH4yIfoyTAheEGjWIRtPG,UCakdSIPsJqiOLqylgoYmwQg,Mastering Python - A Comprehensive Python Course for beginners and experienced developers,"This course is primarily designed to learn Python as Programming language to build web or mobile applications, data engineering applications, automation etc.
-
-You can access the code and material along with the videos over https://python.itversity.com
-
-About Python
-
-Python is one of the leading programming language. It is an open source database and used for different types of applications.
-
-* Web Applications
-* Mobile Applications
-* Data Engineering Applications
-* Server Automation
-* Troubleshooting and Debugging
-* Quality Assurance
-* Data Science based Applications
-and many many more
-
-It is one of the top 3 programming languages for almost a decade now along with Java and Java Script.
-
-Course Details
-
-This course is primarily designed to go through core programming using Python. It will serve as foundation for role specific courses for different types of IT Professionals or Roles. As part of this course you will be learning the following topics under core programming using Python. We are actively working on creating content. Content creation for 80% of the below modules is already done. We are in the process of video editing so that we can publish the content as part of this course.
-
-* Overview of GCP and Setup Ubuntu VM
-* Setup Postgres DB using Docker
-* Postgres Database Operations - Basic DDL and DML
-* Getting Started with Python
-* Basic Programming Constructs
-* Pre Defined Functions
-* User Defined Functions
-* Overview of Collections - list and set
-* Overview of Collections - dict and tuple
-* Manipulating Collections using loops
-* Overview of Map Reduce Libraries
-* Overview of Pandas Libraries
-* Database Programming - CRUD Operations
-* Database Programming - Batch Operations
-* Desired Audience
-
-Here are the desired audience for this course.
-
-* College students and entry level professionals to get hands on expertise with respect to programming using Python to be prepared for the interviews.
-* Experienced application developers to understand key aspects of Python Programming to build Python based Web or Mobile Applications.
-* Data Engineers and Data Warehouse Developers to understand key aspects of Python Programming to build batch or streaming pipelines.
-* Testers to improve their scripting abilities to validate data in the files tables etc.
-* DevOps Engineers, System Administrators, Database Administrators etc to understand Python as scripting language for the automation of day to day tasks.
-* Data Scientists to be proficient in Python Programming to build the models.
-
-This course only covers Fundamentals of Python which is useful for almost all the hands on technical roles. It does not include the role specific libraries.
-
-Prerequisites
-
-Here are the prerequisites before signing up for the course.
-
-Logistics
-* Computer with decent configuration
-* At least 4 GB RAM
-* 8 GB RAM is highly desired
-* Browser such as Chrome, Internet Explorer, Firefox etc.
-( High Speed Internet
-
-Desired Skills
-
-* Engineering or Science Degree
-* Ability to use computer
-* Knowledge or working experience with programming is highly desired
-
-Training Approach
-
-Here are the details related to the training approach.
-
-* It is self paced with reference material, code snippets and videos.
-* One can either use environment provided by us or setup their own environment using GCP and Docker.
-* Modules will be published as and when they are ready. We would recommend to complete 2 modules every week by spending 4 to 5 hours per week.
-
-It is highly recommended to take care of the exercises at the end to ensure that you are able to meet all the key objectives for each module.
-* Support will be provided either through chat or email.
-* Spend 4 to 5 hours per week up to 8 weeks and complete all the exercises to get best out of this course.
-
-Self Evaluation
-
-The course is designed in such a way that one can self evaluate through the course and confirm whether the skills are acquired.
-
-Here is the approach we recommend you to take this course.
-
-Go through the consolidated exercises and see if you are able to solve the problems or not.
-
-Make sure to follow the order we have defined as part of the course.
-
-After each and every section or module, make sure to solve the exercises. We have provided enough information to validate the output of your queries.
-
-After the completion of the course try to solve the exercises using consolidated list.
-
-Keep in mind that you will be reviewing the same exercises before the course, during the course as well as at the end of the course.
-
-By the end of the course, if you are able to solve the problems, then you can come to a conclusion that you are able to master the core programming using one of the most popular programming language called as Python.
-
-#MasteringPython #PythonProgramming #LearningPython #PythonLanguage #PythonFromZeroToHero",2020-12-21T13:06:58Z,128
-PLf0swTFhTI8qOGXb3e6BmqHGQ-tnsP51q,UCakdSIPsJqiOLqylgoYmwQg,Setup hands on lab on Ubuntu 18.04 VM on GCP using Docker to learn Python and SQL,"Let us understand how to setup labs on Ubuntu 18.04 based VM provisioned from GCP using Docker to learn Python and SQL.
-
-As part of this series you will learn the following:
-* Get an overview of GCP including billing.
-* Provision Ubuntu 18.04 VM.
-* Install Docker on Ubuntu VM.
-* Validate Python and install tools such as pip and vent
-* Setup and validate Jupyter Lab
-* Understand GCP firewalls to access Jupyter Lab
-* Understand basics of Docker images and containers
-* Setup Postgres using Docker to practice SQL
-
-Once you go through this playlist and setup environment, you can go through other courses.
-
-* Mastering SQL using Postgresql - https://www.youtube.com/playlist?list=PLf0swTFhTI8p2yirPMTUhJ2xzuQhhUTwY",2020-11-28T16:27:11Z,17
-PLf0swTFhTI8p2yirPMTUhJ2xzuQhhUTwY,UCakdSIPsJqiOLqylgoYmwQg,Mastering SQL using Postgresql using ITVersity Labs,"As part of this series, we have covered all the aspects for you be expert in writing SQL Queries.",2020-11-09T14:01:09Z,86
-PLf0swTFhTI8re8tJLnJ-ny68yXE8OfJH5,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark using SQL,As part of this course we are going to cover all important aspects of Apache Spark using SQL.,2020-10-30T13:48:58Z,66
-PLf0swTFhTI8o_okwmgBvxZD8-GeVCdAEq,UCakdSIPsJqiOLqylgoYmwQg,ITVersity - Big Data Labs - Starterkits,,2020-10-05T05:26:45Z,1
-PLf0swTFhTI8rt0Bk0RAFC5-S6CUNrVQva,UCakdSIPsJqiOLqylgoYmwQg,A comprehensive NiFi Workshop,"We are glad to come up with Tech Series on Mondays where we will be talking about a particular topic between 4 to 8 weeks. Some of them will be free and some of them will be paid. In case you want to get notified in case of events, please sign up to our Meetup group - https://www.meetup.com/itversityin/
-
-NiFi is one of the key tools in the area of Data Engineering and Big Data. It is primarily used for Data Ingestion and Orchestration. As part of 6 to 8 workshops between August and September, you will be learning key capabilities. Live sessions will be free and pre-recorded videos will be available exclusively for members of our YouTube channel.
-
-As part of the first demo, I will demonstrate key capabilities.
-
-* Overview of NiFi
-* Understanding NiFi Layout as a service
-* Key Concepts such as Flow Files, Attributes etc
-* Understanding how to access the documentation
-* Simple pipeline to copy files from Local File System and HDFS
-
-However, there are quite a few advanced capabilities which I will be covering as part of the Tech Workshop Series on Mondays (6 to 8 Sessions):
-
-* Setting up of NiFi in a single node using our AMI
-* Building generic data ingestion flows
-* Converting File Formats
-* Writing conditional flows based upon attributes
-* Triggering Shell Commands or Spark Jobs
-* Transforming inflight data
-* Logging Attributes and Messages
-* Scheduling, Monitoring, and Alerting
-and many more
-
-Key Takeaways for those who sign up for the workshop.:
-
-* Free end to end workshop to provide data ingestion solutions using NiFi
-* Details about AMI Image which can be leveraged to set up environment your selves
-* Limited support using Slack",2020-07-10T17:37:13Z,7
-PLf0swTFhTI8pBe2Vr2neQV7shh9Rus8rl,UCakdSIPsJqiOLqylgoYmwQg,"Free Data Engineering Bootcamp using Hadoop, Spark, NiFi, Kafka",,2020-07-05T22:08:34Z,8
-PLf0swTFhTI8rMmW7GZv1-z4iu_-TAv3bi,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark using Python for Certifications (Databricks and Cloudera CCA 175),,2020-07-05T15:30:07Z,9
-PLf0swTFhTI8oQ5MKXOkQtCp6ksHZFf8wo,UCakdSIPsJqiOLqylgoYmwQg,Python Programming for Kids,,2020-05-30T15:00:56Z,3
-PLf0swTFhTI8qhMM6uka63ASG1RrRHws4o,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Workshop for 2020 Summer US Graduates,,2020-05-20T00:53:58Z,42
-PLf0swTFhTI8obWlNxixKrweLe93UR9cCc,UCakdSIPsJqiOLqylgoYmwQg,"Data Engineering Exercises (Python, Scala, SQL, Shell Scripting, Spark, NoSQL etc)",,2020-05-06T15:35:53Z,9
-PLf0swTFhTI8o__yFteXNWgQX8H6kSTQ7Z,UCakdSIPsJqiOLqylgoYmwQg,Basics of Programming using Python,"As part of this Python course, I will cover all the important aspects of programming using Python.
-
-Agenda:
-
-* Basics of Python
-* Python Collections
-* Recap of Databases and SQL
-* Database Programming
-* Data processing using Pandas
-* Visualization using Matplotlib
-* Overview of web application development frameworks
-* Setting up Development Environment
-
-By the end of it you will be comfortable with Python and will be ready to understand various Python Libraries and build large scale applications such as Web, Mobile, Data Engineering, Data Science, Server Automation etc.",2020-04-25T16:41:33Z,25
-PLf0swTFhTI8q8kLYt6Nyzf79ChQUnMntD,UCakdSIPsJqiOLqylgoYmwQg,Career Counseling for Mid Career Engineers,,2020-04-25T04:17:36Z,1
-PLf0swTFhTI8rCO6WBSfcSPQMf3l5ZZUwc,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark - Issues and Solutions,"As part of this playlist we will cover commonly encountered issues and our solutions in the pursuit of building knowledge base for our lab customers to learn Spark.
-
-You can enroll for our labs in case you need multinode cluster by visiting https://labs.itversity.com",2020-04-19T05:18:48Z,2
-PLf0swTFhTI8rSk91zxLZNWxiTQyVjxydd,UCakdSIPsJqiOLqylgoYmwQg,Advanced Apache Spark - Key Concepts and Frequently Asked Questions (FAQ),"As part of this playlist, we will be covering the key concepts and frequently asked questions with respect to Apache Spark.
-
-Over a series of live videos, we will talk about following:
-
-* Different Cluster Modes
-* Execution Life Cycle of Spark Applications
-* How to determine executors?
-* Running Spark jobs using client vs. cluster mode
-* Catalyst Optimizer
-and many more.
-
-The demos will be done using our state of the art labs available at https://labs.itversity.com",2020-04-18T12:38:03Z,1
-PLf0swTFhTI8qPcW9pj-ZOQoWTaZtaKofP,UCakdSIPsJqiOLqylgoYmwQg,Basics of Computers for Kids,"Here are the topics, I am going to cover.
-
-Joining Zoom Sessions (pre-recorded video and then live workshop)
-* Resources for typing and Homework to improve typing skills.
-* Basics of Computers (Files, Directories, Hardware, Software, Background Processes etc).
-* Ability to use Windows as well as Mac laptops
-* Overview of browsers, Google Chrome and it's extensions.
-* Using Microsoft Office for project works
-* Google Search and Email Tips
-* Importance of Privacy",2020-04-11T14:18:09Z,6
-PLf0swTFhTI8qD1UIToygTApiyGenfusqD,UCakdSIPsJqiOLqylgoYmwQg,"CCA 175 Tips, Techniques and Resources","As part of this playlist, we will have YouTube videos that you can refer to before enrolling for the exam and also before taking the exam.
-
-Here are some of the resources related to CCA 175 Exam.
-
-* Udemy Courses - http://discuss.itversity.com/t/udemy-coupons-big-data-courses/17934
-* Labs - https://labs.itversity.com/plans
-* Forums - http://discuss.itversity.com
-* Details about Slack Channel - http://discuss.itversity.com/t/slack-channel-itversity/21458",2020-04-08T19:29:36Z,13
-PLf0swTFhTI8oc9mpPLu6o48oemrkTbl0B,UCakdSIPsJqiOLqylgoYmwQg,ITVersity - Big Data Labs - Usage and Common Issues,,2019-11-21T03:59:23Z,4
-PLf0swTFhTI8oaoJtQnyx--W61538tQ0k6,UCakdSIPsJqiOLqylgoYmwQg,Building Social Profile - Tips and Techniques,,2019-08-26T17:12:36Z,2
-PLf0swTFhTI8r3_cO0M3qDjB_NivfGNIAL,UCakdSIPsJqiOLqylgoYmwQg,Cloud and Data Engineering Bootcamp - Fall'19,"We are glad to announce an online Cloud and Data Engineering Bootcamp for Students across the globe who are graduating out in Fall 2019.
-
-This playlist contains all the live sessions that are part of this program.
-
-Those who enrolled to this program is going to learn following topics either via live sessions or pre-recorded videos.
-
-Agenda
-
-Instead of having same curriculum, it will be customized as we understand the students while running the Bootcamp. But at higher level these are the topics that will be covered.
-
-* Linux Fundamentals (Commands and Shell Scripting)
-* Database Essentials
-* Programming using Scala and/or Python
-* Building ETL Pipelines using Spark 2
-* Building Streaming Pipelines using Kafka and Spark
-* Deploying Pipelines using Workflow and Scheduler Tools (AirFlow)
-* Big Data on Cloud (AWS EMR, GCP Dataproc and Azure Databricks)
-* Cross Cloud Platform Templating using Terraform
-* Visualization of Data using BI Tools (Tableau and Power BI)
-* Job Search Tips and Techniques
-* Building Social Profile
-and then custom modules
-
-Training Methodology
-
-Here are the details with respect to Training Methodology.
-
-* At least 1 hour session, 4 days per week on guidance.
-* Live Support via Slack Channel from experienced Data Engineers
-* On Demand Practice Sessions
-* Rigorous Training on Life Cycles
-* Proof Of Concepts with Support",2019-08-15T16:01:48Z,5
-PLf0swTFhTI8qeXufQGaABa6rvtkSneqWN,UCakdSIPsJqiOLqylgoYmwQg,Expert Talks,,2019-08-07T21:37:46Z,1
-PLf0swTFhTI8p5a-YZrpnGT7gFCX66UVSK,UCakdSIPsJqiOLqylgoYmwQg,Udemy Online Q&A Sessions,,2019-07-30T14:47:12Z,1
-PLf0swTFhTI8rEIl9BmPxx8wPMmSJhPO6O,UCakdSIPsJqiOLqylgoYmwQg,Content Creation,,2019-07-09T04:37:07Z,2
-PLf0swTFhTI8ot9JViW0_QLDEp71Q0PUNI,UCakdSIPsJqiOLqylgoYmwQg,"CCA 159 - Data Analyst - Sqoop , Hive and Impala","CCA 159 - Data Analyst is a certification provided by Cloudera for Analysts in Big Data area. Certification exam extensively covers the querying and data ingestion capabilities using tools like Hive, Impala and Sqoop.
-
-As part of this playlist we have created videos based on the published curriculum of CCA 159 exam.
-
-Course is also available in Udemy. You can sign up for $10 using this URL - https://www.udemy.com/cca-159-data-analyst-using-sqoop-hive-and-impala/?couponCode=CCA15910
-
-If you need multi node cluster for practice, you can sign up using one of our plans -https://labs.itversity.com/plans",2019-06-28T03:10:52Z,235
-PLf0swTFhTI8oUz3_ot8fzJT5THfviV9Ao,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Live Sessions,,2019-04-14T11:54:23Z,2
-PLf0swTFhTI8oU8tcavexNnDtS3tJaPIi4,UCakdSIPsJqiOLqylgoYmwQg,Big Data Practice Tests - General,,2019-04-11T23:46:15Z,1
-PLf0swTFhTI8pb5SWBnZT7UyV9sU7lU9B9,UCakdSIPsJqiOLqylgoYmwQg,Be a Pro using MacBook Pro,,2019-03-31T14:34:13Z,34
-PLf0swTFhTI8reEqes_y588WF500j9i-ym,UCakdSIPsJqiOLqylgoYmwQg,Build backend for applications using NodeJS and MongoDB,,2019-02-13T10:24:12Z,34
-PLf0swTFhTI8qINd_6AhVnQvoLtGad2iPp,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Overview of Big Data ecosystem,,2018-12-22T12:01:19Z,9
-PLf0swTFhTI8okRPQSHJ2ImpygMz7VOfCs,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Big Data Ingestion tools,,2018-12-22T02:31:53Z,8
-PLf0swTFhTI8pzhd5GfyU5AL8GIjqOzsUQ,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Streaming Data Pipelines,,2018-12-08T14:29:38Z,56
-PLf0swTFhTI8oIr3FjJMbcd5sj3GLCV8Sl,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Databases in Big Data,,2018-12-08T01:17:37Z,28
-PLf0swTFhTI8r-L8zft8daBkJ66_RTRSV7,UCakdSIPsJqiOLqylgoYmwQg,Fundamentals of Programming using Python 3,,2018-11-25T23:37:28Z,30
-PLf0swTFhTI8p-7_ibvl8yL2TLDh9MNqXS,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Linux Fundamentals,"We are glad to create playlist on Linux Fundamentals which every Software Professional should be aware of. Before getting into details, we are not experts in Linux and we are only trying to share our experience of using handful of Linux commands and ability to write simple shell scripts for most common use cases.
-
-If you fall in any of the below categories, then this course is for you
-
-Computer Science or Information Technology Student
-
-Testing Professional
-
-Production Support or Operations
-
-Software Engineer/Application Developer
-
-Data Engineer or Big Data Engineer
-
-Database Administrator
-
-Any other role except for Systems Administrator
-
-If you are Systems Administrator with extensive experience in managing Linux based systems, then this course might not be for you.
-
-#linuxFundamentals #LinuxForStudents #linux",2018-11-25T10:13:13Z,48
-PLf0swTFhTI8pst8i3rA6ymGJOx8nO5ouS,UCakdSIPsJqiOLqylgoYmwQg,Cloudera Hadoop and Spark Cluster Administration - CCA 131 Certification,"CCA 131 is well recognized certification exam in setting up big data clusters with Hadoop, Spark and Kafka in enterprises.
-
-You can sign up for the complete course for free using https://kaizen.itversity.com/shop/all-courses/cca-131-cloudera-certified-administrator/
-
-As part of this playlist you can get access to some of the videos from the course for free. However if you want to get full access for the course, you need to purchase from above link.
-
-Here are the highlights for the full course:
-
-* High quality scenario based content with reference material with at least 2 year access
-* Demos using GCP leveraging their $300 credit for infrastructure
-* Support for any infrastructure you have except for virtual machines on your laptops.
-* Support team with live interactions and WhatsApp group
-* We will be conducting 2 or more sessions per week
-* If there is a group of 4 or more people we will have one dedicated session per week at mutually convenient time.
-and more",2018-10-21T03:49:17Z,158
-PLf0swTFhTI8pZ6fj9OmHKuESF0yUL-wkb,UCakdSIPsJqiOLqylgoYmwQg,Apache Flume - Ingesting log data to Hadoop and Kafka,"As part of this playlist we will understand how we can use Apache Flume to ingest streaming real time data in detail.
-
-* Overview of Flume
-* Setting up gen_logs
-* Develop first Flume Agent
-* Understand Source, Sink and Channel
-* Flume Multi Agent Flows
-* Get data into HDFS using Flume
-* Limitations and Conclusion
-
-For this demo we will be using our Big Data developer labs (https://labs.itversity.com). You need to have access to existing big data cluster or sign up to our labs.
-
-You can also access the material at this URL - https://resources.itversity.com/courses/building-streaming-data-pipelines/lessons/apache-flume-ingesting-log-data-to-hdfs/",2018-09-19T22:52:04Z,14
-PLf0swTFhTI8pMQTyecJq43w1J0ercuvcf,UCakdSIPsJqiOLqylgoYmwQg,Big Data on Cloud (Hadoop and Spark on AWS),"Here is the curriculum for the course. If you are already familiar with Big Data technologies you can quickly add this important skill by going through this course.
-
-We are also opening this course for free for few days which give you reference material and code snippets - https://kaizen.itversity.com/shop/all-courses/big-data-on-cloud-hadoop-and-spark-on-emr/
-
-* Overview of AWS barebones (EC2, S3, EBS, Networking, Security, CLI etc)
-* Overview of AWS analytical services and comparison between on-premise cluster vs. cloud services. This session includes creating EMR cluster using quick options.
-* Step Execution and other advanced options of EMR
-* Quick revision of programming language – Scala 2.11
-* Quick revision of programming language – Python 3.x (including Dataframes)
-* Development life cycle of Spark 2 applications using Scala (using IntelliJ)
-* Development life cycle of Spark 2 applications using Python (using Pycharm)
-* Running Scala and Python applications on EMR Cluster",2018-08-11T12:42:24Z,8
-PLf0swTFhTI8qtIYxVoPOjA2fYzBFiNMue,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark 2 using Python 3,"As part of this course you will be learning building scaleable applications using Spark 2 with Python as programming language.
-
-https://kaizen.itversity.com/courses/apache-spark-2-with-python-3-pyspark/
-
-Here is the agenda for the course.
-
-* Fundamentals of programming using Python
-  * Basic programming constructs using Python 3
-  * All about Functions in Python 3
-  * Overview of Collections and Types in Python 3
-  * Manipulating collections using Map Reduce APIs in Python 3
-  * Pandas - Series and Data Frames in Python 3
-* Apache Spark Overview - Architecture and Core APIs
-  * Spark Architecture and Execution Modes
-  * RDD, DAG and Lazy Evaluation
-  * Basic Transformations and Actions
-  * Advanced Transformations
-  * Execution Life Cycle
-  * Accumulators and Broadcast Variables
-* Data Frame Operations and Spark SQL
-  * Creating Data Frames and Pre Defined Functions
-  * Data Frame Operations - Basic Transformations such as filtering, aggregations, joins etc
-  * Data Frame Operations - Analytics Functions or Windowing Functions
-  * Spark SQL - Basic Transformations such as filtering, aggregations, joins etc
-  * Spark SQL - Analytics Functions or Windowing Functions
-  * Different file formats - text, json, orc, parquet, avrò etc
-  * Reading text data with custom delimiters
-  * Compression concepts and algorithms
-* Building Streaming Pipelines using Kafka and Spark Streaming
-  * Overview of Kafka
-  * Spark Streaming - Legacy
-  * Structured Streaming
-  * Integrating Kafka with Structured Streaming
-  * Overview of HBase
-  * Saving processed streaming data in HBase",2018-07-29T14:12:49Z,25
-PLf0swTFhTI8pPnREZl7A8YmE4Cp_canPM,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark 2 using Scala,"This course is to learn Apache Spark 2 using Scala. Course covers all important aspects of Spark 2.
-
-* Setup Development Environment for Scala and Spark using IntelliJ
-* Spark Architecture
-* Building Blocks of Spark
-* Resilient Distributed Datasets (RDDs)
-* Core Spark APIs
-* Data Frame Operations
-* Spark SQL",2018-07-23T00:23:06Z,20
-PLf0swTFhTI8oG2n_NLQTAv5tnQSB2ax6b,UCakdSIPsJqiOLqylgoYmwQg,Building Hadoop and Spark Cluster using Ansible,"Quite often we have to build Big Data clusters using plain vanilla distributions rather than using vendor distributions such as Cloudera or Hortonworks. It is not practical to manually set up the cluster, rather we need to use server automation tools like Puppet, Chef or Ansible. We are going to set up a 7 node Hadoop (HDFS + YARN) cluster using Ansible.
-
-You can access the material of the course from this link - https://kaizen.itversity.com/courses/building-hadoop-cluster-using-ansible/
-
-Here is the agenda for the course
-
-* Provision baremetal server and install CentOS (OVH)
-* Setup single node hadoop cluster
-* Setup 7 virtual machines on bare metal server using Vagrant
-* Setup 7 EC2 instances on AWS
-* Understand basics of Ansible
-* Develop Ansible Playbook to set up binaries
-* Configure HDFS on the cluster
-* Configure YARN on the cluster",2018-07-13T06:52:57Z,12
-PLf0swTFhTI8pLBlJROI-3Mhu_XQfVZNrs,UCakdSIPsJqiOLqylgoYmwQg,Linux Fundamentals for Big Data Professionals,,2018-06-18T06:13:44Z,12
-PLf0swTFhTI8rM5AdWXObgQ-aN5gYyOfKC,UCakdSIPsJqiOLqylgoYmwQg,Building Streaming Data Pipelines - Using Kafka,"As part of this workshop we will explore Kafka in detail while understanding the one of the most common use case of Kafka and Spark – Building Streaming Data Pipelines. Following are the technologies we will be using as part of this workshop.
-
-* IDE – IntelliJ
-* Programming Language – Scala
-* Get messages from web server log files – logstash
-* Channelize data – Kafka (it will be covered extensively)
-* Consume, process and save – Spark Streaming using Scala as programming language
-* Data store for processed data – HBase
-* Big Data Cluster – 7 node simulated Hadoop and Spark cluster (you can also use our existing 10 node Hortonworks cluster with all related services)
-
-Here is the flow of the course
-
-* Setup Development Environment to build streaming applications
-* Setup every thing on single node (Logstash, HDFS, Spark, Kafka etc)
-* Overview of Kafka and Logstash
-* Multibroker/Multi-server setup of Kafka
-* Overview about Streaming technologies and Spark Streaming
-* Overview of NoSQL Databases and HBase
-* Development life cycle of HBase application
-* Case Study: Kafka at LinkedIn
-* Final Demo: Streaming Data Pipelines",2018-05-20T01:06:38Z,16
-PLf0swTFhTI8rvVFacGRPrV0iRkEbIraPV,UCakdSIPsJqiOLqylgoYmwQg,AWS EMR and Spark 2,,2018-04-11T23:55:37Z,1
-PLf0swTFhTI8rxxGodNHJia7IPEqs7Sla0,UCakdSIPsJqiOLqylgoYmwQg,Angular Workshop: Build Chatbot using DialogFlow,,2018-03-12T13:49:44Z,4
-PLf0swTFhTI8qNEFO5z-P928y42Lba1T36,UCakdSIPsJqiOLqylgoYmwQg,Amazon Web Services - Foundation,"As part of this Playlist, you will learn
-
-1. Basics of Amazon Web Services
-2. Security using IAM
-
-Quick Preview of Cygwin
-
-Understand Pricing
-
-Create first EC2 Instance
-
-Connecting to EC2 Instance
-
-Understanding EC2 dashboard left menu
-
-Different EC2 Instance states
-
-Describing EC2 Instance
-
-Using elastic ips to connect to EC2 Instance
-
-Using security groups to provide security to EC2 Instance
-
-Understanding the concept of bastion server
-
-Terminating EC2 Instance and relieving all the resources
-
-Create security credentials for AWS account (access and secret key)
-
-Setting up AWS CLI in Windows
-
-Introduction
-
-Deleting root access keys
-
-Enable MFA for root account
-
-Introduction to IAM users and customizing sign in link
-
-Create first IAM user
-
-Create group and add user
-
-Configure IAM password policy
-
-Understanding IAM best practices
-
-AWS managed policies and creating custom policies
-
-Assign policy to entities (user and/or group)
-
-Creating role for EC2 trusted entity with permissions on s3
-
-Assigning role to EC2 instance
-
-Conclusion and take aways",2018-02-12T15:03:23Z,30
-PLf0swTFhTI8qLS7CSEMHU2hI59NYFKtI6,UCakdSIPsJqiOLqylgoYmwQg,Premium Hangouts,,2018-01-26T03:59:05Z,6
-PLf0swTFhTI8o9qJ_m1BXC2UeKTcZvJH_6,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Boot Camp using Big Data - 201803,,2018-01-25T01:06:14Z,3
-PLf0swTFhTI8rT3ApjBqt338MCO0ZvReFt,UCakdSIPsJqiOLqylgoYmwQg,CCA 175 Spark and Hadoop Developer using Python,,2018-01-17T04:37:07Z,161
-PLf0swTFhTI8oy5U0C5GwWR88zb8WKgqK2,UCakdSIPsJqiOLqylgoYmwQg,Setup Development Environment for Scala and Spark - Windows 10,,2017-12-31T23:18:00Z,20
-PLf0swTFhTI8q4KxZyYhyNZFwMzbfJwwn9,UCakdSIPsJqiOLqylgoYmwQg,Python and Spark Workshop Series - 01 Python and Linux basics,,2017-12-30T01:28:46Z,7
-PLf0swTFhTI8qeFZpuNjrlF3fceeIQSEda,UCakdSIPsJqiOLqylgoYmwQg,Learn Python for Spark,,2017-12-29T23:48:40Z,7
-PLf0swTFhTI8pYbd8mr36LiYIOOY2xw5Iu,UCakdSIPsJqiOLqylgoYmwQg,Setup Development Environment for Python and Spark - Windows 10,,2017-12-29T05:26:52Z,18
-PLf0swTFhTI8qaFYQyR99wchg1Kx_BFXSg,UCakdSIPsJqiOLqylgoYmwQg,Apache Sqoop for Certifications,,2017-11-24T03:25:02Z,25
-PLf0swTFhTI8rDQXfH8afWtGgpOTnhebDx,UCakdSIPsJqiOLqylgoYmwQg,CCA 175 Spark and Hadoop Developer - Scala,,2017-11-24T02:19:02Z,157
-PLf0swTFhTI8otgadSFlL44X_ISa0jvhJQ,UCakdSIPsJqiOLqylgoYmwQg,Big Data Certifications Workshop - 201711,,2017-10-29T10:32:30Z,35
-PLf0swTFhTI8q2yDYXQqnHy1FnOZLBlQNh,UCakdSIPsJqiOLqylgoYmwQg,HDPCD:Spark using Scala,,2017-10-19T08:05:06Z,74
-PLf0swTFhTI8pronNK7Gm-isKX7tdNb0Go,UCakdSIPsJqiOLqylgoYmwQg,HDPCD:Spark using Python,,2017-09-29T00:30:11Z,63
-PLf0swTFhTI8r-xiHWX5XznCAbLBbEwyY7,UCakdSIPsJqiOLqylgoYmwQg,itversity - events,,2017-08-31T14:53:48Z,3
-PLf0swTFhTI8rG-rsZ6wFsaLG9diTXu9US,UCakdSIPsJqiOLqylgoYmwQg,Learn SQL using Oracle from expert,,2017-06-12T23:25:09Z,10
-PLf0swTFhTI8qnMI7PUgjlBIsB9HwUFhYH,UCakdSIPsJqiOLqylgoYmwQg,Java Foundations for Naives and High School Students,,2017-06-07T11:37:30Z,16
-PLf0swTFhTI8qtOLP5rWmwonnlilIBIrsl,UCakdSIPsJqiOLqylgoYmwQg,Scala and Spark training - June 2017,,2017-05-25T09:51:43Z,32
-PLf0swTFhTI8rv85gSUEyBxN6fdv5D2E0C,UCakdSIPsJqiOLqylgoYmwQg,Learn Scala for Spark,,2017-05-14T05:54:10Z,29
-PLf0swTFhTI8p4bkrJuJdnZo5mDlDiHEVg,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark using Scala,,2017-05-14T01:06:19Z,44
-PLf0swTFhTI8p6Itn5XZ0o9osOF_YSqAgo,UCakdSIPsJqiOLqylgoYmwQg,Developer certification videos,,2017-05-01T00:42:04Z,80
-PLf0swTFhTI8pz46OjMBsafX3CALrKKzMe,UCakdSIPsJqiOLqylgoYmwQg,CCA Data Analyst - Sqoop and Hive,,2017-04-03T01:16:21Z,33
-PLf0swTFhTI8ra9ccF3t7p_vEBkm6Q8iOj,UCakdSIPsJqiOLqylgoYmwQg,Scala and Spark Workshop,,2017-03-25T02:28:32Z,7
-PLf0swTFhTI8rVDf94eqeRmezl6sUBrxPg,UCakdSIPsJqiOLqylgoYmwQg,Big Data Workshop - live training - 2017 January - Hive videos,,2017-03-05T17:11:14Z,13
-PLf0swTFhTI8qCIiR6SPSmK8btFEgnkK0Q,UCakdSIPsJqiOLqylgoYmwQg,Big Data Workshop - live training - 2017 February - Scala and Spark,,2017-02-18T23:50:10Z,14
-PLf0swTFhTI8pFYjRLQtPmbj85trI5yHyR,UCakdSIPsJqiOLqylgoYmwQg,Big Data Workshop - live training - 2017 January - Sqoop videos,,2017-02-18T02:54:36Z,14
-PLf0swTFhTI8pF2LlundTPc5Pn1TIbUhri,UCakdSIPsJqiOLqylgoYmwQg,Big Data Workshop - live training - 2017 February,,2017-02-15T08:19:20Z,23
-PLf0swTFhTI8q4pvjNTcjMPzCYPZIrpPAa,UCakdSIPsJqiOLqylgoYmwQg,Big Data Workshop - live training - 2017 January,,2017-01-23T08:32:34Z,68
-PLf0swTFhTI8piG0jq0mFueIPs7iL5_3b4,UCakdSIPsJqiOLqylgoYmwQg,Personal,,2017-01-17T11:35:31Z,1
-PLf0swTFhTI8okziaJI7zqnXXwdE1il7sj,UCakdSIPsJqiOLqylgoYmwQg,Big Data Certifications Workshops,,2016-12-11T06:20:38Z,14
-PLf0swTFhTI8rQhGnzEOM-GkCJBO0wrnlt,UCakdSIPsJqiOLqylgoYmwQg,bigdata-labs,,2016-11-05T02:02:13Z,5
-PLf0swTFhTI8qOAbrJhihZZTWfZA_arTYZ,UCakdSIPsJqiOLqylgoYmwQg,Setup Virtual Machines - using vmware esxi and ovh,,2016-11-01T16:33:11Z,16
-PLf0swTFhTI8r4dv9xK0JGIGnkOQYdps8Q,UCakdSIPsJqiOLqylgoYmwQg,itversity - content writing,,2016-10-20T12:38:25Z,5
-PLf0swTFhTI8rJzkVl_OawjNPh1jMK1B3m,UCakdSIPsJqiOLqylgoYmwQg,Become professional blogger,,2016-10-05T08:50:19Z,13
-PLf0swTFhTI8r6bXXwdkkCs75yrcfXqZHr,UCakdSIPsJqiOLqylgoYmwQg,Big Data Engineer immersion - Active Students - live workshops,,2016-09-19T01:29:50Z,15
-PLf0swTFhTI8pWRmfdBzj_mm3U__cvRKPb,UCakdSIPsJqiOLqylgoYmwQg,Googlegroups - Big Data Technologies,,2016-09-14T04:03:34Z,1
-PLf0swTFhTI8qCGIvjXzX3ODTJYvgEApFg,UCakdSIPsJqiOLqylgoYmwQg,Big Data Engineer - Immersion - East Coast,,2016-09-13T03:45:52Z,27
-PLf0swTFhTI8pNZ0y87SX4PfpNjqPizDPw,UCakdSIPsJqiOLqylgoYmwQg,Career Counseling for MS Students,,2016-08-06T02:00:12Z,2
-PLf0swTFhTI8qtm7zm3d4T5w2Bp6EnMaSU,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Administration - FAQs,,2016-08-03T01:20:07Z,5
-PLf0swTFhTI8pgc4wyhT8lIEJCPT08RI3X,UCakdSIPsJqiOLqylgoYmwQg,HDP Certified Developer - Spark (HDPCD:Spark),,2016-07-30T16:42:55Z,64
-PLf0swTFhTI8qzzHRrvxvhEBVOMUmg8cXg,UCakdSIPsJqiOLqylgoYmwQg,hangouts,,2016-07-22T08:46:07Z,18
-PLf0swTFhTI8qjv9VOwMesAZ07OKIgsmUb,UCakdSIPsJqiOLqylgoYmwQg,Big Data Engineer - Immersion,,2016-07-17T06:14:31Z,71
-PLf0swTFhTI8ra5T5B7QsNuu5yxiEdd6Ro,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - NoSQL - MongoDB,,2016-07-01T14:57:43Z,7
-PLf0swTFhTI8oLqAw3cLyPiqpPhDMpVuM2,UCakdSIPsJqiOLqylgoYmwQg,Hadoop and Spark developer - lab setup on cloud,,2016-06-26T06:01:15Z,11
-PLf0swTFhTI8qi5IuwLYm7sJE6vWo6KrPj,UCakdSIPsJqiOLqylgoYmwQg,itversity Private - Hadoop and Spark administrator training - June 2016,,2016-06-21T06:02:31Z,8
-PLf0swTFhTI8rPoYMMZGs44FZX4qGbfjTu,UCakdSIPsJqiOLqylgoYmwQg,itversity Private - Hadoop and Spark developer training - June 2016,,2016-06-16T14:07:17Z,18
-PLf0swTFhTI8rG963A9hsXLrzIXbt_jwgV,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Distributed File System - HDFS,,2016-06-03T02:15:10Z,19
-PLf0swTFhTI8pH1wHiMMTLQCYFSIhrBAqZ,UCakdSIPsJqiOLqylgoYmwQg,Apache Oozie,,2016-06-02T10:57:23Z,7
-PLf0swTFhTI8qZPHwjy4Hrh_NUlhLku5cx,UCakdSIPsJqiOLqylgoYmwQg,Apache Sqoop,,2016-06-02T10:27:07Z,14
-PLf0swTFhTI8rq6SBtTtlTpOB2bHFoIlOZ,UCakdSIPsJqiOLqylgoYmwQg,Certifications - Hadoop - Cloudera Certified Professional Data Engineer,,2016-06-02T05:06:31Z,39
-PLf0swTFhTI8qbpdBmeiyYKP3wEBrjVpMr,UCakdSIPsJqiOLqylgoYmwQg,"Data To Analytics Using Hadoop, Spark and Tableau",,2016-05-18T02:48:37Z,10
-PLf0swTFhTI8pJn1pcRo1idi4XX-a62Oo9,UCakdSIPsJqiOLqylgoYmwQg,Administration - Hadoop - Cloudera Hadoop on AWS,,2016-03-22T11:12:33Z,64
-PLf0swTFhTI8o5IZuk-m72ow0TBnyhqCAF,UCakdSIPsJqiOLqylgoYmwQg,Certifications - Hadoop - Cloudera Certified Administrator of Apache Hadoop (CCAH),,2016-03-22T11:09:36Z,52
-PLf0swTFhTI8q9Uc7g2gs2t_ToFGzi7GEw,UCakdSIPsJqiOLqylgoYmwQg,Administration - Hadoop - Cloudera Hadoop on VMs,,2016-03-20T02:14:32Z,78
-PLf0swTFhTI8rPlPxDnDrYWE8bg2kKs3Q-,UCakdSIPsJqiOLqylgoYmwQg,Certifications - Hadoop - Hortonworks Data Platform Certified Administrator (HDPCA),,2016-03-20T02:12:06Z,67
-PLf0swTFhTI8o6PhuwMO6rx4-m3CnZ7uBp,UCakdSIPsJqiOLqylgoYmwQg,Apache Hive,,2016-03-14T04:01:00Z,21
-PLf0swTFhTI8pQcKpwJHs4irN-0YOPwhvm,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark - Streaming,,2016-03-13T11:09:54Z,9
-PLf0swTFhTI8pqjoiGAccWtzloz4V9LsHi,UCakdSIPsJqiOLqylgoYmwQg,Certifications - Redhat Certified System Administrator,,2016-03-10T23:36:50Z,14
-PLf0swTFhTI8rD2YwBTcXy7aLTtXXomevI,UCakdSIPsJqiOLqylgoYmwQg,Apache Pig,,2016-02-24T08:09:32Z,22
-PLf0swTFhTI8r7kR-yCpgLbUVNL9Dl-z_C,UCakdSIPsJqiOLqylgoYmwQg,Apple Mac for IT Professionals,,2016-02-15T12:54:07Z,19
-PLf0swTFhTI8qGExF3HH7frOiYPV7h1lD4,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Cloud Foundry,,2016-02-11T08:47:31Z,8
-PLf0swTFhTI8pTZ2EYpjrJCPlRQvBJ7Cwa,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Certifications - HDP Certified Developer - no Java,,2016-02-11T01:07:14Z,79
-PLf0swTFhTI8qMPlj6NXxP60BWVBrasEiO,UCakdSIPsJqiOLqylgoYmwQg,Learning Resources - Cloud,,2016-01-29T05:23:49Z,3
-PLf0swTFhTI8qIRHNfe_RXZ_8_0Re51sku,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Certifications - HDP Certified Developer - Java (HDPCD:Java),,2016-01-28T03:59:45Z,41
-PLf0swTFhTI8pYx_X_fYpWkCfHozmMsyij,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark - Scala,,2016-01-18T07:43:39Z,53
-PLf0swTFhTI8o2V96xr0ayFWKfFJ2PvxHM,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark - Python,,2016-01-18T07:41:38Z,26
-PLf0swTFhTI8pl4zeT4VoSUzfj8jdF9MaS,UCakdSIPsJqiOLqylgoYmwQg,Linux & Unix Tips,,2015-12-27T16:38:14Z,4
-PLf0swTFhTI8qxbn6ufXIQeUxhK73CC_df,UCakdSIPsJqiOLqylgoYmwQg,Spark Administration - Standalone on EC2,,2015-12-14T16:38:27Z,8
-PLf0swTFhTI8rJvGpOp-LujOcpk-Rlz-yE,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Certifications - Cloudera Certified Associate Spark and Hadoop Developer,,2015-12-14T02:59:18Z,94
-PLf0swTFhTI8px9BvYqgCBe4Y8SLff-bWV,UCakdSIPsJqiOLqylgoYmwQg,Crash course of Scala for Spark users,,2015-11-28T19:27:08Z,3
-PLf0swTFhTI8qCRk4oaygBuynJP9DOPQsL,UCakdSIPsJqiOLqylgoYmwQg,Performance Tuning - Oracle Database,,2015-11-14T02:53:12Z,18
-PLf0swTFhTI8pznv1raUaDJGsj_jYUh6qv,UCakdSIPsJqiOLqylgoYmwQg,Amazon Web Services - Hadoop using Elastic Map Reduce,,2015-11-12T04:10:54Z,8
-PLf0swTFhTI8ogPRqcabZyQsybEqFP6lW-,UCakdSIPsJqiOLqylgoYmwQg,Oracle Cloud,,2015-11-11T15:22:39Z,5
-PLf0swTFhTI8r8xkL1fxVy8POlg-P251WM,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - NoSQL - Cassandra for Java Developers,,2015-11-07T05:56:24Z,2
-PLf0swTFhTI8om6McM1z5TZERReNEIKB9O,UCakdSIPsJqiOLqylgoYmwQg,Trailers,,2015-11-01T02:49:01Z,10
-PLf0swTFhTI8r9bpxMZI1r3wWad763tLSA,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - R and R Studio,,2015-10-29T13:23:38Z,4
-PLf0swTFhTI8qZ2GkrOQQ5CA3b_RX7p8ch,UCakdSIPsJqiOLqylgoYmwQg,Effective Job Marketing,,2015-10-22T12:45:08Z,11
-PLf0swTFhTI8ruUU0-3aAu-Ik7aBce8Xma,UCakdSIPsJqiOLqylgoYmwQg,Publishing Content to itversity,,2015-10-19T05:28:02Z,9
-PLf0swTFhTI8qFaaST9z73rGptO04_blTQ,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - NoSQL - DynamoDB for Java Developers,,2015-10-12T13:39:25Z,8
-PLf0swTFhTI8r6wUT9dcSQ-sLeaIMbbLm_,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - NoSQL - HBase for Java Developers,,2015-10-04T16:15:53Z,9
-PLf0swTFhTI8rjBS9zJGReO1IWLf7Lpi7g,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Apache Spark,,2015-09-23T05:23:46Z,12
-PLf0swTFhTI8pFYbcZA4bNWCjetRKVubPH,UCakdSIPsJqiOLqylgoYmwQg,Plain Vanilla Hadoop - Single Node - Setup and Development,,2015-09-19T07:21:42Z,30
-PLf0swTFhTI8p7ZYBB5DmRHK3L6aq8Mvcv,UCakdSIPsJqiOLqylgoYmwQg,Hadoop - Map Reduce application development using Java,,2015-09-07T03:25:15Z,61
-PLf0swTFhTI8pUf90nS2K4Tw4SZAFGw9m8,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Administration - Day to Day operations,,2015-09-01T05:15:13Z,11
-PLf0swTFhTI8pjVUq_HLs4t1XvMxQf2yHO,UCakdSIPsJqiOLqylgoYmwQg,Infolob Hadoop Training 2015 08,,2015-08-22T03:07:15Z,2
-PLf0swTFhTI8riluKs2E2SG-vvulPQXNTt,UCakdSIPsJqiOLqylgoYmwQg,VMWare - Create Virtual Machines on Mac or PC,,2015-08-20T04:23:32Z,13
-PLf0swTFhTI8pZ1QXeUS4Tb9Sc6crYQDkP,UCakdSIPsJqiOLqylgoYmwQg,Linux Administration - Redhat,,2015-08-19T06:10:10Z,5
-PLf0swTFhTI8qKo5rHQ5XmcAWjkMZnfo6I,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Administration - Hortonworks - HDP 2.3.0 - AWS,,2015-08-17T15:09:12Z,70
-PLf0swTFhTI8rvUye27NdkTte3ldym2Nlu,UCakdSIPsJqiOLqylgoYmwQg,Amazon Web Services,,2015-08-16T13:48:46Z,21
-PLf0swTFhTI8rG6Q4dr_FruqDdzu9M7AQ2,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Administration - Hortonworks - HDP 2.3.0 - VM,,2015-08-14T02:57:23Z,79
-PLf0swTFhTI8rEyKHZyouchVRqxVylnszp,UCakdSIPsJqiOLqylgoYmwQg,Virtualization using Oracle VM Technology,,2015-03-30T14:38:44Z,4
-PLf0swTFhTI8ohyodrzJrBiy5U8tRd39wQ,UCakdSIPsJqiOLqylgoYmwQg,Microsoft Windows for IT Professionals,,2015-03-29T17:43:56Z,20
-PLf0swTFhTI8q5X0ZBeUaK1yl_TP-tJInC,UCakdSIPsJqiOLqylgoYmwQg,Hadoop - Build Enterprise Data Warehouse,,2015-01-27T20:14:34Z,27
-PLf0swTFhTI8qXRp5dmGKjRth-VqNLdNiN,UCakdSIPsJqiOLqylgoYmwQg,Previews,,2015-01-27T03:21:54Z,10
-PLf0swTFhTI8pOZ4VBSGerKUmF9USWL6vd,UCakdSIPsJqiOLqylgoYmwQg,Administration - Hadoop using Cloudera Distribution,"Full course of Hadoop Administration using Cloudera Distribution.
-It covers provisioning nodes from AWS, run pre-requisites and install Cloudera Manager and Cloudera Distribution of Hadoop.",2015-01-06T22:36:31Z,25
-PLf0swTFhTI8o6LURHy7u3YIBC3FnuZIdP,UCakdSIPsJqiOLqylgoYmwQg,Introduction - Big Data Introduction,This will give an overview and rationale behind transitioning to Big Data eco system. It will talk about Hadoop eco system and No SQL eco system with few case studies.,2014-12-30T11:54:20Z,18
-PLf0swTFhTI8qBGRdIwWeP5lh5UY2AfIoG,UCakdSIPsJqiOLqylgoYmwQg,Performance Tuning - Hadoop Map Reduce,"This is to share my experience on performance tuning of Map Reduce based Hadoop tools like Java Map Reduce, Hive etc. This is not final list. As and when I get opportunity to work on new performance issue, the list will be updated.
-
-Please subscribe and stay tuned.",2014-11-21T00:37:58Z,8
-PLf0swTFhTI8qjmMxtnNkqRj_u607Pg6U3,UCakdSIPsJqiOLqylgoYmwQg,General - Useful for all who uses internet.,This playlist will be updated with general content that is useful to fellow humans.,2014-11-13T19:32:24Z,2
-PLf0swTFhTI8rnNRnVz6n-f1d3ZCDtgqRq,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Hadoop Map Reduce Programming using Java (fine tuned for Java Professionals),This playlist is fine tuned for Java developers who want to kick start map reduce programming for Hadoop. Main idea of this playlist is to facilitate setting up development environment and write a map reduce program simulating simple query (select count(1) from deckofcards).,2014-11-08T13:14:48Z,10
-PLf0swTFhTI8rWAzLVxotgyyigpx0mu-9P,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Data Analytics using Cloudera Distribution of Hadoop eco system,"Get insights out of raw data quickly using Hadoop eco system and Tableau Public.
-Raw data in the spread sheet converted into dash board with in 2 hours.",2014-11-06T03:38:05Z,11
-PLf0swTFhTI8oE8PS7098Zl3iIIRyFiwaU,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Cloudera Hadoop on Amazon Web Services,This playlist will facilitate any one with some linux knowledge to provision linux servers from AWS and then install cloudera distribution of hadoop.,2014-10-31T20:55:20Z,2
+playlist_id,channel_id,title,creation_date,total_videos
+PLf0swTFhTI8rA8t1Igqp6j6i62r-jvWgb,UCakdSIPsJqiOLqylgoYmwQg,Mastering Medium: A Guide to Writing and Publishing”,2024-10-14T06:18:56Z,1
+PLf0swTFhTI8rCnpGTml8URzGG-QGxY0fE,UCakdSIPsJqiOLqylgoYmwQg,Master Apache Spark 3.x using Databricks Community Edition,2024-07-02T23:22:39Z,0
+PLf0swTFhTI8oQNiY2ZTf81zvKB7-y3y4e,UCakdSIPsJqiOLqylgoYmwQg,PostgreSQL SQL Full Course: Beginner to Advanced Techniques,2024-06-26T15:46:08Z,92
+PLf0swTFhTI8rZRa5OzGpOu-Y2txIlVlCH,UCakdSIPsJqiOLqylgoYmwQg,Building Data Pipelines using DBT,2024-06-25T16:09:56Z,1
+PLf0swTFhTI8qeHGtGE57P3ZxPaP0OKNPk,UCakdSIPsJqiOLqylgoYmwQg,SQL Interview Tips and Questions,2024-06-17T03:25:55Z,1
+PLf0swTFhTI8puXTkRCPxht7jgL731FxsF,UCakdSIPsJqiOLqylgoYmwQg,Udemy Resources,2022-08-16T05:29:50Z,3
+PLf0swTFhTI8rWa0FlKjxjVdorLARMmZrX,UCakdSIPsJqiOLqylgoYmwQg,Linux Shell Commands for absolute beginners using Ubuntu 20.04,2022-05-11T19:28:37Z,19
+PLf0swTFhTI8p0EfYLeOYPu6T7MOK7ETI7,UCakdSIPsJqiOLqylgoYmwQg,Databricks Certified Associate Developer - Apache Spark 3.0 using Azure (Complete Playlist),2022-03-26T15:56:30Z,15
+PLf0swTFhTI8p5g_4QtmZjtVtU0vL5MBJ0,UCakdSIPsJqiOLqylgoYmwQg,Building Machine Learning Models using Python Series (recordings of live sessions),2022-03-02T02:33:00Z,2
+PLf0swTFhTI8qo4G7NiwG-X8uTsUPtoQ0a,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering using Databricks - Deep Dive into Databricks Features on Cloud using AWS as well as Azure,2022-02-12T13:00:48Z,6
+PLf0swTFhTI8rBHpmJ0y1jhpMW1_fqTl3f,UCakdSIPsJqiOLqylgoYmwQg,Section 033 - Apache Spark using Python - Data Processing Overview,2022-01-04T16:36:01Z,8
+PLf0swTFhTI8q7WBSxGhFyt15H6NcvAVIU,UCakdSIPsJqiOLqylgoYmwQg,Section 032 - Data Engineering using Spark SQL - Windowing Functions,2022-01-04T16:27:29Z,10
+PLf0swTFhTI8rZVCKvu19nOjRey7ZSFEPI,UCakdSIPsJqiOLqylgoYmwQg,Section 038 - Apache Spark using Python - Development Life Cycle using Python,2021-12-31T13:50:32Z,15
+PLf0swTFhTI8o2QERCE5SCNySlCIJtFZh1,UCakdSIPsJqiOLqylgoYmwQg,Section 037 - Apache Spark using Python - Spark Metastore,2021-12-31T13:40:14Z,11
+PLf0swTFhTI8owtKU0z8CABANjXa5PnF05,UCakdSIPsJqiOLqylgoYmwQg,Section 036 - Apache Spark using Python - Joining Data Sets,2021-12-31T13:06:50Z,14
+PLf0swTFhTI8qnp6jJ5IOzVLpKqX3bsqhs,UCakdSIPsJqiOLqylgoYmwQg,Section 035 - Apache Spark using Python - Basic Transformations,2021-12-31T12:35:44Z,16
+PLf0swTFhTI8rHFnqaSzKc7kx37PFt61CV,UCakdSIPsJqiOLqylgoYmwQg,Section 034 - Apache Spark using Python - Processing Column Data,2021-12-31T12:05:17Z,18
+PLf0swTFhTI8q902mY30MeE2E2ASxRllK2,UCakdSIPsJqiOLqylgoYmwQg,Section 031 - Data Engineering using Spark SQL - Overview of Spark SQL Functions,2021-12-31T11:19:00Z,10
+PLf0swTFhTI8rOjNTDL5U9g9srd3UVaSOO,UCakdSIPsJqiOLqylgoYmwQg,Section 030 - Data Engineering using Spark SQL - Managing Tables - DML and Partitioning,2021-12-31T10:58:45Z,11
+PLf0swTFhTI8qzDkGaAFv9USzTstd3PXKU,UCakdSIPsJqiOLqylgoYmwQg,Section 029 - Data Engineering using Spark SQL - Managing Tables - Basic DDL and DML,2021-12-31T10:42:58Z,13
+PLf0swTFhTI8qszjfS4NGUF0_-B2wYLs52,UCakdSIPsJqiOLqylgoYmwQg,Section 028 - Data Engineering using Spark SQL - Basic Transformations,2021-12-31T10:33:06Z,11
+PLf0swTFhTI8oQ-OWLFkyBhFlRncauK1E-,UCakdSIPsJqiOLqylgoYmwQg,Section 027 - Data Engineering using Spark SQL - Getting Started,2021-12-31T10:23:23Z,11
+PLf0swTFhTI8rAX1_VRSVa500fnIRDmcWT,UCakdSIPsJqiOLqylgoYmwQg,Section 026 - Introduction to Hadoop eco system - Overview of HDFS,2021-12-31T10:11:04Z,13
+PLf0swTFhTI8qZ4m-7jZphBG2nXD8bhLk6,UCakdSIPsJqiOLqylgoYmwQg,Section 025 - Big Data ecosystem - Setup Hive and Spark on Single Node Cluster,2021-12-31T08:43:48Z,15
+PLf0swTFhTI8q2pJKnoFfZrXK590l1UKy9,UCakdSIPsJqiOLqylgoYmwQg,Section 024 - Big Data ecosystem - Setup Hadoop on Single Node Cluster,2021-12-31T08:34:00Z,9
+PLf0swTFhTI8pDr_1bLCaiBp9rOzlT8Md9,UCakdSIPsJqiOLqylgoYmwQg,Section 023 - Programming Essentials using Python - Database Programming - Batch Operations,2021-12-31T08:28:22Z,5
+PLf0swTFhTI8p9EXJzcVhHtgrYXv8RIwfW,UCakdSIPsJqiOLqylgoYmwQg,Section 022 - Programming Essentials using Python - Database Programming - CRUD Operations,2021-12-31T08:13:04Z,10
+PLf0swTFhTI8ryxuW3kiSOtR_SpjX6RvOx,UCakdSIPsJqiOLqylgoYmwQg,Section 021 - Programming Essentials using Python - Overview of Pandas Libraries,2021-12-31T07:47:05Z,10
+PLf0swTFhTI8o-Mp_7XKP0tvNQH58n5jxj,UCakdSIPsJqiOLqylgoYmwQg,Section 020 - Programming Essentials using Python - Understanding Map Reduce Libraries,2021-12-31T07:37:03Z,4
+PLf0swTFhTI8qWjbW0ZHN1bxEI3XhhYnda,UCakdSIPsJqiOLqylgoYmwQg,Section 019 - Programming Essentials using Python - Manipulating Collections using loops,2021-12-31T07:23:17Z,10
+PLf0swTFhTI8qfzZRxJGY2IM7sfk1KbVDv,UCakdSIPsJqiOLqylgoYmwQg,Section 018 - Programming Essentials using Python - Overview of Collections - dict and tuple,2021-12-31T07:07:40Z,8
+PLf0swTFhTI8qKi4vinmYGFseNqUccOKBi,UCakdSIPsJqiOLqylgoYmwQg,Section 017 - Programming Essentials using Python - Overview of Collections - list and set,2021-12-31T06:36:34Z,10
+PLf0swTFhTI8qdciIijBo8IIQqEyO4mYyc,UCakdSIPsJqiOLqylgoYmwQg,Section 016 - Programming Essentials using Python - User Defined Functions,2021-12-17T16:22:19Z,12
+PLf0swTFhTI8rnhaSGZIR1arDMy7z951CK,UCakdSIPsJqiOLqylgoYmwQg,Section 015 - Programming Essentials using Python - Predefined Functions,2021-12-17T16:11:59Z,7
+PLf0swTFhTI8qbGQThd7sdQEWgPw5_8IDj,UCakdSIPsJqiOLqylgoYmwQg,Section 014 - Programming Essentials using Python - Basic Programming Constructs,2021-12-16T17:40:51Z,8
+PLf0swTFhTI8pa2C4dihwYvhNMU6-kX8qN,UCakdSIPsJqiOLqylgoYmwQg,Section 013 - Programming Essentials using Python - Getting Started with Python,2021-12-15T15:00:13Z,8
+PLf0swTFhTI8oL_jsMjiDcAFF2JtOsOZ1Q,UCakdSIPsJqiOLqylgoYmwQg,Section 012 - Programming Essentials using Python - Perform Database Operations,2021-12-14T15:48:20Z,11
+PLf0swTFhTI8pkpSgVrAyJXgSH9e3ySGEu,UCakdSIPsJqiOLqylgoYmwQg,Section 011 - Database Essentials using Postgres - Writing Advanced SQL Queries,2021-12-13T15:34:44Z,14
+PLf0swTFhTI8o01Lh0ywX68-xzSGIghvQE,UCakdSIPsJqiOLqylgoYmwQg,Section 010 - Database Essentials using Postgres - Predefined Functions,2021-12-13T10:56:35Z,19
+PLf0swTFhTI8plB12vCFR1qYZpDN3X05CY,UCakdSIPsJqiOLqylgoYmwQg,Section 009 - Database Essentials using Postgres - Partitioning Tables and Indexes,2021-12-05T03:15:42Z,12
+PLf0swTFhTI8pKFYyMn1Q1TmGJFquTfFXQ,UCakdSIPsJqiOLqylgoYmwQg,Section 008 - Database Essentials using Postgres,2021-11-28T14:26:11Z,10
+PLf0swTFhTI8pJ13QTvxqxNMpZXSYArf_U,UCakdSIPsJqiOLqylgoYmwQg,Section 007 - Database Essentials using Postgres - Writing Basic SQL Queries,2021-11-20T13:33:34Z,12
+PLf0swTFhTI8rCM7Y3l3p-nUMj4nVEBvbY,UCakdSIPsJqiOLqylgoYmwQg,Section 006 - Database Essentials using Postgres - Database Operations,2021-11-12T15:29:34Z,8
+PLf0swTFhTI8pCEKy0WjPUSgtOxAs_qPYk,UCakdSIPsJqiOLqylgoYmwQg,Section 005 - Database Essentials using Postgres - Getting Started,2021-11-05T17:01:36Z,8
+PLf0swTFhTI8q3xE87-EvjnMveAEZfuIIC,UCakdSIPsJqiOLqylgoYmwQg,Section 004 - Setting up Environment - Setup Postgres Database on Ubuntu VM,2021-10-29T10:16:34Z,9
+PLf0swTFhTI8p1WpFLLWJxVcWoB-IB98Dv,UCakdSIPsJqiOLqylgoYmwQg,Section 003 - Setting up Environment - Overview of GCP and Provision Ubuntu VM,2021-10-21T07:25:16Z,7
+PLf0swTFhTI8pRV9DDzae2o1m-cqe5PtJ2,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Pipeline using Python and Airflow,2021-10-13T16:17:17Z,9
+PLf0swTFhTI8qOlvqmI6VyJubSt_jZRGku,UCakdSIPsJqiOLqylgoYmwQg,Section 002 - Setting up Environment using AWS Cloud9,2021-10-08T17:00:33Z,9
+PLf0swTFhTI8oRM0Qv2UGijAkeGZDqs-xF,UCakdSIPsJqiOLqylgoYmwQg,"Data Engineering Essentials using Spark, Python and SQL",2021-10-01T16:17:15Z,402
+PLf0swTFhTI8qnYQf5hKVNJLNsN194d9rS,UCakdSIPsJqiOLqylgoYmwQg,Section 001 - Introduction about the course,2021-10-01T15:22:36Z,6
+PLf0swTFhTI8pWSHIHxl8fLp21ggMrIMg8,UCakdSIPsJqiOLqylgoYmwQg,ITVersity - All live Sessions,2021-09-18T15:05:49Z,6
+PLf0swTFhTI8o-9Ix2eeR2Xnr1a-Pw8lxS,UCakdSIPsJqiOLqylgoYmwQg,Free Python and SQL Hands On Training for fresh graduates (July 2021),2021-07-31T15:20:51Z,3
+PLf0swTFhTI8ouplAD9T0tWc895R80Qhj-,UCakdSIPsJqiOLqylgoYmwQg,Python Practice Tests - Self Assessments for professionals as well as Technical Screening for recruiters,2021-07-20T06:17:33Z,1
+PLf0swTFhTI8qMc4aL8jFqnPODItCxz9ax,UCakdSIPsJqiOLqylgoYmwQg,Python and Data Engineering Bootcamp Program - 2021 August,2021-06-28T11:55:39Z,20
+PLf0swTFhTI8qbQ5pF9VacNUPZcoMWlgG4,UCakdSIPsJqiOLqylgoYmwQg,Python and Data Engineering Bootcamp Program - 2021 July,2021-06-14T23:31:19Z,20
+PLf0swTFhTI8ov46uXlJnsGp6NucjxgL9W,UCakdSIPsJqiOLqylgoYmwQg,ITVersity Trainings - Support Sessions and Demos,2021-06-02T12:03:40Z,2
+PLf0swTFhTI8o5Lb5yw1aDtvVJ8Wo4Lpm-,UCakdSIPsJqiOLqylgoYmwQg,"Getting Started with ITVersity's Data Engineering Labs - Hadoop, Spark and Kafka on multi node cluster",2021-03-15T12:43:12Z,8
+PLf0swTFhTI8rkH4yIfoyTAheEGjWIRtPG,UCakdSIPsJqiOLqylgoYmwQg,Mastering Python - A Comprehensive Python Course for beginners and experienced developers,2020-12-21T13:06:58Z,128
+PLf0swTFhTI8qOGXb3e6BmqHGQ-tnsP51q,UCakdSIPsJqiOLqylgoYmwQg,Setup hands on lab on Ubuntu 18.04 VM on GCP using Docker to learn Python and SQL,2020-11-28T16:27:11Z,17
+PLf0swTFhTI8p2yirPMTUhJ2xzuQhhUTwY,UCakdSIPsJqiOLqylgoYmwQg,Mastering SQL using Postgresql using ITVersity Labs,2020-11-09T14:01:09Z,86
+PLf0swTFhTI8re8tJLnJ-ny68yXE8OfJH5,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark using SQL,2020-10-30T13:48:58Z,66
+PLf0swTFhTI8o_okwmgBvxZD8-GeVCdAEq,UCakdSIPsJqiOLqylgoYmwQg,ITVersity - Big Data Labs - Starterkits,2020-10-05T05:26:45Z,1
+PLf0swTFhTI8rt0Bk0RAFC5-S6CUNrVQva,UCakdSIPsJqiOLqylgoYmwQg,A comprehensive NiFi Workshop,2020-07-10T17:37:13Z,7
+PLf0swTFhTI8pBe2Vr2neQV7shh9Rus8rl,UCakdSIPsJqiOLqylgoYmwQg,"Free Data Engineering Bootcamp using Hadoop, Spark, NiFi, Kafka",2020-07-05T22:08:34Z,8
+PLf0swTFhTI8rMmW7GZv1-z4iu_-TAv3bi,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark using Python for Certifications (Databricks and Cloudera CCA 175),2020-07-05T15:30:07Z,9
+PLf0swTFhTI8oQ5MKXOkQtCp6ksHZFf8wo,UCakdSIPsJqiOLqylgoYmwQg,Python Programming for Kids,2020-05-30T15:00:56Z,3
+PLf0swTFhTI8qhMM6uka63ASG1RrRHws4o,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Workshop for 2020 Summer US Graduates,2020-05-20T00:53:58Z,42
+PLf0swTFhTI8obWlNxixKrweLe93UR9cCc,UCakdSIPsJqiOLqylgoYmwQg,"Data Engineering Exercises (Python, Scala, SQL, Shell Scripting, Spark, NoSQL etc)",2020-05-06T15:35:53Z,9
+PLf0swTFhTI8o__yFteXNWgQX8H6kSTQ7Z,UCakdSIPsJqiOLqylgoYmwQg,Basics of Programming using Python,2020-04-25T16:41:33Z,25
+PLf0swTFhTI8q8kLYt6Nyzf79ChQUnMntD,UCakdSIPsJqiOLqylgoYmwQg,Career Counseling for Mid Career Engineers,2020-04-25T04:17:36Z,1
+PLf0swTFhTI8rCO6WBSfcSPQMf3l5ZZUwc,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark - Issues and Solutions,2020-04-19T05:18:48Z,2
+PLf0swTFhTI8rSk91zxLZNWxiTQyVjxydd,UCakdSIPsJqiOLqylgoYmwQg,Advanced Apache Spark - Key Concepts and Frequently Asked Questions (FAQ),2020-04-18T12:38:03Z,1
+PLf0swTFhTI8qPcW9pj-ZOQoWTaZtaKofP,UCakdSIPsJqiOLqylgoYmwQg,Basics of Computers for Kids,2020-04-11T14:18:09Z,6
+PLf0swTFhTI8qD1UIToygTApiyGenfusqD,UCakdSIPsJqiOLqylgoYmwQg,"CCA 175 Tips, Techniques and Resources",2020-04-08T19:29:36Z,13
+PLf0swTFhTI8oc9mpPLu6o48oemrkTbl0B,UCakdSIPsJqiOLqylgoYmwQg,ITVersity - Big Data Labs - Usage and Common Issues,2019-11-21T03:59:23Z,4
+PLf0swTFhTI8oaoJtQnyx--W61538tQ0k6,UCakdSIPsJqiOLqylgoYmwQg,Building Social Profile - Tips and Techniques,2019-08-26T17:12:36Z,2
+PLf0swTFhTI8r3_cO0M3qDjB_NivfGNIAL,UCakdSIPsJqiOLqylgoYmwQg,Cloud and Data Engineering Bootcamp - Fall'19,2019-08-15T16:01:48Z,5
+PLf0swTFhTI8qeXufQGaABa6rvtkSneqWN,UCakdSIPsJqiOLqylgoYmwQg,Expert Talks,2019-08-07T21:37:46Z,1
+PLf0swTFhTI8p5a-YZrpnGT7gFCX66UVSK,UCakdSIPsJqiOLqylgoYmwQg,Udemy Online Q&A Sessions,2019-07-30T14:47:12Z,1
+PLf0swTFhTI8rEIl9BmPxx8wPMmSJhPO6O,UCakdSIPsJqiOLqylgoYmwQg,Content Creation,2019-07-09T04:37:07Z,2
+PLf0swTFhTI8ot9JViW0_QLDEp71Q0PUNI,UCakdSIPsJqiOLqylgoYmwQg,"CCA 159 - Data Analyst - Sqoop , Hive and Impala",2019-06-28T03:10:52Z,235
+PLf0swTFhTI8oUz3_ot8fzJT5THfviV9Ao,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Live Sessions,2019-04-14T11:54:23Z,2
+PLf0swTFhTI8oU8tcavexNnDtS3tJaPIi4,UCakdSIPsJqiOLqylgoYmwQg,Big Data Practice Tests - General,2019-04-11T23:46:15Z,1
+PLf0swTFhTI8pb5SWBnZT7UyV9sU7lU9B9,UCakdSIPsJqiOLqylgoYmwQg,Be a Pro using MacBook Pro,2019-03-31T14:34:13Z,34
+PLf0swTFhTI8reEqes_y588WF500j9i-ym,UCakdSIPsJqiOLqylgoYmwQg,Build backend for applications using NodeJS and MongoDB,2019-02-13T10:24:12Z,34
+PLf0swTFhTI8qINd_6AhVnQvoLtGad2iPp,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Overview of Big Data ecosystem,2018-12-22T12:01:19Z,9
+PLf0swTFhTI8okRPQSHJ2ImpygMz7VOfCs,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Big Data Ingestion tools,2018-12-22T02:31:53Z,8
+PLf0swTFhTI8pzhd5GfyU5AL8GIjqOzsUQ,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Streaming Data Pipelines,2018-12-08T14:29:38Z,56
+PLf0swTFhTI8oIr3FjJMbcd5sj3GLCV8Sl,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Databases in Big Data,2018-12-08T01:17:37Z,28
+PLf0swTFhTI8r-L8zft8daBkJ66_RTRSV7,UCakdSIPsJqiOLqylgoYmwQg,Fundamentals of Programming using Python 3,2018-11-25T23:37:28Z,30
+PLf0swTFhTI8p-7_ibvl8yL2TLDh9MNqXS,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Bootcamp - Linux Fundamentals,2018-11-25T10:13:13Z,48
+PLf0swTFhTI8pst8i3rA6ymGJOx8nO5ouS,UCakdSIPsJqiOLqylgoYmwQg,Cloudera Hadoop and Spark Cluster Administration - CCA 131 Certification,2018-10-21T03:49:17Z,158
+PLf0swTFhTI8pZ6fj9OmHKuESF0yUL-wkb,UCakdSIPsJqiOLqylgoYmwQg,Apache Flume - Ingesting log data to Hadoop and Kafka,2018-09-19T22:52:04Z,14
+PLf0swTFhTI8pMQTyecJq43w1J0ercuvcf,UCakdSIPsJqiOLqylgoYmwQg,Big Data on Cloud (Hadoop and Spark on AWS),2018-08-11T12:42:24Z,8
+PLf0swTFhTI8qtIYxVoPOjA2fYzBFiNMue,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark 2 using Python 3,2018-07-29T14:12:49Z,25
+PLf0swTFhTI8pPnREZl7A8YmE4Cp_canPM,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark 2 using Scala,2018-07-23T00:23:06Z,20
+PLf0swTFhTI8oG2n_NLQTAv5tnQSB2ax6b,UCakdSIPsJqiOLqylgoYmwQg,Building Hadoop and Spark Cluster using Ansible,2018-07-13T06:52:57Z,12
+PLf0swTFhTI8pLBlJROI-3Mhu_XQfVZNrs,UCakdSIPsJqiOLqylgoYmwQg,Linux Fundamentals for Big Data Professionals,2018-06-18T06:13:44Z,12
+PLf0swTFhTI8rM5AdWXObgQ-aN5gYyOfKC,UCakdSIPsJqiOLqylgoYmwQg,Building Streaming Data Pipelines - Using Kafka,2018-05-20T01:06:38Z,16
+PLf0swTFhTI8rvVFacGRPrV0iRkEbIraPV,UCakdSIPsJqiOLqylgoYmwQg,AWS EMR and Spark 2,2018-04-11T23:55:37Z,1
+PLf0swTFhTI8rxxGodNHJia7IPEqs7Sla0,UCakdSIPsJqiOLqylgoYmwQg,Angular Workshop: Build Chatbot using DialogFlow,2018-03-12T13:49:44Z,4
+PLf0swTFhTI8qNEFO5z-P928y42Lba1T36,UCakdSIPsJqiOLqylgoYmwQg,Amazon Web Services - Foundation,2018-02-12T15:03:23Z,30
+PLf0swTFhTI8qLS7CSEMHU2hI59NYFKtI6,UCakdSIPsJqiOLqylgoYmwQg,Premium Hangouts,2018-01-26T03:59:05Z,6
+PLf0swTFhTI8o9qJ_m1BXC2UeKTcZvJH_6,UCakdSIPsJqiOLqylgoYmwQg,Data Engineering Boot Camp using Big Data - 201803,2018-01-25T01:06:14Z,3
+PLf0swTFhTI8rT3ApjBqt338MCO0ZvReFt,UCakdSIPsJqiOLqylgoYmwQg,CCA 175 Spark and Hadoop Developer using Python,2018-01-17T04:37:07Z,161
+PLf0swTFhTI8oy5U0C5GwWR88zb8WKgqK2,UCakdSIPsJqiOLqylgoYmwQg,Setup Development Environment for Scala and Spark - Windows 10,2017-12-31T23:18:00Z,20
+PLf0swTFhTI8q4KxZyYhyNZFwMzbfJwwn9,UCakdSIPsJqiOLqylgoYmwQg,Python and Spark Workshop Series - 01 Python and Linux basics,2017-12-30T01:28:46Z,7
+PLf0swTFhTI8qeFZpuNjrlF3fceeIQSEda,UCakdSIPsJqiOLqylgoYmwQg,Learn Python for Spark,2017-12-29T23:48:40Z,7
+PLf0swTFhTI8pYbd8mr36LiYIOOY2xw5Iu,UCakdSIPsJqiOLqylgoYmwQg,Setup Development Environment for Python and Spark - Windows 10,2017-12-29T05:26:52Z,18
+PLf0swTFhTI8qaFYQyR99wchg1Kx_BFXSg,UCakdSIPsJqiOLqylgoYmwQg,Apache Sqoop for Certifications,2017-11-24T03:25:02Z,25
+PLf0swTFhTI8rDQXfH8afWtGgpOTnhebDx,UCakdSIPsJqiOLqylgoYmwQg,CCA 175 Spark and Hadoop Developer - Scala,2017-11-24T02:19:02Z,157
+PLf0swTFhTI8otgadSFlL44X_ISa0jvhJQ,UCakdSIPsJqiOLqylgoYmwQg,Big Data Certifications Workshop - 201711,2017-10-29T10:32:30Z,35
+PLf0swTFhTI8q2yDYXQqnHy1FnOZLBlQNh,UCakdSIPsJqiOLqylgoYmwQg,HDPCD:Spark using Scala,2017-10-19T08:05:06Z,74
+PLf0swTFhTI8pronNK7Gm-isKX7tdNb0Go,UCakdSIPsJqiOLqylgoYmwQg,HDPCD:Spark using Python,2017-09-29T00:30:11Z,63
+PLf0swTFhTI8r-xiHWX5XznCAbLBbEwyY7,UCakdSIPsJqiOLqylgoYmwQg,itversity - events,2017-08-31T14:53:48Z,3
+PLf0swTFhTI8rG-rsZ6wFsaLG9diTXu9US,UCakdSIPsJqiOLqylgoYmwQg,Learn SQL using Oracle from expert,2017-06-12T23:25:09Z,10
+PLf0swTFhTI8qnMI7PUgjlBIsB9HwUFhYH,UCakdSIPsJqiOLqylgoYmwQg,Java Foundations for Naives and High School Students,2017-06-07T11:37:30Z,16
+PLf0swTFhTI8qtOLP5rWmwonnlilIBIrsl,UCakdSIPsJqiOLqylgoYmwQg,Scala and Spark training - June 2017,2017-05-25T09:51:43Z,32
+PLf0swTFhTI8rv85gSUEyBxN6fdv5D2E0C,UCakdSIPsJqiOLqylgoYmwQg,Learn Scala for Spark,2017-05-14T05:54:10Z,29
+PLf0swTFhTI8p4bkrJuJdnZo5mDlDiHEVg,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark using Scala,2017-05-14T01:06:19Z,44
+PLf0swTFhTI8p6Itn5XZ0o9osOF_YSqAgo,UCakdSIPsJqiOLqylgoYmwQg,Developer certification videos,2017-05-01T00:42:04Z,80
+PLf0swTFhTI8pz46OjMBsafX3CALrKKzMe,UCakdSIPsJqiOLqylgoYmwQg,CCA Data Analyst - Sqoop and Hive,2017-04-03T01:16:21Z,33
+PLf0swTFhTI8ra9ccF3t7p_vEBkm6Q8iOj,UCakdSIPsJqiOLqylgoYmwQg,Scala and Spark Workshop,2017-03-25T02:28:32Z,7
+PLf0swTFhTI8rVDf94eqeRmezl6sUBrxPg,UCakdSIPsJqiOLqylgoYmwQg,Big Data Workshop - live training - 2017 January - Hive videos,2017-03-05T17:11:14Z,13
+PLf0swTFhTI8qCIiR6SPSmK8btFEgnkK0Q,UCakdSIPsJqiOLqylgoYmwQg,Big Data Workshop - live training - 2017 February - Scala and Spark,2017-02-18T23:50:10Z,14
+PLf0swTFhTI8pFYjRLQtPmbj85trI5yHyR,UCakdSIPsJqiOLqylgoYmwQg,Big Data Workshop - live training - 2017 January - Sqoop videos,2017-02-18T02:54:36Z,14
+PLf0swTFhTI8pF2LlundTPc5Pn1TIbUhri,UCakdSIPsJqiOLqylgoYmwQg,Big Data Workshop - live training - 2017 February,2017-02-15T08:19:20Z,23
+PLf0swTFhTI8q4pvjNTcjMPzCYPZIrpPAa,UCakdSIPsJqiOLqylgoYmwQg,Big Data Workshop - live training - 2017 January,2017-01-23T08:32:34Z,68
+PLf0swTFhTI8piG0jq0mFueIPs7iL5_3b4,UCakdSIPsJqiOLqylgoYmwQg,Personal,2017-01-17T11:35:31Z,1
+PLf0swTFhTI8okziaJI7zqnXXwdE1il7sj,UCakdSIPsJqiOLqylgoYmwQg,Big Data Certifications Workshops,2016-12-11T06:20:38Z,14
+PLf0swTFhTI8rQhGnzEOM-GkCJBO0wrnlt,UCakdSIPsJqiOLqylgoYmwQg,bigdata-labs,2016-11-05T02:02:13Z,5
+PLf0swTFhTI8qOAbrJhihZZTWfZA_arTYZ,UCakdSIPsJqiOLqylgoYmwQg,Setup Virtual Machines - using vmware esxi and ovh,2016-11-01T16:33:11Z,16
+PLf0swTFhTI8r4dv9xK0JGIGnkOQYdps8Q,UCakdSIPsJqiOLqylgoYmwQg,itversity - content writing,2016-10-20T12:38:25Z,5
+PLf0swTFhTI8rJzkVl_OawjNPh1jMK1B3m,UCakdSIPsJqiOLqylgoYmwQg,Become professional blogger,2016-10-05T08:50:19Z,13
+PLf0swTFhTI8r6bXXwdkkCs75yrcfXqZHr,UCakdSIPsJqiOLqylgoYmwQg,Big Data Engineer immersion - Active Students - live workshops,2016-09-19T01:29:50Z,15
+PLf0swTFhTI8pWRmfdBzj_mm3U__cvRKPb,UCakdSIPsJqiOLqylgoYmwQg,Googlegroups - Big Data Technologies,2016-09-14T04:03:34Z,1
+PLf0swTFhTI8qCGIvjXzX3ODTJYvgEApFg,UCakdSIPsJqiOLqylgoYmwQg,Big Data Engineer - Immersion - East Coast,2016-09-13T03:45:52Z,27
+PLf0swTFhTI8pNZ0y87SX4PfpNjqPizDPw,UCakdSIPsJqiOLqylgoYmwQg,Career Counseling for MS Students,2016-08-06T02:00:12Z,2
+PLf0swTFhTI8qtm7zm3d4T5w2Bp6EnMaSU,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Administration - FAQs,2016-08-03T01:20:07Z,5
+PLf0swTFhTI8pgc4wyhT8lIEJCPT08RI3X,UCakdSIPsJqiOLqylgoYmwQg,HDP Certified Developer - Spark (HDPCD:Spark),2016-07-30T16:42:55Z,64
+PLf0swTFhTI8qzzHRrvxvhEBVOMUmg8cXg,UCakdSIPsJqiOLqylgoYmwQg,hangouts,2016-07-22T08:46:07Z,18
+PLf0swTFhTI8qjv9VOwMesAZ07OKIgsmUb,UCakdSIPsJqiOLqylgoYmwQg,Big Data Engineer - Immersion,2016-07-17T06:14:31Z,71
+PLf0swTFhTI8ra5T5B7QsNuu5yxiEdd6Ro,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - NoSQL - MongoDB,2016-07-01T14:57:43Z,7
+PLf0swTFhTI8oLqAw3cLyPiqpPhDMpVuM2,UCakdSIPsJqiOLqylgoYmwQg,Hadoop and Spark developer - lab setup on cloud,2016-06-26T06:01:15Z,11
+PLf0swTFhTI8qi5IuwLYm7sJE6vWo6KrPj,UCakdSIPsJqiOLqylgoYmwQg,itversity Private - Hadoop and Spark administrator training - June 2016,2016-06-21T06:02:31Z,8
+PLf0swTFhTI8rPoYMMZGs44FZX4qGbfjTu,UCakdSIPsJqiOLqylgoYmwQg,itversity Private - Hadoop and Spark developer training - June 2016,2016-06-16T14:07:17Z,18
+PLf0swTFhTI8rG963A9hsXLrzIXbt_jwgV,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Distributed File System - HDFS,2016-06-03T02:15:10Z,19
+PLf0swTFhTI8pH1wHiMMTLQCYFSIhrBAqZ,UCakdSIPsJqiOLqylgoYmwQg,Apache Oozie,2016-06-02T10:57:23Z,7
+PLf0swTFhTI8qZPHwjy4Hrh_NUlhLku5cx,UCakdSIPsJqiOLqylgoYmwQg,Apache Sqoop,2016-06-02T10:27:07Z,14
+PLf0swTFhTI8rq6SBtTtlTpOB2bHFoIlOZ,UCakdSIPsJqiOLqylgoYmwQg,Certifications - Hadoop - Cloudera Certified Professional Data Engineer,2016-06-02T05:06:31Z,39
+PLf0swTFhTI8qbpdBmeiyYKP3wEBrjVpMr,UCakdSIPsJqiOLqylgoYmwQg,"Data To Analytics Using Hadoop, Spark and Tableau",2016-05-18T02:48:37Z,10
+PLf0swTFhTI8pJn1pcRo1idi4XX-a62Oo9,UCakdSIPsJqiOLqylgoYmwQg,Administration - Hadoop - Cloudera Hadoop on AWS,2016-03-22T11:12:33Z,64
+PLf0swTFhTI8o5IZuk-m72ow0TBnyhqCAF,UCakdSIPsJqiOLqylgoYmwQg,Certifications - Hadoop - Cloudera Certified Administrator of Apache Hadoop (CCAH),2016-03-22T11:09:36Z,52
+PLf0swTFhTI8q9Uc7g2gs2t_ToFGzi7GEw,UCakdSIPsJqiOLqylgoYmwQg,Administration - Hadoop - Cloudera Hadoop on VMs,2016-03-20T02:14:32Z,78
+PLf0swTFhTI8rPlPxDnDrYWE8bg2kKs3Q-,UCakdSIPsJqiOLqylgoYmwQg,Certifications - Hadoop - Hortonworks Data Platform Certified Administrator (HDPCA),2016-03-20T02:12:06Z,67
+PLf0swTFhTI8o6PhuwMO6rx4-m3CnZ7uBp,UCakdSIPsJqiOLqylgoYmwQg,Apache Hive,2016-03-14T04:01:00Z,21
+PLf0swTFhTI8pQcKpwJHs4irN-0YOPwhvm,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark - Streaming,2016-03-13T11:09:54Z,9
+PLf0swTFhTI8pqjoiGAccWtzloz4V9LsHi,UCakdSIPsJqiOLqylgoYmwQg,Certifications - Redhat Certified System Administrator,2016-03-10T23:36:50Z,14
+PLf0swTFhTI8rD2YwBTcXy7aLTtXXomevI,UCakdSIPsJqiOLqylgoYmwQg,Apache Pig,2016-02-24T08:09:32Z,22
+PLf0swTFhTI8r7kR-yCpgLbUVNL9Dl-z_C,UCakdSIPsJqiOLqylgoYmwQg,Apple Mac for IT Professionals,2016-02-15T12:54:07Z,19
+PLf0swTFhTI8qGExF3HH7frOiYPV7h1lD4,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Cloud Foundry,2016-02-11T08:47:31Z,8
+PLf0swTFhTI8pTZ2EYpjrJCPlRQvBJ7Cwa,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Certifications - HDP Certified Developer - no Java,2016-02-11T01:07:14Z,79
+PLf0swTFhTI8qMPlj6NXxP60BWVBrasEiO,UCakdSIPsJqiOLqylgoYmwQg,Learning Resources - Cloud,2016-01-29T05:23:49Z,3
+PLf0swTFhTI8qIRHNfe_RXZ_8_0Re51sku,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Certifications - HDP Certified Developer - Java (HDPCD:Java),2016-01-28T03:59:45Z,41
+PLf0swTFhTI8pYx_X_fYpWkCfHozmMsyij,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark - Scala,2016-01-18T07:43:39Z,53
+PLf0swTFhTI8o2V96xr0ayFWKfFJ2PvxHM,UCakdSIPsJqiOLqylgoYmwQg,Apache Spark - Python,2016-01-18T07:41:38Z,26
+PLf0swTFhTI8pl4zeT4VoSUzfj8jdF9MaS,UCakdSIPsJqiOLqylgoYmwQg,Linux & Unix Tips,2015-12-27T16:38:14Z,4
+PLf0swTFhTI8qxbn6ufXIQeUxhK73CC_df,UCakdSIPsJqiOLqylgoYmwQg,Spark Administration - Standalone on EC2,2015-12-14T16:38:27Z,8
+PLf0swTFhTI8rJvGpOp-LujOcpk-Rlz-yE,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Certifications - Cloudera Certified Associate Spark and Hadoop Developer,2015-12-14T02:59:18Z,94
+PLf0swTFhTI8px9BvYqgCBe4Y8SLff-bWV,UCakdSIPsJqiOLqylgoYmwQg,Crash course of Scala for Spark users,2015-11-28T19:27:08Z,3
+PLf0swTFhTI8qCRk4oaygBuynJP9DOPQsL,UCakdSIPsJqiOLqylgoYmwQg,Performance Tuning - Oracle Database,2015-11-14T02:53:12Z,18
+PLf0swTFhTI8pznv1raUaDJGsj_jYUh6qv,UCakdSIPsJqiOLqylgoYmwQg,Amazon Web Services - Hadoop using Elastic Map Reduce,2015-11-12T04:10:54Z,8
+PLf0swTFhTI8ogPRqcabZyQsybEqFP6lW-,UCakdSIPsJqiOLqylgoYmwQg,Oracle Cloud,2015-11-11T15:22:39Z,5
+PLf0swTFhTI8r8xkL1fxVy8POlg-P251WM,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - NoSQL - Cassandra for Java Developers,2015-11-07T05:56:24Z,2
+PLf0swTFhTI8om6McM1z5TZERReNEIKB9O,UCakdSIPsJqiOLqylgoYmwQg,Trailers,2015-11-01T02:49:01Z,10
+PLf0swTFhTI8r9bpxMZI1r3wWad763tLSA,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - R and R Studio,2015-10-29T13:23:38Z,4
+PLf0swTFhTI8qZ2GkrOQQ5CA3b_RX7p8ch,UCakdSIPsJqiOLqylgoYmwQg,Effective Job Marketing,2015-10-22T12:45:08Z,11
+PLf0swTFhTI8ruUU0-3aAu-Ik7aBce8Xma,UCakdSIPsJqiOLqylgoYmwQg,Publishing Content to itversity,2015-10-19T05:28:02Z,9
+PLf0swTFhTI8qFaaST9z73rGptO04_blTQ,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - NoSQL - DynamoDB for Java Developers,2015-10-12T13:39:25Z,8
+PLf0swTFhTI8r6wUT9dcSQ-sLeaIMbbLm_,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - NoSQL - HBase for Java Developers,2015-10-04T16:15:53Z,9
+PLf0swTFhTI8rjBS9zJGReO1IWLf7Lpi7g,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Apache Spark,2015-09-23T05:23:46Z,12
+PLf0swTFhTI8pFYbcZA4bNWCjetRKVubPH,UCakdSIPsJqiOLqylgoYmwQg,Plain Vanilla Hadoop - Single Node - Setup and Development,2015-09-19T07:21:42Z,30
+PLf0swTFhTI8p7ZYBB5DmRHK3L6aq8Mvcv,UCakdSIPsJqiOLqylgoYmwQg,Hadoop - Map Reduce application development using Java,2015-09-07T03:25:15Z,61
+PLf0swTFhTI8pUf90nS2K4Tw4SZAFGw9m8,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Administration - Day to Day operations,2015-09-01T05:15:13Z,11
+PLf0swTFhTI8pjVUq_HLs4t1XvMxQf2yHO,UCakdSIPsJqiOLqylgoYmwQg,Infolob Hadoop Training 2015 08,2015-08-22T03:07:15Z,2
+PLf0swTFhTI8riluKs2E2SG-vvulPQXNTt,UCakdSIPsJqiOLqylgoYmwQg,VMWare - Create Virtual Machines on Mac or PC,2015-08-20T04:23:32Z,13
+PLf0swTFhTI8pZ1QXeUS4Tb9Sc6crYQDkP,UCakdSIPsJqiOLqylgoYmwQg,Linux Administration - Redhat,2015-08-19T06:10:10Z,5
+PLf0swTFhTI8qKo5rHQ5XmcAWjkMZnfo6I,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Administration - Hortonworks - HDP 2.3.0 - AWS,2015-08-17T15:09:12Z,70
+PLf0swTFhTI8rvUye27NdkTte3ldym2Nlu,UCakdSIPsJqiOLqylgoYmwQg,Amazon Web Services,2015-08-16T13:48:46Z,21
+PLf0swTFhTI8rG6Q4dr_FruqDdzu9M7AQ2,UCakdSIPsJqiOLqylgoYmwQg,Hadoop Administration - Hortonworks - HDP 2.3.0 - VM,2015-08-14T02:57:23Z,79
+PLf0swTFhTI8rEyKHZyouchVRqxVylnszp,UCakdSIPsJqiOLqylgoYmwQg,Virtualization using Oracle VM Technology,2015-03-30T14:38:44Z,4
+PLf0swTFhTI8ohyodrzJrBiy5U8tRd39wQ,UCakdSIPsJqiOLqylgoYmwQg,Microsoft Windows for IT Professionals,2015-03-29T17:43:56Z,20
+PLf0swTFhTI8q5X0ZBeUaK1yl_TP-tJInC,UCakdSIPsJqiOLqylgoYmwQg,Hadoop - Build Enterprise Data Warehouse,2015-01-27T20:14:34Z,27
+PLf0swTFhTI8qXRp5dmGKjRth-VqNLdNiN,UCakdSIPsJqiOLqylgoYmwQg,Previews,2015-01-27T03:21:54Z,10
+PLf0swTFhTI8pOZ4VBSGerKUmF9USWL6vd,UCakdSIPsJqiOLqylgoYmwQg,Administration - Hadoop using Cloudera Distribution,2015-01-06T22:36:31Z,25
+PLf0swTFhTI8o6LURHy7u3YIBC3FnuZIdP,UCakdSIPsJqiOLqylgoYmwQg,Introduction - Big Data Introduction,2014-12-30T11:54:20Z,18
+PLf0swTFhTI8qBGRdIwWeP5lh5UY2AfIoG,UCakdSIPsJqiOLqylgoYmwQg,Performance Tuning - Hadoop Map Reduce,2014-11-21T00:37:58Z,8
+PLf0swTFhTI8qjmMxtnNkqRj_u607Pg6U3,UCakdSIPsJqiOLqylgoYmwQg,General - Useful for all who uses internet.,2014-11-13T19:32:24Z,2
+PLf0swTFhTI8rnNRnVz6n-f1d3ZCDtgqRq,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Hadoop Map Reduce Programming using Java (fine tuned for Java Professionals),2014-11-08T13:14:48Z,10
+PLf0swTFhTI8rWAzLVxotgyyigpx0mu-9P,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Data Analytics using Cloudera Distribution of Hadoop eco system,2014-11-06T03:38:05Z,11
+PLf0swTFhTI8oE8PS7098Zl3iIIRyFiwaU,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Cloudera Hadoop on Amazon Web Services,2014-10-31T20:55:20Z,2

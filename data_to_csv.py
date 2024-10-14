@@ -2,9 +2,14 @@ import csv
 from datetime import datetime
 from googleapiclient.discovery import build
 import isodate
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
 
 # YouTube API Key - Replace with your own key
-YOUTUBE_API_KEY = 'AIzaSyBGW-4oWpm9oBZIJqVP21LuMlGFb3IuC98'
+YOUTUBE_API_KEY = os.getenv('YOUTUBE_API_KEY')
 
 # List of usernames/handles for channels
 channel_usernames = [
@@ -63,7 +68,7 @@ def fetch_channel_data(channel_ids):
             channels.append({
                 'channel_id': item['id'],
                 'title': snippet.get('title', ''),
-                'description': snippet.get('description', ''),
+                # 'description': snippet.get('description', ''),
                 'creation_date': datetime.strptime(snippet['publishedAt'], '%Y-%m-%dT%H:%M:%SZ').date(),
                 'subscriber_count': stats.get('subscriberCount', 'N/A'),
                 'total_views': stats.get('viewCount', 'N/A'),
@@ -94,7 +99,7 @@ def fetch_playlist_data(channel_ids):
                     'playlist_id': item['id'],
                     'channel_id': channel_id,
                     'title': snippet.get('title', ''),
-                    'description': snippet.get('description', ''),
+                    # 'description': snippet.get('description', ''),
                     'creation_date': snippet.get('publishedAt', ''),
                     'total_videos': item['contentDetails']['itemCount']
                 })
@@ -148,7 +153,7 @@ def fetch_video_details(video_ids, playlist_id):
                 'video_id': item['id'],
                 'playlist_id': playlist_id,
                 'title': snippet.get('title', ''),
-                'description': snippet.get('description', ''),
+                # 'description': snippet.get('description', ''),
                 'publish_date': snippet.get('publishedAt', ''),
                 'view_count': statistics.get('viewCount', 'N/A'),
                 'like_count': statistics.get('likeCount', 'N/A'),
