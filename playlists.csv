@@ -200,3 +200,906 @@ PLf0swTFhTI8qjmMxtnNkqRj_u607Pg6U3,UCakdSIPsJqiOLqylgoYmwQg,General - Useful for
 PLf0swTFhTI8rnNRnVz6n-f1d3ZCDtgqRq,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Hadoop Map Reduce Programming using Java (fine tuned for Java Professionals),2014-11-08T13:14:48Z,10
 PLf0swTFhTI8rWAzLVxotgyyigpx0mu-9P,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Data Analytics using Cloudera Distribution of Hadoop eco system,2014-11-06T03:38:05Z,11
 PLf0swTFhTI8oE8PS7098Zl3iIIRyFiwaU,UCakdSIPsJqiOLqylgoYmwQg,Getting Started - Cloudera Hadoop on Amazon Web Services,2014-10-31T20:55:20Z,2
+PLhr1KZpdzukevOLdBxUfPVpPDJFklBPQp,UCd6MoB9NC6uYN2grvUNT-Zg,AWS HealthScribe,2024-10-16T00:53:31Z,6
+PLhr1KZpdzukdnrawLJHKnUIH_r-jjPLNR,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon SageMaker,2024-10-16T00:35:21Z,9
+PLhr1KZpdzukeut03V4tIWKvZ17Z1V9wki,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Bedrock,2024-10-16T00:11:01Z,4
+PLhr1KZpdzukfaEJzPuRJBFR1p5tEke1rM,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Q,2024-10-16T00:09:37Z,5
+PLhr1KZpdzukcUzyzityD2WGVYFQxaOJ3R,UCd6MoB9NC6uYN2grvUNT-Zg,Making Better Decisions with Data for Small Business Owners,2024-10-15T22:03:47Z,3
+PLhr1KZpdzukcHzRoPEkTVXg_G1GpC0_-z,UCd6MoB9NC6uYN2grvUNT-Zg,Automating with AI/ML for Small Business Owners,2024-10-08T03:04:12Z,3
+PLhr1KZpdzukcyI-EkyfBz9PZJcmRNmhbC,UCd6MoB9NC6uYN2grvUNT-Zg,UKIR Women SA Video Series 2,2024-09-03T19:18:54Z,8
+PLhr1KZpdzukey12u0yPYHLkgtC2T1M8Hh,UCd6MoB9NC6uYN2grvUNT-Zg,Partner Success with AWS,2024-08-26T20:02:27Z,9
+PLhr1KZpdzukcaLnZv9Q_7dAQ84Sfqued5,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Verified Permissions Quick Start,2024-08-19T18:21:18Z,3
+PLhr1KZpdzuke_BbhWEvKo7c7TUtV_tUXX,UCd6MoB9NC6uYN2grvUNT-Zg,Ubuntu on AWS,2024-08-07T23:57:46Z,4
+PLhr1KZpdzukcGUwnQ-a56Jsk0oTpRscMN,UCd6MoB9NC6uYN2grvUNT-Zg,Generative AI Journeys - Fireside Chats with Swami Sivasubramanian,2024-06-24T18:12:58Z,9
+PLhr1KZpdzukcighHvaqYR3f2Dj1ZtnbXm,UCd6MoB9NC6uYN2grvUNT-Zg,AWS End User Computing,2024-06-10T22:44:09Z,14
+PLhr1KZpdzukccSVs_m06cO4JPZJTmOTje,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon In-Memory Snackables,2024-06-07T16:17:50Z,9
+PLhr1KZpdzukcj8lsINDmuXPJq6aQEY4d2,UCd6MoB9NC6uYN2grvUNT-Zg,Generative AI on Amazon SageMaker Deep Dive Series,2024-06-07T00:00:43Z,30
+PLhr1KZpdzukfDDmq8suKqnlFgcmZP2IXR,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for VMware,2024-06-05T22:13:31Z,11
+PLhr1KZpdzukeDJgbFXigDMDgv7IferBzX,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Verified Permissions [Top Videos],2024-06-04T23:39:18Z,11
+PLhr1KZpdzuke2KrM6Q4iYGq6Oex2y1ymK,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Glue in 5 Minutes,2024-05-24T21:34:33Z,5
+PLhr1KZpdzukez4XNSCcTVLKaXTB1oAnfn,UCd6MoB9NC6uYN2grvUNT-Zg,Healthcare and Life Sciences on AWS | Singapore,2024-05-13T18:13:41Z,11
+PLhr1KZpdzukfI_xNZSiJqXuTF61Y_Qmk9,UCd6MoB9NC6uYN2grvUNT-Zg,How-to with Amazon Q Developer,2024-04-29T23:16:44Z,4
+PLhr1KZpdzukeNavp3YQbZRO16b8HNzRo4,UCd6MoB9NC6uYN2grvUNT-Zg,How-to with Amazon Q Business,2024-04-29T23:15:21Z,4
+PLhr1KZpdzukfPG_YXFfCqlGiZnAUOIoik,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Q,2024-04-29T23:13:48Z,3
+PLhr1KZpdzukcKcvNRr0GR8B81XdAYyC8v,UCd6MoB9NC6uYN2grvUNT-Zg,Foundation Model Evaluation Deep Dive Series,2024-04-25T17:23:10Z,5
+PLhr1KZpdzukdxGUL7B_Gv45OG4-NECKcS,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Bedrock Customer Success Stories,2024-04-18T17:38:00Z,43
+PLhr1KZpdzukfmv7jxvB0rL8SWoycA9TIM,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Bedrock,2024-03-22T16:44:55Z,32
+PLhr1KZpdzukdfOYi8NMKcva3-JIUqgNMn,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Regions,2024-03-15T21:51:30Z,6
+PLhr1KZpdzukc5tz3b1Iq5gv_0B2nNTyxk,UCd6MoB9NC6uYN2grvUNT-Zg,Ferrari | AWS on Sports,2024-03-15T19:47:16Z,5
+PLhr1KZpdzukf6t4R7Mw6UmbY31FmoVbsK,UCd6MoB9NC6uYN2grvUNT-Zg,F1 | AWS for Sports,2024-03-15T19:29:11Z,20
+PLhr1KZpdzukdMGP64cLLmi_gq_Gb2XfXS,UCd6MoB9NC6uYN2grvUNT-Zg,PGA TOUR | AWS for Sports,2024-03-15T19:10:29Z,2
+PLhr1KZpdzukeN37p6lg0RAzIbfqQZzCcq,UCd6MoB9NC6uYN2grvUNT-Zg,Generative AI Journeys,2024-03-15T16:04:19Z,8
+PLhr1KZpdzukeQyk2SZ_QmWnvJXureKsAQ,UCd6MoB9NC6uYN2grvUNT-Zg,All In Series,2024-03-14T22:49:44Z,14
+PLhr1KZpdzuke0JqsnC-b-ohUWuiyNUNAe,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Graviton,2024-03-04T19:29:37Z,14
+PLhr1KZpdzukfptGXeVnCpEIMa9JXJGdlb,UCd6MoB9NC6uYN2grvUNT-Zg,Build On AWS UAE (United Arab Emirates),2024-01-25T23:33:30Z,4
+PLhr1KZpdzukfS8UlzkdZFzn86t90hUT6i,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Neptune Snackables,2024-01-16T22:54:21Z,11
+PLhr1KZpdzuke6i2knTfdDGJXLxqGDiuM7,UCd6MoB9NC6uYN2grvUNT-Zg,UKIR Women SA Video Series,2024-01-12T00:03:44Z,5
+PLhr1KZpdzukfvEqV2y61CqJdVYuG2Nxm0,UCd6MoB9NC6uYN2grvUNT-Zg,Build With Us!,2023-11-07T21:04:49Z,6
+PLhr1KZpdzukdPUjKuFmyOU-nk2oRiysEU,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Perimeter Protection services,2023-11-02T22:46:57Z,31
+PLhr1KZpdzuke1sNo6nlU16JAY1yli6Jv-,UCd6MoB9NC6uYN2grvUNT-Zg,Blockchain Bytes - Build on Public Blockchains with Amazon Managed Blockchain!,2023-11-01T20:20:26Z,7
+PLhr1KZpdzukfPplS-VhwJYH6h1jRWAyGv,UCd6MoB9NC6uYN2grvUNT-Zg,Cloud for Small Business Owners,2023-11-01T19:05:48Z,4
+PLhr1KZpdzukc0si2qen6_SZgtx5rVyvIp,UCd6MoB9NC6uYN2grvUNT-Zg,Cloud for Risk and Compliance Executives,2023-11-01T18:11:33Z,5
+PLhr1KZpdzukcf5e7vYOVkpw4h-rzy7Pn3,UCd6MoB9NC6uYN2grvUNT-Zg,OPA on AWS,2023-10-30T19:41:20Z,11
+PLhr1KZpdzukctQlfMAKLGzX3c90KmqJVn,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Lake Formation,2023-10-27T19:05:24Z,11
+PLhr1KZpdzukdEJ2inxl2R9Gz7NfMsFjO2,UCd6MoB9NC6uYN2grvUNT-Zg,Data for Executives,2023-10-13T20:36:36Z,4
+PLhr1KZpdzukfGWN4xoXRSC7O-4NqeFIdC,UCd6MoB9NC6uYN2grvUNT-Zg,DynamoDB Immersion Day,2023-10-13T19:13:57Z,7
+PLhr1KZpdzukehGYWKhHyIAfo_ksIgKf6g,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Behind the Cloud,2023-10-04T18:25:36Z,9
+PLhr1KZpdzukfNUc0k0c61EuC2WK-4ATwz,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Security Lake Demos,2023-09-14T22:56:48Z,6
+PLhr1KZpdzukfEKmvzaF91s1U2m2B0kqT3,UCd6MoB9NC6uYN2grvUNT-Zg,AWS in Orbit,2023-09-08T16:41:08Z,2
+PLhr1KZpdzukfWyXL8pfR6TPEZvHahr7iV,UCd6MoB9NC6uYN2grvUNT-Zg,Data Governance with AWS Master Class,2023-08-09T19:58:32Z,10
+PLhr1KZpdzukeNrcZo5aAgVPkm4UnugRX3,UCd6MoB9NC6uYN2grvUNT-Zg,Lightning talk on Amazon ECS and AWS Fargate,2023-08-08T23:54:37Z,11
+PLhr1KZpdzukdhr7jFkA7wFeq5yK0PElyv,UCd6MoB9NC6uYN2grvUNT-Zg,Cloud for CEOs,2023-07-25T19:36:43Z,4
+PLhr1KZpdzukfOyqj10wfZdSGsd3DutHtJ,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Innovation Ambassadors Podcast,2023-07-21T17:08:19Z,19
+PLhr1KZpdzukcg_x2mypsGM2gImTdabr-B,UCd6MoB9NC6uYN2grvUNT-Zg,Generative AI for Executives,2023-07-20T22:18:56Z,6
+PLhr1KZpdzukf-xb0lmiU3G89GJXaDbAIF,UCd6MoB9NC6uYN2grvUNT-Zg,Generative AI Foundations on AWS Technical Deep Dive Series,2023-07-14T17:33:18Z,7
+PLhr1KZpdzukemNOO71Hca0GpjG0QmXwEd,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon DynamoDB Nuggets,2023-06-23T19:44:28Z,34
+PLhr1KZpdzukcvg4L_H71ogga61j0HIIKo,UCd6MoB9NC6uYN2grvUNT-Zg,Cloud for CISOs,2023-06-22T22:14:34Z,5
+PLhr1KZpdzukcmSby7Cshu0rUIQX9Gjv25,UCd6MoB9NC6uYN2grvUNT-Zg,Cloud for CTOs,2023-06-22T22:05:19Z,4
+PLhr1KZpdzukdiiq5s_h4FYt0QZm7ZH1-m,UCd6MoB9NC6uYN2grvUNT-Zg,Cloud for CMOs,2023-06-22T21:50:10Z,4
+PLhr1KZpdzukd23aGzGWMa03afLZr3aJS7,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for Data,2023-06-06T20:40:44Z,33
+PLhr1KZpdzukcxrVBMxo-FghNTVa6ziXh1,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for Financial Services,2023-05-30T23:27:44Z,12
+PLhr1KZpdzukczOkH9qcMj2XEl6-npF33g,UCd6MoB9NC6uYN2grvUNT-Zg,Data Centered,2023-05-25T19:24:42Z,6
+PLhr1KZpdzukc0sNn1D8NaAncdBAYLJR3T,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Kinesis Data Streams 101 playlist,2023-05-23T21:44:20Z,8
+PLhr1KZpdzukfZNCsYGrh42eQj4QHrO40j,UCd6MoB9NC6uYN2grvUNT-Zg,Customer identity on AWS,2023-05-23T19:43:52Z,13
+PLhr1KZpdzukesRd2CMrTsF5-7NVVdYL4H,UCd6MoB9NC6uYN2grvUNT-Zg,End-to-end data strategy with AWS,2023-05-17T18:01:37Z,6
+PLhr1KZpdzukdArmPtuBH7__icPf0CQWfW,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Resource Access Manager,2023-05-15T19:31:15Z,11
+PLhr1KZpdzukf-9QgNALjfxSGOR7t7_dD0,UCd6MoB9NC6uYN2grvUNT-Zg,Billion Dollar Napkin,2023-05-15T17:43:35Z,5
+PLhr1KZpdzukeHE_7BCS4ZnFufTNLERhaO,UCd6MoB9NC6uYN2grvUNT-Zg,RHEL for SAP on AWS,2023-05-05T20:39:18Z,10
+PLhr1KZpdzukemoBUAPNUMCgGk88pdURJB,UCd6MoB9NC6uYN2grvUNT-Zg,App Development for backstage.io on AWS,2023-05-03T22:08:50Z,9
+PLhr1KZpdzukc-1UslGJKa14Y3ckq34_xB,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Business Builders,2023-04-25T23:50:47Z,16
+PLhr1KZpdzukdtol4mjtv3JRSgOCJFWhO4,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Connect Enablement,2023-04-24T21:56:38Z,21
+PLhr1KZpdzukdpj-Dp7JWfNu-DbqBhgIlt,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Monitoring and Observability,2023-04-21T17:33:34Z,68
+PLhr1KZpdzukcS8ZntQIvLNOnsoe6eVI2x,UCd6MoB9NC6uYN2grvUNT-Zg,Cloud for CIOs,2023-03-29T19:49:48Z,4
+PLhr1KZpdzukfE2EicEL1QujMbeMbcp6wM,UCd6MoB9NC6uYN2grvUNT-Zg,Digital Transformation for Executives,2023-03-29T19:45:55Z,3
+PLhr1KZpdzuke4sqmojCPX-zpGZsiPkymt,UCd6MoB9NC6uYN2grvUNT-Zg,Cloud for CFOs,2023-03-29T19:41:15Z,5
+PLhr1KZpdzukd2EuSB1F9zoWMTwinTkqVn,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon MSK 101,2023-03-07T19:19:09Z,6
+PLhr1KZpdzukcYqAu2p520IqlEFoYarCQh,UCd6MoB9NC6uYN2grvUNT-Zg,Cloud Adventures,2023-02-27T21:54:58Z,21
+PLhr1KZpdzuketYaoX3WAz5lIOCTkI3wXJ,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon DataZone,2023-02-23T17:15:56Z,26
+PLhr1KZpdzukcts05b9Z_Q2IvAs2EJRJAp,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Region in Switzerland,2023-02-23T00:31:06Z,11
+PLhr1KZpdzukeB587RI1YlMGk90otgasJ9,UCd6MoB9NC6uYN2grvUNT-Zg,Future Self: The Next Generation of AI & ML | AWS Scholarship,2023-02-16T00:32:34Z,10
+PLhr1KZpdzukf20vUfbYaSwzDOXjul8_Oe,UCd6MoB9NC6uYN2grvUNT-Zg,IBM on AWS,2023-02-15T17:43:46Z,38
+PLhr1KZpdzukcxUPo44KHv2lkRG4NToQXJ,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Cost Optimisation Series,2023-01-31T00:28:55Z,10
+PLhr1KZpdzuke6-QIaQfZFMfxRmvwaND-a,UCd6MoB9NC6uYN2grvUNT-Zg,Workforce identity on AWS Primer Series,2023-01-23T19:08:21Z,26
+PLhr1KZpdzukcQMnw93OpyqLTsx-Y-lC7i,UCd6MoB9NC6uYN2grvUNT-Zg,Move and Improve Applications - How to,2023-01-10T19:44:27Z,10
+PLhr1KZpdzukd-yIUQ97nAtGsNQZX96M7o,UCd6MoB9NC6uYN2grvUNT-Zg,Cloud Technology in UK and Ireland,2022-12-29T18:31:41Z,6
+PLhr1KZpdzukcCgu2WVA5hAbRKxAXFlJEZ,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Schema Conversion Tool,2022-12-28T19:23:25Z,10
+PLhr1KZpdzukf3A1hxxlwMdDD-0WTWJR-v,UCd6MoB9NC6uYN2grvUNT-Zg,Babelfish for Aurora PostgreSQL,2022-12-09T18:34:16Z,7
+PLhr1KZpdzukf71uiGXeavQb7yrYhbqK3F,UCd6MoB9NC6uYN2grvUNT-Zg,VMware on AWS,2022-11-16T21:27:13Z,20
+PLhr1KZpdzukdbD6WFSe_tPVSMFEELyKI0,UCd6MoB9NC6uYN2grvUNT-Zg,SAP on AWS,2022-11-04T18:14:45Z,16
+PLhr1KZpdzukc5X53T27sDSBK7myDVwYqj,UCd6MoB9NC6uYN2grvUNT-Zg,Red Hat OpenShift Service on AWS (ROSA),2022-10-19T19:24:31Z,27
+PLhr1KZpdzuke6oaBKJe4rSKBojFscs0Q4,UCd6MoB9NC6uYN2grvUNT-Zg,Global Security & Compliance Acceleration Program,2022-10-03T21:35:40Z,26
+PLhr1KZpdzukcVEZsKWtvcFNAABTOaYZoP,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Startups Analytics Bytes,2022-09-30T21:25:20Z,8
+PLhr1KZpdzukd4O8Tp2HBrIISRPIwZ-zCU,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon DevOps Guru Deep Dive Series,2022-09-22T21:57:51Z,5
+PLhr1KZpdzukfHS6Up_pOG7YSh9_aRp6ST,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Connect Partner Team,2022-09-22T21:24:06Z,9
+PLhr1KZpdzukew4c6-RMyERVnWR_WYDBdX,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Online TechTalks: Security,2022-09-14T19:55:06Z,11
+PLhr1KZpdzukfd5chqhDwIE0IyC19sZwqv,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Startups,2022-08-18T19:51:23Z,48
+PLhr1KZpdzukfJzNDd8eCJH_TGg24ZTwP6,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Security Services Feature Demos,2022-08-15T18:54:55Z,151
+PLhr1KZpdzukdBBUx1LHR8yPNQa5ZTuWYd,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon OpenSearch Service,2022-07-25T18:54:36Z,46
+PLhr1KZpdzukeLEnE5RET3b37SYQVJrARF,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Streaming Data,2022-07-14T19:09:08Z,44
+PLhr1KZpdzukf7kRdyYynTv8KvCt5ZalRO,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Resilience - How To...,2022-07-07T21:35:02Z,22
+PLhr1KZpdzukdKpWgyQJRA6BwAJGhBNSry,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Disaster Recovery - How to,2022-07-07T21:15:56Z,14
+PLhr1KZpdzukdy_S7NpE9kkC75SXUCMYdO,UCd6MoB9NC6uYN2grvUNT-Zg,Build Weather Station with ExpressLink,2022-06-21T11:02:31Z,6
+PLhr1KZpdzukcoWzoLPJobgYmYFoUlrA7w,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Redshift,2022-05-20T21:56:45Z,25
+PLhr1KZpdzukeiWsgMVvbxP5Qg8Pt6Em2P,UCd6MoB9NC6uYN2grvUNT-Zg,All Things Delivered,2022-05-19T17:15:24Z,8
+PLhr1KZpdzukdbgFY9SLDlhZbWH6XC6tko,UCd6MoB9NC6uYN2grvUNT-Zg,re:MARS Presents: Explorations,2022-05-06T23:40:17Z,5
+PLhr1KZpdzukevPbpRxMCtFc_FfUcLF6r2,UCd6MoB9NC6uYN2grvUNT-Zg,Getting Started with AWS Cloud for SMBs,2022-04-19T21:07:50Z,20
+PLhr1KZpdzukcw5G3rxCi56y15Pj6mmEJi,UCd6MoB9NC6uYN2grvUNT-Zg,SMB Cloud Transformation Stories,2022-04-19T20:56:39Z,52
+PLhr1KZpdzukfPLDAQcxjPETw3IgDFXfre,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Open Source Observability,2022-04-15T19:25:07Z,30
+PLhr1KZpdzukfeNXhdyFjc_-OKTGKNkcxr,UCd6MoB9NC6uYN2grvUNT-Zg,re:MARS Presents: Luminaries,2022-04-15T19:11:02Z,6
+PLhr1KZpdzukdtTBdxqTPSNPj9rTIsSQ39,UCd6MoB9NC6uYN2grvUNT-Zg,Modernizing Workloads on AWS: A Customer Journey,2022-03-17T16:50:25Z,6
+PLhr1KZpdzukdbisTs-Eskg4xsfLFOki1T,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Cloud Operations - How to...,2022-03-09T00:01:34Z,160
+PLhr1KZpdzukeyNGiv3gE8m3_jMNNbxNkJ,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Data Exchange,2022-02-03T18:17:18Z,44
+PLhr1KZpdzukdaGL-4nQSFCimC6IsqQcUD,UCd6MoB9NC6uYN2grvUNT-Zg,Modern Data Architecture,2022-01-31T23:47:24Z,9
+PLhr1KZpdzukfI464QDV0xX_xWcBPmsUoF,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Cloud Financial Management,2022-01-13T22:58:28Z,12
+PLhr1KZpdzukfdb--3ZSUH22NS6UN7cDkR,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Amplify,2021-12-28T20:19:59Z,3
+PLhr1KZpdzukeHs1ind7H-JlI4nu6QOCqr,UCd6MoB9NC6uYN2grvUNT-Zg,This is My Architecture Special Episodes,2021-12-02T19:49:23Z,9
+PLhr1KZpdzukeYlEQxa0S5dhgeNKyK-Gv4,UCd6MoB9NC6uYN2grvUNT-Zg,Climate Next: Technologies for Sustainability,2021-11-30T19:02:19Z,5
+PLhr1KZpdzukc8sIMVYRmxXt3cpfsXz61q,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Marketplace Operational,2021-11-17T23:10:17Z,44
+PLhr1KZpdzukd4-mGty_tK69MZ6q6urr3o,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Marketplace,2021-10-08T22:01:13Z,24
+PLhr1KZpdzukePPoSt1BZUNYQ6r5BdNm-1,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Translate | Deep Dive Video Series,2021-07-22T20:51:38Z,12
+PLhr1KZpdzukcV8huRlIzoxZ0PxWXU16V9,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Service Catalog,2021-07-15T21:15:15Z,18
+PLhr1KZpdzukdS9skEXbY0z67F-wrcpbjm,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Control Tower,2021-07-12T19:28:53Z,19
+PLhr1KZpdzukemUK5XUFtGGSnf8xRoGSC0,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Verified | Global Conversations with Security Leaders | Amazon Web Services,2021-07-01T17:22:13Z,6
+PLhr1KZpdzukeNpo2hJEOCWMLmanlvrXU1,UCd6MoB9NC6uYN2grvUNT-Zg,AWS is How,2021-06-30T22:30:09Z,6
+PLhr1KZpdzukdc8hT9hCF8hwfWkYAX-frO,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Well-Architected for Startups,2021-06-29T16:29:58Z,8
+PLhr1KZpdzukfiV1GtkIAJ52OqyyAAdLtZ,UCd6MoB9NC6uYN2grvUNT-Zg,Front-End Web & Mobile on AWS,2021-06-07T17:59:11Z,6
+PLhr1KZpdzukexrMNN42V_5LTP_EAM63Ws,UCd6MoB9NC6uYN2grvUNT-Zg,Architecture Best Practices,2021-05-28T19:00:44Z,22
+PLhr1KZpdzukfmhYZcXEMdIXdkEWWrZ-nH,UCd6MoB9NC6uYN2grvUNT-Zg,NHL | AWS for Sports,2021-05-13T19:26:24Z,4
+PLhr1KZpdzukc_VXASRqOUSM5AJgtHat6-,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Managed Services,2021-04-16T15:55:35Z,30
+PLhr1KZpdzukeR1uEp6akVflFz18wKB9ED,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for Aerospace and Satellite,2021-04-09T17:56:03Z,27
+PLhr1KZpdzukdj9wjFHMo236WBPM4bd3tH,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Supports You,2021-04-06T16:55:59Z,101
+PLhr1KZpdzukfkBJ5Wehwstxg6-tzblUSl,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Glue DataBrew,2021-03-26T21:02:13Z,9
+PLhr1KZpdzukcbHjHSJqejgZC7EMEVV0NQ,UCd6MoB9NC6uYN2grvUNT-Zg,All Things Automotive: The AWS Video Series,2021-03-25T17:55:30Z,45
+PLhr1KZpdzukcX7MVqcGv2OgyPTjBKI7u9,UCd6MoB9NC6uYN2grvUNT-Zg,15 years of Amazon S3,2021-03-16T18:00:32Z,4
+PLhr1KZpdzukcu3sbG-SdsrJPEkDzqKwFM,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Public Sector,2021-02-11T22:05:17Z,6
+PLhr1KZpdzuke72uEvqMW85YH3XB5EmxA7,UCd6MoB9NC6uYN2grvUNT-Zg,The Big Idea | Amazon Web Services,2021-01-28T19:41:17Z,5
+PLhr1KZpdzukf-9zZxQD6zxCaPoeXAJ60u,UCd6MoB9NC6uYN2grvUNT-Zg,Back to Basics,2021-01-15T19:58:21Z,96
+PLhr1KZpdzukfpuDh-zBeodnE0je6uX2HC,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Transcribe | Speech to Text Service,2021-01-07T21:17:38Z,15
+PLhr1KZpdzukd7THrf2xH7EJzjhfXaQKj_,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Innovators Series,2020-12-12T01:15:27Z,7
+PLhr1KZpdzukd9GSGRy329wahNO_8TkRo_,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Personalize Deep Dive Series,2020-12-10T00:06:09Z,5
+PLhr1KZpdzukenb7A9aDtk3qHqMwy2Baxq,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2020,2020-12-03T19:10:07Z,36
+PLhr1KZpdzukf3Ohr9eTB3eQlawDT5tHGL,UCd6MoB9NC6uYN2grvUNT-Zg,Getting Started with AWS IoT,2020-11-24T00:59:04Z,20
+PLhr1KZpdzukcWkmQkbhotvFjY2AR7BGoA,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon AppFlow,2020-11-18T22:47:46Z,11
+PLhr1KZpdzukepIcl6WBGAbKySVIF29jJ0,UCd6MoB9NC6uYN2grvUNT-Zg,PFF | Sports on AWS,2020-11-13T01:37:00Z,2
+PLhr1KZpdzukfd6CXaMn5LdOqfKe309xMo,UCd6MoB9NC6uYN2grvUNT-Zg,NFL | AWS for Sports,2020-11-13T01:33:29Z,17
+PLhr1KZpdzukeMu3OPEcJsXi6qGZcRSlLd,UCd6MoB9NC6uYN2grvUNT-Zg,FORMULA 1 | Sports on AWS,2020-11-13T01:07:13Z,24
+PLhr1KZpdzukfoXK5seSD57TnF9ByQ44q8,UCd6MoB9NC6uYN2grvUNT-Zg,Bundesliga | AWS for Sports,2020-11-13T01:00:31Z,24
+PLhr1KZpdzukd1jCQQFHOC3UJzvIKHVrcv,UCd6MoB9NC6uYN2grvUNT-Zg,Disrupting Within,2020-10-16T18:30:16Z,2
+PLhr1KZpdzukcgcRuY-tWTg3rEryYIPSNW,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Developer Tools and Services,2020-10-07T21:28:54Z,20
+PLhr1KZpdzukfU4DnlSoa2hKDlVPZ2RqTq,UCd6MoB9NC6uYN2grvUNT-Zg,How to Build This,2020-10-07T21:25:18Z,16
+PLhr1KZpdzukfxz9bCdxV9EsOIRzzh4_KF,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Migration Services,2020-10-01T22:56:16Z,23
+PLhr1KZpdzukfuhKuNywX5CME1xM-lbbx9,UCd6MoB9NC6uYN2grvUNT-Zg,All in the Field,2020-09-29T21:51:44Z,11
+PLhr1KZpdzukdlCXDu8U8uMBxgy0VY4Dv9,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Connect,2020-09-16T22:40:19Z,17
+PLhr1KZpdzukfR4m0ySFqqsWKS_-YHIOAF,UCd6MoB9NC6uYN2grvUNT-Zg,Build Your Best Tomorrow at AWS,2020-09-09T17:34:56Z,9
+PLhr1KZpdzukcUfevEpf6ibtd7GEdCBQ2H,UCd6MoB9NC6uYN2grvUNT-Zg,Building Apps without Programming - Amazon Honeycode,2020-09-03T17:49:26Z,12
+PLhr1KZpdzukdxMfo6QBkWOqBlHWhP7bG6,UCd6MoB9NC6uYN2grvUNT-Zg,Security Governance at Scale - APN Partner Resources,2020-08-31T19:59:13Z,13
+PLhr1KZpdzukclR0ubLFeF6nUS2CNDJ6CI,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Knowledge Center Live - Best Practices and Troubleshooting Tips from AWS Support,2020-08-10T16:44:52Z,16
+PLhr1KZpdzukeQsd6KLlzD6PEUfVF306z8,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Security Control Domains,2020-07-31T21:49:58Z,10
+PLhr1KZpdzukeav5awyPJgoLZf4yYlk23L,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Community Chats,2020-07-29T22:31:27Z,226
+PLhr1KZpdzukcqC4WBSssSqrQXDjAUMCp5,UCd6MoB9NC6uYN2grvUNT-Zg,Just Announced,2020-07-23T21:43:19Z,176
+PLhr1KZpdzukdZgMCwIHzbo_MhaHAXvpRY,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Marketplace for Machine Learning,2020-07-08T16:43:35Z,13
+PLhr1KZpdzukfgrwmp6HXB0jhmv3OjScR6,UCd6MoB9NC6uYN2grvUNT-Zg,Getting Started with Amazon Kinesis Data Streams,2020-07-02T21:49:45Z,3
+PLhr1KZpdzukdT09ev-lchzwrgJo33l8RX,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Databases,2020-07-02T21:28:17Z,95
+PLhr1KZpdzukdd745EFtb9xcR1wnLmkAAz,UCd6MoB9NC6uYN2grvUNT-Zg,Stories | Sports on AWS,2020-04-13T23:14:24Z,0
+PLhr1KZpdzukcUecn8jju4tvDqqV9XLK-r,UCd6MoB9NC6uYN2grvUNT-Zg,Powered By AWS | Sports on AWS,2020-04-13T23:10:04Z,24
+PLhr1KZpdzukcoAmVRK8xox55328MBESKD,UCd6MoB9NC6uYN2grvUNT-Zg,Perspectives | Sports on AWS,2020-04-13T23:06:38Z,6
+PLhr1KZpdzukfoJra-oDevjLfbORbdsr0o,UCd6MoB9NC6uYN2grvUNT-Zg,IoT All the Things,2020-04-01T19:13:47Z,21
+PLhr1KZpdzukeeQLltQoD4od3RpVSHweB8,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Builder Stories,2020-03-24T18:12:14Z,2
+PLhr1KZpdzukfZfO3tznG8ZvxMvqTWtPH7,UCd6MoB9NC6uYN2grvUNT-Zg,Solutions on AWS,2020-03-20T19:35:16Z,43
+PLhr1KZpdzukfPRnDJiuIkTwWXsul4gMZp,UCd6MoB9NC6uYN2grvUNT-Zg,Migrate to Amazon EMR,2020-03-12T23:16:47Z,7
+PLhr1KZpdzukdOTbhDk7EZG53fdEoIr1kF,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for Microsoft Workloads: Amazon FSx for Windows File Server Series,2020-03-12T16:23:19Z,7
+PLhr1KZpdzukcdcZe5PnIkXkN9WVtz4qZF,UCd6MoB9NC6uYN2grvUNT-Zg,This is My Model,2020-02-20T19:12:20Z,4
+PLhr1KZpdzukc6DHEKOfXez9p1CcPxnYSj,UCd6MoB9NC6uYN2grvUNT-Zg,AWS In Conversation With...,2020-02-06T19:14:19Z,46
+PLhr1KZpdzukd7W2SuiA3I1ANRNRAdWbUo,UCd6MoB9NC6uYN2grvUNT-Zg,2020 AWS PubSec Customer References,2020-01-07T18:41:33Z,19
+PLhr1KZpdzukfBEPOoB1RHGgOzzSsBGxiX,UCd6MoB9NC6uYN2grvUNT-Zg,Conversations with Leaders,2019-12-20T16:42:54Z,87
+PLhr1KZpdzukc_QR_yXcBdDpvAtg2NL0V-,UCd6MoB9NC6uYN2grvUNT-Zg,"Powered by Purpose, A Humanitarian Cloud Journey | AWS Imagine Grant Documentary Series",2019-12-09T17:32:25Z,7
+PLhr1KZpdzukcAXSVwQ3L9cWD4QgKPCQ5S,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2019,2019-12-03T17:19:58Z,23
+PLhr1KZpdzuke8KbcBNg84Bs0M09Dcncd6,UCd6MoB9NC6uYN2grvUNT-Zg,Continuous Monitoring in AWS GovCloud (US),2019-12-02T20:04:20Z,7
+PLhr1KZpdzukdR6FHrzEY9z-PANn_zGGaQ,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Thinkbox,2019-11-14T20:54:22Z,5
+PLhr1KZpdzukeS6Qhhu3vonwWtHQYZSG_n,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Educate,2019-11-01T20:50:09Z,22
+PLhr1KZpdzukcQqyY9KShh99W_z-3L48V-,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Viewpoints,2019-10-31T16:21:49Z,5
+PLhr1KZpdzukflq_1eHJXi1ZRPq9kHSDrc,UCd6MoB9NC6uYN2grvUNT-Zg,AWS DeepRacer TV,2019-10-28T21:27:58Z,12
+PLhr1KZpdzukfHHQhqLlXJkNczI4nVPKGU,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Public Sector Summit - Canberra 2019,2019-10-17T20:22:19Z,58
+PLhr1KZpdzukdphyU_3b3NuXnhr2SMhtcw,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Public Sector Summit ASEAN - Singapore 2019,2019-10-16T21:10:14Z,16
+PLhr1KZpdzukesmB28meYq0KybTXJijZIe,UCd6MoB9NC6uYN2grvUNT-Zg,"Business Applications for Connected Data, Data Anlyst",2019-10-11T15:43:05Z,0
+PLhr1KZpdzukfRBXALTH7k4QqtqxlOAZ33,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS ML Partner Webinars - Go deep on Machine Learning topics with AWS, just for APN partners",2019-10-08T21:02:31Z,27
+PLhr1KZpdzukeSG94QH1fZdiFeXs1hhHwV,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Summit Bahrain 2019,2019-09-25T18:29:01Z,2
+PLhr1KZpdzukdRZpvZ9sjVBY5Jg_3DODmG,UCd6MoB9NC6uYN2grvUNT-Zg,"IMAGINE: A Better World, Global Nonprofit Conference 2019",2019-09-19T16:39:44Z,14
+PLhr1KZpdzukf5X37qTqb4mvqmwqnMiFhG,UCd6MoB9NC6uYN2grvUNT-Zg,Open Source at AWS,2019-09-09T19:56:18Z,60
+PLhr1KZpdzukdTKUbo9NzQEHqIXU-kS4Do,UCd6MoB9NC6uYN2grvUNT-Zg,ISV Offerings in AWS Marketplace,2019-09-09T18:44:44Z,5
+PLhr1KZpdzukc4k8-ZnMLp42rl3Qv2Ng92,UCd6MoB9NC6uYN2grvUNT-Zg,Windows Workloads on AWS,2019-09-05T21:35:03Z,3
+PLhr1KZpdzukfmXmNz2SWJkrRWhQ0sq1dt,UCd6MoB9NC6uYN2grvUNT-Zg,AWS in the Public Sector - Italy,2019-08-30T14:39:07Z,17
+PLhr1KZpdzukfPuBt5441iA9v2YLy52uPf,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws AWS Launchpad at New York Summit,2019-07-29T21:07:07Z,12
+PLhr1KZpdzukcwBgDe1nsMucoVhiF1Vh_I,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Machine Learning,2019-07-25T19:37:47Z,50
+PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon SageMaker Technical Deep Dive Series,2019-07-24T20:04:43Z,20
+PLhr1KZpdzuke_WT2Z0Afq0cgS6wckQ-Oy,UCd6MoB9NC6uYN2grvUNT-Zg,AWS New York Summit 2019 | Breakout Sessions,2019-07-17T23:15:01Z,15
+PLhr1KZpdzukeowrbDKtN2WiWknO_HKqEJ,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Fintech Day 2019,2019-07-10T20:51:27Z,8
+PLhr1KZpdzukcaA06WloeNmGlnM_f1LrdP,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Management and Governance,2019-07-03T22:22:52Z,173
+PLhr1KZpdzukesfQV_G5aqJ-TQGToivZZy,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Live @ re:Inforce 2019,2019-07-01T22:32:24Z,15
+PLhr1KZpdzukf07L36St2P6srdz8Uvnylt,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Inforce 2019: Breakout Sessions | Security Pioneers,2019-06-24T19:53:20Z,17
+PLhr1KZpdzuke_WCFhnoH-Epz9IN9kKKL-,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Inforce 2019: Breakout Sessions | Demo Theater,2019-06-24T19:53:10Z,16
+PLhr1KZpdzukeXwmnXhiTTXdXJx3KuNw67,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS re:Inforce 2019: Breakout Sessions | Governance, Risk, & Compliance",2019-06-24T19:53:02Z,23
+PLhr1KZpdzukcq-PFq4d4-BVgY1-j-sERx,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Inforce 2019: Breakout Sessions | Security Deep Dive,2019-06-24T19:52:52Z,26
+PLhr1KZpdzuke2ncPH0DVp9PswBFY5dIl6,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Inforce 2019 Sessions,2019-06-24T19:52:43Z,103
+PLhr1KZpdzukdaIJyiHPK0XLqLZxpfBp9c,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Inforce 2019: Breakout Sessions | The Foundation,2019-06-24T19:52:27Z,20
+PLhr1KZpdzukdMdVoQfuoBL_MORYW4SoX-,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS Executive Forum 2019 | Sydney, Australia",2019-06-24T19:49:34Z,7
+PLhr1KZpdzukeAZuX0pNZ1lLDkaZWBOhQT,UCd6MoB9NC6uYN2grvUNT-Zg,PostgreSQL In-Depth Training 2019 - Ireland,2019-06-14T20:10:00Z,7
+PLhr1KZpdzukcm46EssTP92nXWjKWruWRJ,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS Public Sector Summit Washington, DC 2019",2019-06-11T20:29:52Z,142
+PLhr1KZpdzukeDB1UoBo1rRxSQIBa9MeO0,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS Container Day, May 2019 - Barcelona",2019-06-10T22:19:29Z,14
+PLhr1KZpdzukdYlrdMOpC0poJtO_pfLWAO,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Collision 2019,2019-06-03T22:30:35Z,21
+PLhr1KZpdzukdgTfGA_HtfVWgOgqVm15vJ,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Summit London 2019,2019-06-03T16:55:58Z,29
+PLhr1KZpdzukeETIbisnN751cHzDBxez_e,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS What's Next SF,2019-05-29T20:11:58Z,2
+PLhr1KZpdzukfR8hGHwVFBvwBMOs1D-QTs,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS at Sydney Summit  2019,2019-05-23T20:46:37Z,62
+PLhr1KZpdzukdj8KytRa35Sf8dDmwOGoXG,UCd6MoB9NC6uYN2grvUNT-Zg,Ottawa AWS Public Sector Summit 2019,2019-05-22T14:30:05Z,16
+PLhr1KZpdzukctq3hprGrEr41qkRMbn4sI,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS Summit Series 2019 | Atlanta, GA",2019-05-21T16:33:40Z,1
+PLhr1KZpdzukfQBjBInkkaUuxDMLj_TaHO,UCd6MoB9NC6uYN2grvUNT-Zg,AWS DeepRacer League,2019-05-17T22:05:04Z,49
+PLhr1KZpdzukf188jLTagSwyDArkE4oDIo,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Summit Madrid 2019,2019-05-17T17:01:56Z,32
+PLhr1KZpdzukdrtUB5cbizqmAakTSbfYTR,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | BuildOn,2019-05-16T18:02:39Z,7
+PLhr1KZpdzukdDSqAFU6c1Y2VFzP3a3uzX,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Startup Day 2019 | Johannesburg,2019-05-13T20:11:48Z,8
+PLhr1KZpdzukcsxMmfXBhUwhZVMhk8RU5s,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Customer Testimonials - re:Invent 2018,2019-05-09T20:42:50Z,36
+PLhr1KZpdzukdgR1-S6iAaRHPmJ917CTk9,UCd6MoB9NC6uYN2grvUNT-Zg,AWS APAC,2019-05-07T18:10:29Z,2
+PLhr1KZpdzukdIJ_e5IHIM35yEbrqU5dmk,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Containers Office Hours,2019-05-06T16:54:14Z,8
+PLhr1KZpdzukdsSgKpKynGsGBfHmTYnk3i,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Media & Entertainment Symposium 2019,2019-05-03T21:25:32Z,7
+PLhr1KZpdzukcsio8OFRFfMKRWaZimM1Om,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Lightsail,2019-05-01T20:26:52Z,17
+PLhr1KZpdzukfIJ3YnNE7qh69ZrDnC4sOM,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Office Hours: Database Deep Dive,2019-04-28T10:33:08Z,8
+PLhr1KZpdzukd5kj2QiNH6Fl4SswPh1qG1,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Build with DynamoDB,2019-04-28T10:32:16Z,5
+PLhr1KZpdzukeXbeYffovpN4zWCLYULQgG,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Summit Singapore 2019,2019-04-26T21:34:01Z,45
+PLhr1KZpdzukfXDO72lSogqQI4LYMAsDqM,UCd6MoB9NC6uYN2grvUNT-Zg,Knowledge Center Videos - Mandarin,2019-04-26T17:48:02Z,46
+PLhr1KZpdzukegp-PHzmZf168dQYEFhIp2,UCd6MoB9NC6uYN2grvUNT-Zg,Brussels AWS Public Sector Summit 2019,2019-04-22T15:14:37Z,19
+PLhr1KZpdzukce4ggGm5RzXIDCzJHDmnnd,UCd6MoB9NC6uYN2grvUNT-Zg,AWS EMEA,2019-04-19T20:53:00Z,3
+PLhr1KZpdzukfMjsdy3NHNFrMTnjT3Qwgw,UCd6MoB9NC6uYN2grvUNT-Zg,AWS China,2019-04-19T20:36:56Z,4
+PLhr1KZpdzukeW4_2P1oyt9RPaz9yp9NsX,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Financial Services Cloud Symposium 2019 - New York,2019-04-17T17:34:41Z,6
+PLhr1KZpdzukc4eMi0JLK4PneuLAMstiEB,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Public Sector Summit Bogotá 2019,2019-04-17T13:31:39Z,40
+PLhr1KZpdzukfC79FEHDHXUvSh8d_j4MZ2,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2019 - How to re:Invent,2019-04-15T19:17:26Z,23
+PLhr1KZpdzukdi__Su4jOp0VphNxWukpXd,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | The AWS Certification Quiz Show,2019-04-12T17:32:27Z,8
+PLhr1KZpdzukfphWGOWYOJSNhPe9PhM_1z,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | BuildOn - Building Happy Little APIs,2019-04-10T18:22:51Z,7
+PLhr1KZpdzukdOoRYsfZuUYvwtSkxTVdOv,UCd6MoB9NC6uYN2grvUNT-Zg,2019 China Cloudfront,2019-04-09T16:05:44Z,4
+PLhr1KZpdzukd0q-4w1O-F5xQyVUEbgKZU,UCd6MoB9NC6uYN2grvUNT-Zg,Santa Clara Summit 2019,2019-04-08T17:15:23Z,5
+PLhr1KZpdzukdHms3tjr9sl2kOaUxz7xYX,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Architecting at the SF Loft,2019-04-04T16:59:17Z,12
+PLhr1KZpdzukdAy7ZBapBN9L2gNXWXUrc6,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Innovate Online Conference 2019 - Machine Learning & AI Edition,2019-04-03T17:39:31Z,18
+PLhr1KZpdzukdOO8xCD9_n-IpECQu31OY6,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Launchpad at Santa Clara Summit 2019,2019-04-03T17:23:35Z,26
+PLhr1KZpdzukfCrZTvtPEJuh4v2-KneiCE,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Startup Growth Programs,2019-04-01T23:33:44Z,64
+PLhr1KZpdzuke6fmOl8ZfA-00IUoPtC6Al,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Migration Day - PostgresConf NYC 2019,2019-04-01T19:07:25Z,5
+PLhr1KZpdzukdYjb1tX9tWAdhF0j_6PJQf,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Building Secure Applications,2019-03-28T22:38:33Z,5
+PLhr1KZpdzukdIpgzSSCkNsnRAwDz6Xx5B,UCd6MoB9NC6uYN2grvUNT-Zg,Now Go Build with Werner Vogels | AWS,2019-03-27T20:18:28Z,17
+PLhr1KZpdzukfo0GGuBGBz1_MxkGDJQnMz,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Summit Berlin 2019,2019-03-22T21:18:43Z,12
+PLhr1KZpdzukeovxc24ep13X1CqT9fclle,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Summit Tel Aviv 2019,2019-03-21T22:23:15Z,34
+PLhr1KZpdzukcF_r9e5zPWKTSUDi8-vx6u,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon S3: Data Durability and Global Resiliency,2019-03-18T23:22:06Z,12
+PLhr1KZpdzukdKej-l94jAO1EknzMqiVv6,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Special Events,2019-03-13T22:19:05Z,1
+PLhr1KZpdzukd-AdKUHlJLqqUOPOZqLel7,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | BuildOn – IoT All The Things,2019-03-06T18:09:38Z,4
+PLhr1KZpdzukdA-hqLLbnTnUoC1RjTW38C,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Loft – Compute Evolved Week,2019-03-04T20:16:48Z,4
+PLhr1KZpdzukccNuCMEuMnq4wM98Iv893B,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | BuildOn – npm start twitch-dev-aws,2019-03-01T22:46:46Z,8
+PLhr1KZpdzukeCn-dBYStgbWYFFE_8NRbp,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent re:Cap 2018,2019-03-01T15:55:42Z,11
+PLhr1KZpdzukeDXK62ZjefR0bbZwyuZLw1,UCd6MoB9NC6uYN2grvUNT-Zg,Integrating Salesforce applications with AWS Services,2019-02-28T17:27:46Z,9
+PLhr1KZpdzukfkwlYSGQI0IxlCAhOxTdnw,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Loft - Amazon Sumerian 2019,2019-02-27T19:23:50Z,1
+PLhr1KZpdzukfxim6ghUQnC7eLHDc2sbBS,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Innovate Conference 2019,2019-02-19T20:38:32Z,2
+PLhr1KZpdzukcNwCweJk1ab_hdT0_XbuoX,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | BootUP,2019-02-19T19:23:02Z,7
+PLhr1KZpdzukf5oCm1YSbFeD-VYKLrWm6F,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Loft – Database Week,2019-02-18T21:52:46Z,5
+PLhr1KZpdzukcz6uwTPvynh57nhMzgC0yU,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Initiate di Roma 2018,2019-02-14T15:20:47Z,14
+PLhr1KZpdzukc7A58beQHX0ugvQN_PxBra,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Amazon WorkLink,2019-02-12T17:54:49Z,0
+PLhr1KZpdzuke_-lcGjMYOTlLkBZG8_Cjr,UCd6MoB9NC6uYN2grvUNT-Zg,Virtual Transformation Day 2019,2019-02-07T23:10:34Z,6
+PLhr1KZpdzukc7tc6-wgjz8nxE-9s8cgB5,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2018 | Cloud for Biotech Symposium,2019-02-05T22:32:54Z,11
+PLhr1KZpdzukfMeTubdJOcV_q3K9NjOhcb,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Knowledge Center Videos - Spanish,2019-02-05T16:23:15Z,17
+PLhr1KZpdzukfWFTsOD_WynnY2-e8TY8fH,UCd6MoB9NC6uYN2grvUNT-Zg,Application Modernization with AWS,2019-02-04T16:25:33Z,13
+PLhr1KZpdzukd4RX1Ocg0XWcGTRf_ZBxN_,UCd6MoB9NC6uYN2grvUNT-Zg,This Is My Code,2019-02-01T04:44:07Z,6
+PLhr1KZpdzukcRDvOw7xDsT0xW93tyA7Mb,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | re:Invent 2018 Recap,2019-01-31T18:40:37Z,12
+PLhr1KZpdzukf8MUtz9OgG0stjzje0u4vm,UCd6MoB9NC6uYN2grvUNT-Zg,AWS ANZ,2019-01-30T18:08:16Z,1
+PLhr1KZpdzukeeLQWxeC2_CZ1e-Sb1ZE2O,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon AI Conclave 2018,2019-01-10T15:38:06Z,9
+PLhr1KZpdzukfwSNM_FAL-W6FKZtRbLFoC,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 - How to re:Invent,2019-01-02T23:46:11Z,25
+PLhr1KZpdzukeL_V55kUyjGDVDt3hQjzem,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Security Week,2018-12-21T00:17:17Z,6
+PLhr1KZpdzukcfkiUh090dU3pyQWBKOCBx,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Builders' Day 2018 | Dublin,2018-12-19T16:56:15Z,16
+PLhr1KZpdzukfWpomipxl2x4F8H-WZRI8G,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Conference Event,2018-12-12T23:49:45Z,71
+PLhr1KZpdzuke340U3uInvdwXGbYG3HOqE,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 | Keynotes,2018-11-30T18:27:57Z,4
+PLhr1KZpdzukc0WXQruGVXTiNPtct-LLaa,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | re:Invent 2018,2018-11-29T01:37:52Z,81
+PLhr1KZpdzukdO5mw1BtUxqCVVUN7fhcGA,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 | Customer Speakers,2018-11-28T16:37:47Z,7
+PLhr1KZpdzukeQsRrDF3VoI9jB4EwgCy5U,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 | Daily re:Cap,2018-11-28T00:39:05Z,25
+PLhr1KZpdzukdOAqijB6fh4AMomxMlAq2I,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Robotics,2018-11-27T22:23:06Z,2
+PLhr1KZpdzukfsDKdBBacfWax781hnVD5_,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | AI Summit,2018-11-27T22:22:25Z,8
+PLhr1KZpdzukdyOSR598mfcm8o7uLCiyH_,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 | Launch Announcements,2018-11-27T21:14:57Z,17
+PLhr1KZpdzukf_R7YPwUuMhpicEpDElMnZ,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Windows & .NET,2018-11-26T20:55:48Z,11
+PLhr1KZpdzukfMm-Tl_Df3g3BdD6syJomL,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | We Power Tech,2018-11-26T20:55:39Z,4
+PLhr1KZpdzukeUp-UWkFzfq5x9ctHeXaZA,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Telecommunications,2018-11-26T20:55:31Z,3
+PLhr1KZpdzukfhOHgKUXQtTMssGo-uOawM,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Startup Central,2018-11-26T20:55:21Z,18
+PLhr1KZpdzukcZIPswLEcVzw8HKF_yM0r3,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Serverless,2018-11-26T20:55:13Z,16
+PLhr1KZpdzuke4ow5VAE17REJBlgiOR4Iq,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS re:Invent 2018 Breakout Sessions | Security, Identity, and Compliance",2018-11-26T20:55:04Z,33
+PLhr1KZpdzukdfFR-rNyJTroYpb1okFKvc,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Retail & Wholesale,2018-11-26T20:54:52Z,3
+PLhr1KZpdzukfB_6XsjbgspIMOvcrHzbrH,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Public Sector,2018-11-26T20:54:43Z,8
+PLhr1KZpdzukfWjXCL-Yem-3mkfv63Z6EM,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Power & Utilities,2018-11-26T20:54:35Z,5
+PLhr1KZpdzukffkD85z6cS_BUibRjCbsI8,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Oil & Gas,2018-11-26T20:54:09Z,1
+PLhr1KZpdzukcQq9J0uHKST3eqGIMA3h3Z,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Networking,2018-11-26T20:54:00Z,20
+PLhr1KZpdzukf-rcmkIcnfc3_abplqndyX,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Mobile,2018-11-26T20:53:46Z,14
+PLhr1KZpdzukezVM0EhNozEADzaTi3qTJT,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Media & Entertainment,2018-11-26T20:53:36Z,6
+PLhr1KZpdzukdoPKQP7QSOKEXzvi-oqhKo,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Manufacturing,2018-11-26T20:53:26Z,4
+PLhr1KZpdzukdtodDRlANnvGOM5xkOBQzA,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Life Sciences,2018-11-26T20:53:16Z,4
+PLhr1KZpdzukeYNlr-nKWMkN0AyHxTzBiF,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | IoT,2018-11-26T20:53:06Z,27
+PLhr1KZpdzukfBPfyef_sJbHIqotz350Fd,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Healthcare,2018-11-26T20:52:35Z,6
+PLhr1KZpdzukeP7v8zdw5hChlU_6qfl1bZ,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS re:Invent 2018 Breakout Sessions | GPS-Technical, Global Partner Summit",2018-11-26T20:52:19Z,16
+PLhr1KZpdzukdSaLf3GfvPB-vimMCn2zih,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | GPS-Technical,2018-11-26T20:52:01Z,6
+PLhr1KZpdzukewUO0HfMU5CtEPw031hqXX,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Storage,2018-11-26T20:51:40Z,31
+PLhr1KZpdzukcGVsPU-IpfOrvthFkjMOLs,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS re:Invent 2018 Breakout Sessions | GPS-Marketplace, Global Partner Summit",2018-11-26T20:44:05Z,1
+PLhr1KZpdzukca7unfYxA0EJrdJRI4VnBd,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | GPS-Marketplace,2018-11-26T20:43:49Z,1
+PLhr1KZpdzukccp5UTO3cVhPv_8m6Kkn3p,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Gaming,2018-11-26T20:42:01Z,3
+PLhr1KZpdzukc70WO-xUcwGiY-TNimJDOS,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Financial Services,2018-11-26T20:41:52Z,10
+PLhr1KZpdzukfTxEMkRsd3tUCNTCEEzAz8,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Enterprise & Hybrid,2018-11-26T20:41:42Z,37
+PLhr1KZpdzukcRCTR5vlSdOTQ8-HBP0R9l,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Digital User Engagement,2018-11-26T20:41:32Z,2
+PLhr1KZpdzukd3DvSE4zpd-LM0NzTD-b6q,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Devops,2018-11-26T20:41:22Z,35
+PLhr1KZpdzukf3988wtl6IdB1gdENgq1OB,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Developer Community,2018-11-26T20:41:11Z,8
+PLhr1KZpdzukcFrLWvr2ZiqLYoYVanvtam,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Databases,2018-11-26T20:40:54Z,36
+PLhr1KZpdzukfmdy3QEy8rU2oRGQGpUoO7,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Content Delivery,2018-11-26T20:40:36Z,13
+PLhr1KZpdzuke8Zh-BgQTPTfhtQ3iH_Tb9,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Containers,2018-11-26T20:40:23Z,19
+PLhr1KZpdzukeJl9ekkKIKXBECMhb8VGxp,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Compute,2018-11-26T20:40:14Z,24
+PLhr1KZpdzukdAGbaeNXITOg_0DC12fb5_,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Business Apps,2018-11-26T20:40:03Z,13
+PLhr1KZpdzukdHQRZ8h0pbNSuh8ee_bIL9,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Automotive,2018-11-26T20:39:53Z,5
+PLhr1KZpdzukeyQeAoyW1j70lX9acKUyHg,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | ARVR,2018-11-26T20:39:44Z,0
+PLhr1KZpdzukdExxUr05-WIpdVYPWjgi43,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Artificial Intelligence & Machine Learning,2018-11-26T20:39:34Z,41
+PLhr1KZpdzukfzSjpgH4E5PiDwBM2o4UHD,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Architecture,2018-11-26T20:39:24Z,21
+PLhr1KZpdzukdKf09eSptQtqzxSATKX4bi,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Application Integration,2018-11-26T20:39:14Z,8
+PLhr1KZpdzukdLxbLPfGg6ydleh72sUUPl,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Analytics,2018-11-26T20:39:05Z,36
+PLhr1KZpdzukfJBoulG0OCtcOXS13uCwP5,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Alexa,2018-11-26T20:38:55Z,12
+PLhr1KZpdzukdo3UnE58D2kbQH0-JYfXx5,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | AdTech,2018-11-26T20:38:44Z,2
+PLhr1KZpdzukdd6fDIc5dtouXDL4sKLHNt,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2018 Breakout Sessions | Global China Region,2018-11-26T20:38:10Z,1
+PLhr1KZpdzukfqkc7okkygDmhMgjX-Hgle,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for Microsoft Workloads: Active Directory Series,2018-11-21T21:02:28Z,5
+PLhr1KZpdzukfEXfSbpH9wHkkoFK6uBUmr,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for Microsoft Workloads: Operations and Management Series,2018-11-21T21:00:12Z,16
+PLhr1KZpdzukdOlHTFP30bXwxomh_UFrKP,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for Microsoft Workloads: SQL Server Series,2018-11-21T20:57:15Z,13
+PLhr1KZpdzukdJllxulUM7pMB7aJ2_FfTP,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for Microsoft Workloads,2018-11-21T20:32:21Z,147
+PLhr1KZpdzukeYkL0h6QfjNdn-CVKpL0gr,UCd6MoB9NC6uYN2grvUNT-Zg,AWS We Power Tech,2018-11-19T20:48:14Z,16
+PLhr1KZpdzukf7GGdENW3qdsODAcl8G7f4,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Transformation Day London 2018,2018-11-14T18:12:03Z,4
+PLhr1KZpdzukcXlfoE7L9YE8DJZPQuzWRP,UCd6MoB9NC6uYN2grvUNT-Zg,IMAGINE: A Better World Global Nonprofit Conference 2018,2018-11-13T20:02:15Z,12
+PLhr1KZpdzukdyXowtKEWg-Ou226crkv1N,UCd6MoB9NC6uYN2grvUNT-Zg,Imagine a Better World Global Nonprofit Conference 2018,2018-11-13T19:59:41Z,1
+PLhr1KZpdzukfAMHeOLtRJa58EGc9yhFup,UCd6MoB9NC6uYN2grvUNT-Zg,Lisbon Web Summit 2018 - AWS Developer Workshop,2018-11-10T01:05:27Z,21
+PLhr1KZpdzukcvPBzkmYBopSlk7iHNEglL,UCd6MoB9NC6uYN2grvUNT-Zg,AWS AppSync,2018-11-07T20:05:15Z,9
+PLhr1KZpdzukcONwoeZOK3oCZiOngt4-o4,UCd6MoB9NC6uYN2grvUNT-Zg,All AWS Tutorials & Demos,2018-11-06T22:57:20Z,1740
+PLhr1KZpdzukfGcOQxVcRB4iT62tLOOpov,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Amplify,2018-11-06T22:56:34Z,14
+PLhr1KZpdzukelt51-3omk2bnplDh01mmh,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Public Sector Summit Ottawa 2018,2018-11-06T17:29:30Z,16
+PLhr1KZpdzuke59ZcdWqrh7ZW-w6p4AmOM,UCd6MoB9NC6uYN2grvUNT-Zg,Canberra AWS Public Sector Summit 2018,2018-11-02T15:48:25Z,49
+PLhr1KZpdzukendWBQStNyGIw5n64q_yJl,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Mobile Week - San Francisco 2018,2018-10-30T01:14:33Z,12
+PLhr1KZpdzukcisdY8e21KJYUVqxXNT-M9,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Public Sector Summit Bahrain 2018,2018-10-25T14:19:56Z,3
+PLhr1KZpdzukeS3U5B988hAn8NICYJs8B7,UCd6MoB9NC6uYN2grvUNT-Zg,AWS ASEAN,2018-10-11T13:31:47Z,14
+PLhr1KZpdzukcqM9wmBu9nZLbuOXlXuwK8,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Public Sector Summit Singapore 2018,2018-10-11T01:08:52Z,17
+PLhr1KZpdzukdvT040QQSmXcTfc9JynwT2,UCd6MoB9NC6uYN2grvUNT-Zg,EKoSystem Day - Building Apps with AWS Container Services,2018-10-10T17:18:11Z,9
+PLhr1KZpdzukcWjBjaO8OCgMS0VsTSa2wb,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Professional Services,2018-10-09T18:22:12Z,10
+PLhr1KZpdzukcWRvvEe632t5-PuJvC01M7,UCd6MoB9NC6uYN2grvUNT-Zg,Backup & Restore Solutions on AWS,2018-10-09T15:44:59Z,2
+PLhr1KZpdzukdrhv45NyoQlwl42QrUhVtI,UCd6MoB9NC6uYN2grvUNT-Zg,Cloud Compute with AWS,2018-10-09T14:19:53Z,1
+PLhr1KZpdzukcOPreG2Y6-8R0u7cN5lH63,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Toronto Summit 2018 | Startup Central Talks,2018-10-08T17:53:54Z,8
+PLhr1KZpdzukcPr1C6Ut0so2R3Gio0H5qx,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Amazon GameTech,2018-10-02T22:09:24Z,1
+PLhr1KZpdzukf_f6QTHDUHP-IDjXcddhYx,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Build with AM & Nicki,2018-09-20T20:24:32Z,13
+PLhr1KZpdzukeDjXIM-O6f8s4jurPU9kDA,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Startup Day Chicago 2018,2018-09-12T20:31:01Z,3
+PLhr1KZpdzukdXAkfSgkGucIhKqY52Rv-o,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Getting Started with AWS,2018-09-10T22:35:08Z,20
+PLhr1KZpdzukeuZYaHUfjyQnPRGcUS_QY7,UCd6MoB9NC6uYN2grvUNT-Zg,Anaheim AWS Summit 2018,2018-09-05T19:10:03Z,2
+PLhr1KZpdzukfRbrvD0a-lE8ZkrOV34-XM,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Machine Learning,2018-08-27T19:26:02Z,6
+PLhr1KZpdzukeisKKw_bGMcUfuW6SuoUBp,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Innovate Online Conference 2018,2018-08-24T17:56:11Z,47
+PLhr1KZpdzukcAXCMoQ9lgEpuCRA4SEFel,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Media & Entertainment Cloud Symposium | Los Angeles,2018-08-23T17:32:31Z,7
+PLhr1KZpdzukdaoLaYYgMnaT-a2vXVoakV,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Dev Day 2018 - Australia,2018-08-22T22:50:48Z,13
+PLhr1KZpdzukdmrCo7yGx9qYhzPHpjj_vh,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Chicago Summit 2018,2018-08-20T22:51:04Z,5
+PLhr1KZpdzuke_o14rf4NXEsOgTJvmuVfr,UCd6MoB9NC6uYN2grvUNT-Zg,Chicago AWS Summit 2018,2018-08-16T19:52:53Z,3
+PLhr1KZpdzukdFS-13tEoMor3uS9fE2hr1,UCd6MoB9NC6uYN2grvUNT-Zg,Chicago AWS Summit 2018 - AWS Breakout Sessions,2018-08-15T19:26:16Z,7
+PLhr1KZpdzukdc-jfSvpQYOO9nsOiCbVtX,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS EKoSystem Day New York 2018,2018-07-30T21:19:03Z,12
+PLhr1KZpdzukfCybTTdOzDIszgDfvvxYtR,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Enterprise Video Series,2018-07-30T19:24:01Z,8
+PLhr1KZpdzukeB9wTYaVzxgIYuLiMcrgEI,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon EC2 Spot Instances,2018-07-26T21:54:32Z,17
+PLhr1KZpdzukcpCbluDs0l4taGqgosLkcw,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Launchpad - New York Summit 2018,2018-07-26T19:31:34Z,16
+PLhr1KZpdzukcnpGIs95rnpZQFFpLnKg11,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Innovate Live Coding,2018-07-25T20:33:16Z,7
+PLhr1KZpdzukcltN2dOTFPxIa8A-qsNvBi,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | EKoSystem Day 2018,2018-07-24T00:18:18Z,10
+PLhr1KZpdzuke0W9wneLkviGUPqDf4Q7nQ,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for the Public Sector | Canada,2018-07-23T22:22:33Z,12
+PLhr1KZpdzukd-Vp30XPuv4U1pRl-TOjtw,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for State and Local Governments,2018-07-23T22:17:19Z,13
+PLhr1KZpdzukcLtyIR-velB2r54i0Yxy1c,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for Education,2018-07-23T22:10:30Z,23
+PLhr1KZpdzukeMioBKcjxIrmQrRagjU4rh,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for the Federal Government,2018-07-23T21:45:39Z,32
+PLhr1KZpdzukdFJV8dUvDbvsMoawXR7xP3,UCd6MoB9NC6uYN2grvUNT-Zg,AWS for Nonprofits,2018-07-23T21:22:02Z,68
+PLhr1KZpdzukeFz2ALpKLxt3ZF6RtdqOaE,UCd6MoB9NC6uYN2grvUNT-Zg,New York AWS Summit 2018 - Breakout Sessions,2018-07-23T19:58:28Z,13
+PLhr1KZpdzukexipiMK8t6T8KVcIIkKNl2,UCd6MoB9NC6uYN2grvUNT-Zg,New York AWS Summit 2018,2018-07-17T20:28:22Z,8
+PLhr1KZpdzukdiCH8LkCXdN_2Z4RjN8trh,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Canada - Public Sector,2018-07-17T17:44:02Z,39
+PLhr1KZpdzukd3p36S9ArgLvS1z6UVuOE_,UCd6MoB9NC6uYN2grvUNT-Zg,Earth and Space on AWS,2018-07-16T20:06:39Z,8
+PLhr1KZpdzukeGdvtFhIzKoWPeoFyLxBYv,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Innovation Series 2017 | London,2018-07-10T17:53:53Z,24
+PLhr1KZpdzukfcVZBa3RfJkkgTSyDEQI6V,UCd6MoB9NC6uYN2grvUNT-Zg,What's New with AWS featuring Jeff Barr,2018-07-06T19:02:09Z,116
+PLhr1KZpdzukea3oaLhyJ6gz5LXDqsC5xY,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Startup Day 2018 | New York,2018-07-05T20:11:34Z,8
+PLhr1KZpdzukfTL55wpTHj1hZwKTzxPJ7m,UCd6MoB9NC6uYN2grvUNT-Zg,Stockholm AWS Summit 2018,2018-06-27T23:19:29Z,3
+PLhr1KZpdzukf6gr9X6RaL3ni8g2LigRrQ,UCd6MoB9NC6uYN2grvUNT-Zg,Mexico City AWS Summit 2018,2018-06-27T23:16:21Z,2
+PLhr1KZpdzukeEdgc5W4So6x1rufYyjzNW,UCd6MoB9NC6uYN2grvUNT-Zg,"Washington, D.C. AWS Public Sector Summit 2018",2018-06-27T21:11:39Z,110
+PLhr1KZpdzukdTW-0FGQL7D8OscdWDAWcn,UCd6MoB9NC6uYN2grvUNT-Zg,Virtual AWSome Day 2018,2018-06-20T20:53:39Z,0
+PLhr1KZpdzukcHx2xXUhxNcNkP4BxpRFtv,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Developer Track at the AWS Summit in Berlin,2018-06-19T20:04:51Z,6
+PLhr1KZpdzukcZEpM1wap9dkr3zgTRdRrD,UCd6MoB9NC6uYN2grvUNT-Zg,.NET on AWS,2018-06-18T22:37:31Z,116
+PLhr1KZpdzukcS1kwUqrTLi6UxcVGq02yv,UCd6MoB9NC6uYN2grvUNT-Zg,AWSome Day 2018,2018-06-18T16:43:30Z,0
+PLhr1KZpdzukeFsl0-gQxdKNJZr6MQNA2B,UCd6MoB9NC6uYN2grvUNT-Zg,Madrid AWS Summit 2018,2018-06-15T22:32:12Z,23
+PLhr1KZpdzukcOj83osbmMX--suhUpOITP,UCd6MoB9NC6uYN2grvUNT-Zg,Mexico City AWS Summit 2018 - Startup Talks,2018-06-12T19:59:35Z,7
+PLhr1KZpdzukfhbPBZGLu3I6JXZGBUf0Tt,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Lightsail | How-To Videos,2018-06-05T22:13:14Z,7
+PLhr1KZpdzukcSFdUzDEefUHxpILyqY6E6,UCd6MoB9NC6uYN2grvUNT-Zg,Mumbai AWS Summit 2018,2018-05-30T20:25:37Z,82
+PLhr1KZpdzukeKR1lzOPDi2ErljOlSEU7C,UCd6MoB9NC6uYN2grvUNT-Zg,Adrian Cockcraft | Open Source,2018-05-30T18:36:51Z,8
+PLhr1KZpdzukcLPsEnfZpZooDj8FLYlw8A,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Startup Day 2018 | London,2018-05-30T16:33:16Z,3
+PLhr1KZpdzukfqGz68s6z-CRwLAt087wsf,UCd6MoB9NC6uYN2grvUNT-Zg,London AWS Summit 2018 - Breakout Sessions,2018-05-21T20:59:15Z,36
+PLhr1KZpdzukeXZMkUXh2kGlWvzXakRh-a,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS re:Invent 2018 |  Nov. 26 – Nov. 30, 2018 Las Vegas, NV",2018-05-21T20:09:22Z,78
+PLhr1KZpdzukdw6XSDlc5qUL2Emtro5ch7,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Summit – Sydney 2018,2018-05-21T18:33:00Z,20
+PLhr1KZpdzukct6lPRauTaQtZNETGvRowh,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | NY Summit 2017,2018-05-18T21:14:34Z,10
+PLhr1KZpdzukeqwHaHZEqSvYS797qIlrTg,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Builders' Day,2018-05-18T21:04:22Z,15
+PLhr1KZpdzukd6Qi9DopJc8Tf-Tm8z-Vi_,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Game Day Essentials,2018-05-18T21:01:19Z,7
+PLhr1KZpdzukeX_mMp7GOHdMWFSoo3zLs8,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Robocar Rally 2017,2018-05-18T20:59:30Z,4
+PLhr1KZpdzukdr5sVrEmak2cxTtOGf6dix,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Live Coding with AWS,2018-05-18T20:49:36Z,34
+PLhr1KZpdzukf1ERxT2lJnkpsmTPyG0_cC,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Well-Architected Solutions,2018-05-18T20:39:15Z,16
+PLhr1KZpdzukcnb3DbZ90PMzuGGFk9cReM,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Maker Studio,2018-05-18T20:35:21Z,9
+PLhr1KZpdzukesvYf_QScuUTSTQux9KFw3,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Build a .NET Chatbot,2018-05-18T20:32:25Z,10
+PLhr1KZpdzukfl48d6zZFS3ryGaD5YXcYw,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | AWS Launchpad at the London Summit,2018-05-17T17:52:22Z,16
+PLhr1KZpdzukc__mMPBXOYPeseF7GIAHWu,UCd6MoB9NC6uYN2grvUNT-Zg,London AWS Summit 2018,2018-05-11T13:36:56Z,4
+PLhr1KZpdzuke4Yyv6FN4DPQiZBx0tajV6,UCd6MoB9NC6uYN2grvUNT-Zg,Milan AWS Summit 2018,2018-05-09T15:17:02Z,13
+PLhr1KZpdzukc9eF_H3yKlylLJ5wVl6-lP,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Contact Center Introduction,2018-05-09T10:05:35Z,2
+PLhr1KZpdzukdEJLYCqbK2QT6OqL6hzmFO,UCd6MoB9NC6uYN2grvUNT-Zg,Brussels AWS Public Sector Summit 2018,2018-05-03T17:19:13Z,19
+PLhr1KZpdzukdGHdjmr6oq4S3RzCJKVj_t,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Tim Bray & Friends: Messaging Mini-Series,2018-05-02T23:13:24Z,7
+PLhr1KZpdzukcYWC1xD-vidMZf2uilGkor,UCd6MoB9NC6uYN2grvUNT-Zg,twitch.tv/aws | Build on Serverless,2018-05-02T23:12:15Z,23
+PLhr1KZpdzukeQ9VXeg_dYvY3VjtsU5Sc-,UCd6MoB9NC6uYN2grvUNT-Zg,AWS DevDay Munich 2018,2018-04-23T23:34:30Z,20
+PLhr1KZpdzukc5dysPUEk6XzQMP2nAZmdL,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Startup Day 2018 | San Francisco,2018-04-23T20:58:42Z,10
+PLhr1KZpdzukfXk5NBDf8FFwOecXBAMow_,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Innovate Online Conference 2018,2018-04-12T18:27:42Z,12
+PLhr1KZpdzukdBd9weuz5kecimDncn2ewc,UCd6MoB9NC6uYN2grvUNT-Zg,San Francisco AWS Summit  2018 - Breakout Sessions,2018-04-11T21:25:24Z,12
+PLhr1KZpdzukeewN2WruD_PCCJCP39upn1,UCd6MoB9NC6uYN2grvUNT-Zg,San Francisco AWS Summit 2018,2018-04-06T16:21:45Z,12
+PLhr1KZpdzukceo9Va4YXeAW2Xr-QAJ_d2,UCd6MoB9NC6uYN2grvUNT-Zg,Singapore AWS Summit 2018,2018-04-05T23:27:33Z,40
+PLhr1KZpdzukc6QYNUvE1wwMZ-I1HAZYZ9,UCd6MoB9NC6uYN2grvUNT-Zg,San Francisco AWS Summit 2018 - Launchpad,2018-04-05T00:46:13Z,23
+PLhr1KZpdzukcpd__tGf2QNsnjyachcXEI,UCd6MoB9NC6uYN2grvUNT-Zg,Tel Aviv AWS Summit 2018,2018-03-26T21:53:21Z,29
+PLhr1KZpdzukdo23MDXkw6zZwTSRdZZS78,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Startups,2018-03-21T16:51:01Z,205
+PLhr1KZpdzukfnF1UlJ4Z_ovAvD135jbVb,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Customer Testimonials -  re:Invent 2017,2018-03-13T21:40:08Z,31
+PLhr1KZpdzukfvY9tdCtwsxOqmPb9V0Am4,UCd6MoB9NC6uYN2grvUNT-Zg,Live Streaming with AWS,2018-02-14T18:18:08Z,42
+PLhr1KZpdzukdTObwzzvQ52Wv8Uu_HG-Zg,UCd6MoB9NC6uYN2grvUNT-Zg,AWS DevDays Nordics 2018,2018-01-30T21:39:08Z,14
+PLhr1KZpdzuke4U6g1j_3fHZWhstvgV7qf,UCd6MoB9NC6uYN2grvUNT-Zg,Microsoft Services/Products,2018-01-22T19:38:32Z,1
+PLhr1KZpdzukcI8xilaG9SFgiODzrqlAaJ,UCd6MoB9NC6uYN2grvUNT-Zg,Earth Observation on AWS,2018-01-17T15:46:31Z,1
+PLhr1KZpdzukcip4KMGgaKyIPwsKzVNbte,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Innovate Online Conference 2017,2017-12-22T01:34:29Z,30
+PLhr1KZpdzukcp_vu1Yf5O4t3PfIXCsLC4,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 | Promos,2017-12-19T19:46:32Z,28
+PLhr1KZpdzukc_n6KuGQBeVZ7znHgkOKrE,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 | Keynotes,2017-12-19T19:27:55Z,3
+PLhr1KZpdzukc3BkEhNeTTzRIA1V_IqSjU,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 | Product Launches,2017-12-19T18:01:05Z,26
+PLhr1KZpdzukdp9HEJu2bXuR0NGGQ_yQ4R,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions - Public Sector,2017-12-08T21:32:50Z,14
+PLhr1KZpdzukcECDc2DtzixJ8u8GxG0LA4,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2017 Launchpad Live Streams on twitch.tv/aws,2017-12-07T21:56:32Z,63
+PLhr1KZpdzukc6GguNSQ9W0ylmx5Rckll7,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Containers,2017-12-05T18:17:13Z,25
+PLhr1KZpdzukdsQoxOTtIJenwRamHbXUte,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 | Daily re:Cap,2017-12-01T20:56:55Z,6
+PLhr1KZpdzukdagfQxs6WdIigw0XwG2kr8,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Storage,2017-12-01T10:19:40Z,29
+PLhr1KZpdzukc-1lMQ8iugc82jaVUt_Nej,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Serverless,2017-12-01T10:05:30Z,27
+PLhr1KZpdzukewxjrgeVIGw49tiIbkqt0Z,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Networking,2017-12-01T09:58:13Z,15
+PLhr1KZpdzukf6N6R1cmRWj2BvqvXDyBYo,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | AWS Marketplace & Service Catalog,2017-12-01T09:55:35Z,7
+PLhr1KZpdzukeKUChZG8SdYipk7INwphQm,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Machine Learning,2017-12-01T09:22:22Z,36
+PLhr1KZpdzukeZRZzU9Mi6rWgVFFBRbeK6,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Mobile,2017-12-01T09:13:10Z,16
+PLhr1KZpdzukdHl2gKK09p6PihKNkA-5yC,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | IoT,2017-12-01T08:51:19Z,22
+PLhr1KZpdzukf34vxrO18JKjMLT_5tGNJi,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Devops,2017-12-01T08:23:47Z,37
+PLhr1KZpdzukcNitpsUCr-_oQJ9HSQT8Vg,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Demo Theater,2017-12-01T08:05:37Z,80
+PLhr1KZpdzuketnzOgclLSIXCacM84ryFX,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Databases,2017-12-01T07:49:13Z,37
+PLhr1KZpdzukdLDsITEkaUyqaygujHolVc,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Content Delivery,2017-12-01T07:34:49Z,19
+PLhr1KZpdzuketRsahJYkPSV11ZQ2WqTSW,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Containers,2017-12-01T07:12:25Z,17
+PLhr1KZpdzukeiPpqZ3C7r-6DDqr0pWTow,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Compute,2017-12-01T06:59:17Z,29
+PLhr1KZpdzukdDwiKgdXe4uQHt7H9BiaR3,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Architecture,2017-12-01T06:47:27Z,33
+PLhr1KZpdzuke7G4Ab6M2JbMiG5-I7unN0,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Alexa,2017-12-01T06:45:00Z,5
+PLhr1KZpdzukcJMsbdeLy_8eBaLIxtHy7p,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Analytics & Big Data,2017-12-01T06:34:06Z,34
+PLhr1KZpdzukcGVzIVFTy-j358ZoK9cvrF,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS re:Invent 2017 Breakout Sessions | Security, Compliance & Identity",2017-12-01T01:17:57Z,41
+PLhr1KZpdzukfUH7X77qjz1jU3suHhkE_I,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Business Apps,2017-12-01T01:12:31Z,12
+PLhr1KZpdzukdYX4C4FN3EJ6DOMqyDiO6y,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Windows,2017-12-01T00:38:46Z,11
+PLhr1KZpdzuke9Y-Kv0RiJx4ZPfXr0AG4a,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Enterprise,2017-12-01T00:32:35Z,42
+PLhr1KZpdzukem5E3-TgQARED4qu4-TnPf,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | GPSTechnical,2017-11-29T02:47:44Z,26
+PLhr1KZpdzukeTKB5jxl-qFuQTFTIlRlmp,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | GPSBusiness,2017-11-29T02:24:26Z,22
+PLhr1KZpdzukeKA9qHeVYr8kSXpwEwUgHx,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | GPSMarketplace,2017-11-29T00:39:05Z,2
+PLhr1KZpdzukfHOEEc7pQT14-fZDCK1Fto,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | We Power Tech,2017-11-28T08:11:53Z,4
+PLhr1KZpdzukedIiqJhiIt8tKFfUouGV9u,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Telecommunications,2017-11-28T08:06:44Z,4
+PLhr1KZpdzukdV5yMZ04eOFuyYTHKHLXRI,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Media & Entertainment,2017-11-28T07:47:26Z,6
+PLhr1KZpdzukdBIUJUjtUbUiXlhGqsy4M-,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Gaming,2017-11-28T04:45:43Z,7
+PLhr1KZpdzukeIL3FuDSNCXgouZz_SHKF-,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Financial Services,2017-11-28T04:43:09Z,8
+PLhr1KZpdzukcsHg8KGlmUKrzYDhXTEsZA,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Energy & Utilities,2017-11-28T04:41:26Z,4
+PLhr1KZpdzukcXiSxwmBQ-Al4nl7gZj_kT,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Developer Community,2017-11-28T04:39:02Z,6
+PLhr1KZpdzukftFAHnh0_7VffqL_D4i-29,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Automotive & Manufacturing,2017-11-28T04:26:05Z,4
+PLhr1KZpdzukfnwHQ7RG6tQ6hh7zHUEnME,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Retail & CPG,2017-11-28T03:52:17Z,4
+PLhr1KZpdzukckLI_fQMQagOsAWFfzsGKa,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Life Sciences,2017-11-28T03:49:16Z,7
+PLhr1KZpdzukeNslXGpXVR3r8OohMbP8W6,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | Healthcare,2017-11-28T03:45:58Z,7
+PLhr1KZpdzukfetXNIwkp6X09JaA2h2s4L,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2017 Breakout Sessions | AdTech,2017-11-28T03:42:17Z,4
+PLhr1KZpdzukc-9W9KZtMtFRk_ucqQtI3F,UCd6MoB9NC6uYN2grvUNT-Zg,VMware Cloud,2017-11-28T01:13:37Z,9
+PLhr1KZpdzukc718qatXY0fDb0mt2c0n4T,UCd6MoB9NC6uYN2grvUNT-Zg,Alexa for Business,2017-11-22T01:05:36Z,5
+PLhr1KZpdzukcZZQwXzYdwJxGIinIYTkP9,UCd6MoB9NC6uYN2grvUNT-Zg,Computer Vision,2017-11-21T18:09:22Z,1
+PLhr1KZpdzukcNCJA3Eyh8P_Owq0GES9jK,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Mobile Talk Series,2017-11-16T17:42:23Z,2
+PLhr1KZpdzukceNXXoCLlN5X8rHkir8LmV,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Startup Day 2017 | New York,2017-11-03T22:33:38Z,13
+PLhr1KZpdzuke6GpVH8HmqGevKweWxgAfk,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Startup Day 2017 | San Francisco,2017-11-03T20:43:23Z,15
+PLhr1KZpdzukd9R8Sya9jAcZoFQwcjfCT5,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Transformation Day Series,2017-11-03T19:10:12Z,7
+PLhr1KZpdzukcRPQ5pp1XQGmS_537S26yl,UCd6MoB9NC6uYN2grvUNT-Zg,London AWS Summit 2017,2017-10-10T22:35:18Z,17
+PLhr1KZpdzukehStsyQ-Mlos1gZj1oecFh,UCd6MoB9NC6uYN2grvUNT-Zg,Madrid AWS Summit 2017,2017-10-02T19:20:02Z,21
+PLhr1KZpdzukdseRtiNpYwUtrP-k_gXwPU,UCd6MoB9NC6uYN2grvUNT-Zg,Imagine: A Better World  - Global Nonprofit Conference,2017-09-25T14:14:27Z,11
+PLhr1KZpdzukeH5jKyYi55ef9tEWAllypB,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon EC2 Systems Manager,2017-09-20T18:50:26Z,20
+PLhr1KZpdzukdzwkwv0grYVGgRZSRNUjtk,UCd6MoB9NC6uYN2grvUNT-Zg,Canberra AWS Public Sector Summit 2017,2017-09-08T19:52:45Z,38
+PLhr1KZpdzukctX8gAvOr0LXoIJ3mrC0R8,UCd6MoB9NC6uYN2grvUNT-Zg,New York AWS Summit 2017,2017-09-07T19:08:32Z,7
+PLhr1KZpdzukef_4labkwEs9CbK-MvReKS,UCd6MoB9NC6uYN2grvUNT-Zg,Containers on AWS,2017-09-01T00:14:12Z,6
+PLhr1KZpdzukdIvGn45ydpDE-haWgUxdOC,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Tools for .NET Developers,2017-08-16T15:08:03Z,4
+PLhr1KZpdzukcNmcuMIEfdPxkwA1qWZtVE,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Glue,2017-08-08T17:48:09Z,17
+PLhr1KZpdzukeirs6dNSkYc8C159FXnlBB,UCd6MoB9NC6uYN2grvUNT-Zg,Chicago AWS Summit 2017 - Breakout Sessions,2017-08-01T22:13:01Z,9
+PLhr1KZpdzukdAKLF9o7l4aUAee6WAHqQc,UCd6MoB9NC6uYN2grvUNT-Zg,Tel Aviv AWS Summit 2017,2017-07-31T19:24:08Z,25
+PLhr1KZpdzukdDQCPTly9rbnx8x8zIetJ5,UCd6MoB9NC6uYN2grvUNT-Zg,Chicago AWS Summit 2017,2017-07-27T15:56:37Z,3
+PLhr1KZpdzukc-sBeFND03Ihnf9hyqKp28,UCd6MoB9NC6uYN2grvUNT-Zg,Learn Amazon WorkDocs,2017-07-20T22:47:17Z,1
+PLhr1KZpdzukfZxFGkA796dKaUufAgnU4c,UCd6MoB9NC6uYN2grvUNT-Zg,"AWS re:Invent 2017 | Las Vegas, NV",2017-07-18T17:55:10Z,75
+PLhr1KZpdzukeecu-4gJe83gQJaYcMIXFw,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Chime Training Videos,2017-06-19T22:59:48Z,22
+PLhr1KZpdzukePsKIUofhgp50b63-5yr1V,UCd6MoB9NC6uYN2grvUNT-Zg,Washington D.C. AWS Public Sector Summit 2017,2017-06-16T17:36:26Z,98
+PLhr1KZpdzukffCnLjFPfPWXRzi0qvO3yk,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Summits,2017-06-15T19:00:23Z,29
+PLhr1KZpdzukdCvEDA2z9io-tCYXPFI73T,UCd6MoB9NC6uYN2grvUNT-Zg,SF Summit 2017 | Lightning Talks,2017-06-01T20:06:02Z,11
+PLhr1KZpdzukfxgF7GqvY6FQaZoZw5ob5W,UCd6MoB9NC6uYN2grvUNT-Zg,San Francisco AWS Summit 2017 - Breakout Sessions,2017-05-08T19:59:23Z,5
+PLhr1KZpdzukds95j0NOwvnetTje9g4_2N,UCd6MoB9NC6uYN2grvUNT-Zg,Stockholm AWS Summit 2017,2017-05-05T03:08:49Z,2
+PLhr1KZpdzukfQr-AdrMFILtLEx-RnoTBV,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Twitch,2017-04-20T23:15:49Z,95
+PLhr1KZpdzukfioHV-_WT28YCcV9_gXb1-,UCd6MoB9NC6uYN2grvUNT-Zg,San Francisco AWS Summit 2017,2017-04-20T00:52:23Z,16
+PLhr1KZpdzukeqJ3AWge_TdJJwXtSnoe6p,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Japan,2017-03-29T21:14:58Z,106
+PLhr1KZpdzukdnvKxuk4guWhSV9SbLJCML,UCd6MoB9NC6uYN2grvUNT-Zg,Aurora Resource Center (2016),2017-03-20T08:59:05Z,30
+PLhr1KZpdzukcbAdk5QGn4NxbY6Xnh1ypu,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Careers,2017-03-17T08:24:26Z,742
+PLhr1KZpdzukeIOiqk59BgvpmHXOfPon92,UCd6MoB9NC6uYN2grvUNT-Zg,Amazon S3,2017-03-16T10:25:44Z,3
+PLhr1KZpdzukftLfkbgvtfnjeWLSSo7JC7,UCd6MoB9NC6uYN2grvUNT-Zg,Oracle,2017-03-01T22:32:20Z,23
+PLhr1KZpdzukcDSfiAaLhdx9IlIDw82tIt,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2016 DynamoDB Sessions,2016-12-16T23:47:35Z,14
+PLhr1KZpdzukfMyqfh3K2ZfDDUZz1y_Iry,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2016 | Promos,2016-12-08T22:19:40Z,16
+PLhr1KZpdzukfCMeKSiwIzo_KfQVzUI7vb,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2016 - Customer Speakers,2016-12-01T21:43:40Z,10
+PLhr1KZpdzukfuH92ynLBeCo0tpH68z7ul,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | World Wide Public Sector,2016-11-18T18:53:09Z,6
+PLhr1KZpdzukdqHFnM5eaLWUDYmt4C4iYR,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Windows,2016-11-18T18:52:51Z,12
+PLhr1KZpdzukeLjYUf65Fxe3m0AlpsgjEi,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Storage,2016-11-18T18:52:30Z,24
+PLhr1KZpdzukcLUKD2ej8AKYR-nryjGGnF,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Serverless Computing Mini Con,2016-11-18T18:52:03Z,13
+PLhr1KZpdzukfYBoBNGKS3axyHW9-JClQb,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Security Services Mini Con,2016-11-18T18:51:47Z,13
+PLhr1KZpdzukfBiT0JXadXiAZPoikh5luq,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Security & Compliance,2016-11-18T18:51:32Z,27
+PLhr1KZpdzukcqTmgvR6QpFg7gr0tqQTKg,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Networking,2016-11-18T18:51:11Z,17
+PLhr1KZpdzukdAg4bXtTfICuFeZFC_H2Xq,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Mobile,2016-11-18T18:50:38Z,12
+PLhr1KZpdzukf0LNFkQu6e_gsuYts0dips,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Media & Entertainment,2016-11-18T18:50:20Z,4
+PLhr1KZpdzukexYSNcIj9iBbmn9jYKu2pu,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Machine Learning Mini Con,2016-11-18T18:50:08Z,13
+PLhr1KZpdzukd0NNTmnX6Ba8k7xxWYc87R,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Life Sciences,2016-11-18T18:49:53Z,4
+PLhr1KZpdzukefNs5YEKzQF26RhKxFOMeI,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | IoT Mini Con,2016-11-18T18:48:42Z,13
+PLhr1KZpdzukdTeIj4DEIZ-OO2EkzDHPPr,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Healthcare,2016-11-18T18:48:18Z,4
+PLhr1KZpdzukf7b2uO2wkjM7fiQ-dPGvLe,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Gaming,2016-11-18T18:47:44Z,4
+PLhr1KZpdzukeM5wqWm-OjaG7L8Jp5F74U,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Financial Services,2016-11-18T18:47:06Z,4
+PLhr1KZpdzukccE_5SXE-sTKoxtcT5vaKQ,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Enterprise & Migration,2016-11-18T18:46:47Z,30
+PLhr1KZpdzukdPNwdTvedPlGp90Qbz1VVB,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | DevOps & Tools,2016-11-18T18:46:22Z,31
+PLhr1KZpdzukd_MAdql2hk3NeB63iTzuWr,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Developer Community,2016-11-18T18:46:02Z,3
+PLhr1KZpdzukc97mkL2-TOE-vJtp22c1yc,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Databases,2016-11-18T18:45:38Z,26
+PLhr1KZpdzukdE6cOC8P9Wj5YkrVi68Giq,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Content Delivery,2016-11-18T18:45:22Z,11
+PLhr1KZpdzukfcsAHiuuTdBPWpeDZTVm_M,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Containers Mini Con,2016-11-18T18:35:35Z,13
+PLhr1KZpdzukdWnKfVrKU7hItlHAxhOqCN,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Compute,2016-11-18T18:35:18Z,29
+PLhr1KZpdzukdg8fpf-GPZmIDeBa-iY6Nl,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Business Apps,2016-11-18T18:34:58Z,10
+PLhr1KZpdzukdi1XNNdkDwQqOWObl5FDsV,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Big Data Mini Con,2016-11-18T18:34:40Z,13
+PLhr1KZpdzukekjWDduFy6zLmefzpkpql5,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Big Data & Analytics,2016-11-18T18:34:08Z,7
+PLhr1KZpdzukdog-d8yT5L7xSlROlj9_tg,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Architecture,2016-11-18T17:57:37Z,37
+PLhr1KZpdzukeSc8-VFvtw-6ZadA8r3LQ1,UCd6MoB9NC6uYN2grvUNT-Zg,re:Invent 2016 Breakout Sessions | Alexa,2016-11-18T17:56:36Z,9
+PLhr1KZpdzukc2WMkbT-IzhAQTlpONf06_,UCd6MoB9NC6uYN2grvUNT-Zg,AWS@DLD Tel Aviv 2016,2016-11-08T23:05:22Z,6
+PLhr1KZpdzukfi5G6ZF9Xgr-axQLpFnxlz,UCd6MoB9NC6uYN2grvUNT-Zg,AWS SA Whiteboarding,2016-10-19T19:20:29Z,1
+PLhr1KZpdzukf52Y38lpfn1BcvoXn7qymP,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Agriculture Analysis in the Cloud Day at The Ohio State University,2016-09-27T18:56:38Z,6
+PLhr1KZpdzukdeX8mQ2qO73bg6UKQHYsHb,UCd6MoB9NC6uYN2grvUNT-Zg,This is My Architecture,2016-09-02T17:07:25Z,491
+PLhr1KZpdzukczK9bdgDvkvw3JPOw5bfBm,UCd6MoB9NC6uYN2grvUNT-Zg,Stockholm AWS Summit 2016,2016-08-23T21:11:24Z,3
+PLhr1KZpdzukdGa7Gqu4bdql4KH7sL3mhf,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2016,2016-08-22T18:23:41Z,23
+PLhr1KZpdzukdZDanwSMYah_-8rRMO2m65,UCd6MoB9NC6uYN2grvUNT-Zg,New York AWS Summit 2016,2016-08-10T18:08:15Z,9
+PLhr1KZpdzukf0NGhttsMe_NJBXaYmnIJb,UCd6MoB9NC6uYN2grvUNT-Zg,London AWS Summit 2016,2016-07-15T22:13:22Z,5
+PLhr1KZpdzukfwJ-T-43QC8MLoE7gOJa6Y,UCd6MoB9NC6uYN2grvUNT-Zg,Tel Aviv AWS Summit 2016,2016-07-13T23:39:47Z,23
+PLhr1KZpdzukczhu0GIfyXYp_pT26tTXPH,UCd6MoB9NC6uYN2grvUNT-Zg,Santa Clara AWS Summit 2016,2016-07-11T02:29:35Z,10
+PLhr1KZpdzukfST9x2dBB8xd_Anxte5bV9,UCd6MoB9NC6uYN2grvUNT-Zg,"Washington, D.C. AWS Public Sector Summit 2016",2016-06-22T01:06:19Z,81
+PLhr1KZpdzukcZhJoZiyM7sM3fgm-9cKim,UCd6MoB9NC6uYN2grvUNT-Zg,AWS DynamoDB Day 2016,2016-06-03T21:15:41Z,9
+PLhr1KZpdzukeTxhHeZ9uOa8kFKiO9rBrU,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Big Data Meetups,2016-05-26T23:17:16Z,5
+PLhr1KZpdzukfdjsOHZ-BazZt1iK1J8UUw,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Knowledge Center Videos,2016-05-26T01:08:37Z,789
+PLhr1KZpdzukeBqdYXA-lIIgHnyGfcjnXz,UCd6MoB9NC6uYN2grvUNT-Zg,Public Sector Webinars,2016-05-18T20:15:15Z,29
+PLhr1KZpdzukfcV8WxNg6ruvJwrA2kJ6n4,UCd6MoB9NC6uYN2grvUNT-Zg,Singapore AWS Summit 2016,2016-05-11T17:44:38Z,31
+PLhr1KZpdzukc2_5o7YTT7e2dlKBEKR1ez,UCd6MoB9NC6uYN2grvUNT-Zg,Chicago AWS Summit 2016,2016-04-13T16:19:49Z,62
+PLhr1KZpdzukfsuHJK5mv40wVsMMhgOZ-Q,UCd6MoB9NC6uYN2grvUNT-Zg,What's New with AWS,2016-04-05T23:10:01Z,131
+PLhr1KZpdzukf-E-tishZEYy2u6LxsXRfE,UCd6MoB9NC6uYN2grvUNT-Zg,Healthcare and Life Sciences on AWS,2016-02-17T17:35:00Z,43
+PLhr1KZpdzukcVIL0UcZpPdYRbpMLXsoBv,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Training & Certification Videos,2016-01-20T17:04:29Z,130
+PLhr1KZpdzukeARFSRNsI_cK0qWYUan8k7,UCd6MoB9NC6uYN2grvUNT-Zg,Barcelona AWS Summit 2015,2015-12-09T16:26:33Z,19
+PLhr1KZpdzukeWr_gcy4s8GUxlSA3paSax,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Support,2015-11-30T18:48:25Z,9
+PLhr1KZpdzukfmA3wvLsK_sTbs5KTKvg3J,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Earth Observation in the Cloud,2015-11-23T18:50:43Z,9
+PLhr1KZpdzukfEpDY9fDwDqnHzZM9DVxqS,UCd6MoB9NC6uYN2grvUNT-Zg,Public Sector | AWS re:Invent 2015,2015-10-15T16:24:48Z,6
+PLhr1KZpdzukeShCs7ttJzQJ-H-DAYpS_I,UCd6MoB9NC6uYN2grvUNT-Zg,Social Short Videos | AWS re:Invent 2015,2015-10-09T14:46:32Z,15
+PLhr1KZpdzukcBfuUdMOKc94mnrQhBpdmw,UCd6MoB9NC6uYN2grvUNT-Zg,Mobile Developer & IoT | AWS re:Invent 2015,2015-10-08T22:04:45Z,18
+PLhr1KZpdzukdTMmq1gkXs7g6WIIXtL5r9,UCd6MoB9NC6uYN2grvUNT-Zg,Storage & Content Delivery | AWS re:Invent 2015,2015-09-28T21:37:53Z,15
+PLhr1KZpdzukccVDO15MGT3EZRCA9XZvcn,UCd6MoB9NC6uYN2grvUNT-Zg,Spotlight | AWS re:Invent 2015,2015-09-28T21:37:38Z,14
+PLhr1KZpdzukc9aw8-gnLmyralfsBv7zcR,UCd6MoB9NC6uYN2grvUNT-Zg,Security & Compliance | AWS re:Invent 2015,2015-09-28T21:37:29Z,29
+PLhr1KZpdzukcjwZgFBBTmSNPjf_gImgfx,UCd6MoB9NC6uYN2grvUNT-Zg,Networking | AWS re:Invent 2015,2015-09-28T21:37:15Z,13
+PLhr1KZpdzukcaPbx7Hsn4tsspfubBIGlc,UCd6MoB9NC6uYN2grvUNT-Zg,IT Strategy & Migration | AWS re:Invent 2015,2015-09-28T21:37:04Z,31
+PLhr1KZpdzukf_f41uFoQtqnDGIVqaureL,UCd6MoB9NC6uYN2grvUNT-Zg,Gaming | AWS re:Invent 2015,2015-09-28T21:36:50Z,10
+PLhr1KZpdzukeH9VMPbNHMCXl_NrVc1JGe,UCd6MoB9NC6uYN2grvUNT-Zg,DevOps | AWS re:Invent 2015,2015-09-28T21:36:36Z,22
+PLhr1KZpdzuke5pqzTvI2ZxwP8-NwLACuU,UCd6MoB9NC6uYN2grvUNT-Zg,Developer Tools | AWS re:Invent 2015,2015-09-28T21:36:19Z,10
+PLhr1KZpdzukeMbjRqGswHX38DCqOHZ5GA,UCd6MoB9NC6uYN2grvUNT-Zg,Databases | AWS re:Invent 2015,2015-09-28T21:36:05Z,16
+PLhr1KZpdzukfVW6NrpDzdT6Sej0p5POkN,UCd6MoB9NC6uYN2grvUNT-Zg,Compute | AWS re:Invent 2015,2015-09-28T21:35:46Z,16
+PLhr1KZpdzukdsblOEVXrCYtvUsDakzYJI,UCd6MoB9NC6uYN2grvUNT-Zg,Big Data & Analytics | AWS re:Invent 2015,2015-09-28T21:35:34Z,30
+PLhr1KZpdzukfKyaMhTOFdxtbzleRpFU6s,UCd6MoB9NC6uYN2grvUNT-Zg,Keynotes | AWS re:Invent 2015,2015-09-28T21:35:15Z,23
+PLhr1KZpdzukdRxs_pGJm-qSy5LayL6W_Y,UCd6MoB9NC6uYN2grvUNT-Zg,Architecture | AWS re:Invent 2015,2015-09-28T21:34:50Z,19
+PLhr1KZpdzukeE_VdzvSrvi5CGWKPEy6Ok,UCd6MoB9NC6uYN2grvUNT-Zg,AWS in the Public Sector,2015-09-04T23:43:03Z,735
+PLhr1KZpdzukeM-DoW_xRdF5hejy4cI9Oy,UCd6MoB9NC6uYN2grvUNT-Zg,Tel Aviv AWS Summit 2015,2015-07-21T16:14:04Z,21
+PLhr1KZpdzukedoO6rK53-NiSHBElKZijM,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Partner Network (APN) Success Stories,2015-07-16T15:55:32Z,84
+PLhr1KZpdzukeooqOhFjn38xR_0ZinEINE,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Loft Talks,2015-07-15T12:45:17Z,39
+PLhr1KZpdzukdk4NT0wL0Y5w9Ni7JdBHVl,UCd6MoB9NC6uYN2grvUNT-Zg,WWPS Symposium 2015 | Washington DC,2015-07-14T15:51:56Z,59
+PLhr1KZpdzukfDjLMPI3nQ79smtTClTOEd,UCd6MoB9NC6uYN2grvUNT-Zg,Singapore AWS Summit 2015,2015-05-27T04:23:33Z,15
+PLhr1KZpdzukdgfQ2bcBzw2MnCo8JUfKIl,UCd6MoB9NC6uYN2grvUNT-Zg,AWS | France,2015-05-18T15:33:53Z,8
+PLhr1KZpdzukd64MrBPRr9PNEOv1kUWGaY,UCd6MoB9NC6uYN2grvUNT-Zg,Enterprise Pre-Day AWS Summit 2015,2015-04-10T21:27:41Z,11
+PLhr1KZpdzukeD0iBeDI9WqZLYtuaFaaGc,UCd6MoB9NC6uYN2grvUNT-Zg,Tel Aviv AWS Summit 2015,2015-03-30T16:42:07Z,99
+PLhr1KZpdzukfK7Q-l10TMyGmzyuW3uSHR,UCd6MoB9NC6uYN2grvUNT-Zg,SEAsia - India,2015-02-24T18:10:26Z,112
+PLhr1KZpdzukeYKFGZtFZehwnR5rzeICoo,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Compliance,2015-01-22T23:42:10Z,8
+PLhr1KZpdzukdqVzBYDQ_A4vIt0hO_Sw6w,UCd6MoB9NC6uYN2grvUNT-Zg,Enterprise Focus,2015-01-08T18:28:53Z,7
+PLhr1KZpdzukeRu_nW7dakrbU8LuP3EhER,UCd6MoB9NC6uYN2grvUNT-Zg,Websites | AWS re:Invent 2014,2014-10-22T22:14:31Z,10
+PLhr1KZpdzukf6YADEpM6nFEZs7VDhEs5U,UCd6MoB9NC6uYN2grvUNT-Zg,Spotlight | AWS re:Invent 2014,2014-10-22T22:14:01Z,16
+PLhr1KZpdzukeELGlIL-jJgvzjiZ_wR9tN,UCd6MoB9NC6uYN2grvUNT-Zg,Services Overview | AWS re:Invent 2014,2014-10-22T22:13:41Z,6
+PLhr1KZpdzukcYj6y9nm5jVtt5fQ1-XClr,UCd6MoB9NC6uYN2grvUNT-Zg,Services Deep Dive | AWS re:Invent 2014,2014-10-22T22:13:07Z,22
+PLhr1KZpdzukcJvl0e65MqqwycgpkCENmg,UCd6MoB9NC6uYN2grvUNT-Zg,Security | AWS re:Invent 2014,2014-10-22T22:12:46Z,23
+PLhr1KZpdzukfOfdstfSQVAvUrjBvnGd4i,UCd6MoB9NC6uYN2grvUNT-Zg,Performance | AWS re:Invent 2014,2014-10-22T22:12:30Z,9
+PLhr1KZpdzukeZzTZ7Cn0_4a02AnBbAUNu,UCd6MoB9NC6uYN2grvUNT-Zg,Mobile & Connected Devices | AWS re:Invent 2014,2014-10-22T22:12:09Z,12
+PLhr1KZpdzukcavcJM0hxMixqs9C1-KnHH,UCd6MoB9NC6uYN2grvUNT-Zg,Media Production & Distribution | AWS re:Invent 2014,2014-10-22T22:11:52Z,5
+PLhr1KZpdzukcbGxX4i__0ftN65PNgltDm,UCd6MoB9NC6uYN2grvUNT-Zg,Healthcare & Life Sciences | AWS re:Invent 2014,2014-10-22T22:11:26Z,7
+PLhr1KZpdzukeiCFgRccZ677GhHoP1OD8S,UCd6MoB9NC6uYN2grvUNT-Zg,Gaming | AWS re:Invent 2014,2014-10-22T22:11:06Z,8
+PLhr1KZpdzukc-h3mgX4RHG0qFSH4SXxlW,UCd6MoB9NC6uYN2grvUNT-Zg,Financial Services | AWS re:Invent 2014,2014-10-22T22:10:49Z,3
+PLhr1KZpdzukfrGo6YLeysVFZvwJw6gUya,UCd6MoB9NC6uYN2grvUNT-Zg,Enterprise Adoption | AWS re:Invent 2014,2014-10-22T22:10:24Z,29
+PLhr1KZpdzukfGd-Raw2TT6XKbSRkpJifG,UCd6MoB9NC6uYN2grvUNT-Zg,Education | AWS re:Invent 2014,2014-10-22T22:10:06Z,2
+PLhr1KZpdzukeEDdaSY-HHJuX30WsoGhuW,UCd6MoB9NC6uYN2grvUNT-Zg,Developer Tools & SDKs | AWS re:Invent 2014,2014-10-22T22:09:47Z,10
+PLhr1KZpdzukdFPw42zUAWjbqtFwKTxaKy,UCd6MoB9NC6uYN2grvUNT-Zg,Business Apps | AWS re:Invent 2014,2014-10-22T22:09:11Z,6
+PLhr1KZpdzukd8KRz4wQd5VB9DMxrV-QLp,UCd6MoB9NC6uYN2grvUNT-Zg,Big Data & HPC | AWS re:Invent 2014,2014-10-22T22:08:56Z,22
+PLhr1KZpdzukdoUVMT6VYIC7ByzqOsT9Ok,UCd6MoB9NC6uYN2grvUNT-Zg,"Archive, Backup & DR | AWS re:Invent 2014",2014-10-22T22:08:26Z,8
+PLhr1KZpdzuketO0VQtLwchbqJLO4vDjAq,UCd6MoB9NC6uYN2grvUNT-Zg,Architecture | AWS re:Invent 2014,2014-10-22T22:08:04Z,20
+PLhr1KZpdzukcMN8ixupMLwz4isu-KAf0D,UCd6MoB9NC6uYN2grvUNT-Zg,Apps for Fire | AWS re:Invent 2014,2014-10-22T22:07:19Z,4
+PLhr1KZpdzukezLULL9sbvOLNLLiTu5zKu,UCd6MoB9NC6uYN2grvUNT-Zg,App Deployment & Mgmt | AWS re:Invent 2014,2014-10-22T22:06:28Z,16
+PLhr1KZpdzukdxQFD0-7BM3yaQVrCWrIzW,UCd6MoB9NC6uYN2grvUNT-Zg,Advertising Tech | AWS re:Invent 2014,2014-10-22T22:05:58Z,3
+PLhr1KZpdzukeH-LGfK2c8hPy1hDmFE_5f,UCd6MoB9NC6uYN2grvUNT-Zg,Keynotes | AWS re:Invent 2014,2014-10-22T22:05:32Z,23
+PLhr1KZpdzukfOvujPQP1mK48v-417DB8o,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2013,2014-08-22T22:13:59Z,199
+PLhr1KZpdzukfgA7Y4Lyc4UqE-fVuhp47C,UCd6MoB9NC6uYN2grvUNT-Zg,New York AWS Summit 2014,2014-07-10T16:02:16Z,6
+PLhr1KZpdzukdXW94ue4mXaBTMjwSGNsLQ,UCd6MoB9NC6uYN2grvUNT-Zg,GDC 2014,2014-06-10T16:42:52Z,7
+PLhr1KZpdzukcPt5hrr_upkVY5xqO1eBY1,UCd6MoB9NC6uYN2grvUNT-Zg,AWS China,2014-05-21T19:42:17Z,6
+PLhr1KZpdzukd4NaMbGvxPfXy3q-BPACXw,UCd6MoB9NC6uYN2grvUNT-Zg,Marketplace Partner Profiles,2014-05-19T20:35:07Z,3
+PLhr1KZpdzukfOdRFXjVcllo-AJzShOSti,UCd6MoB9NC6uYN2grvUNT-Zg,San Francisco AWS Summit 2014,2014-02-18T16:43:49Z,31
+PLhr1KZpdzukev2qqKMsbEAiYw97PoX_xy,UCd6MoB9NC6uYN2grvUNT-Zg,AWS 201 Webinar - A Walk through the AWS Cloud: AWS Security Best Practices,2013-12-04T13:52:48Z,5
+PLhr1KZpdzukfXvSJX8ZXUsSdisWM_MKQm,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Asia Pacific,2013-10-09T20:14:46Z,35
+PLhr1KZpdzukcAtqFF32cjGUNNT5GOzKQ8,UCd6MoB9NC6uYN2grvUNT-Zg,Simple Monthly Calculator from AWS,2013-09-17T21:03:14Z,3
+PLhr1KZpdzukfA3m0jEQmkeGU4SHkSoPZZ,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent 2012 | Breakout Session Recordings,2013-09-17T03:50:23Z,116
+PLhr1KZpdzukejihLXBn7rHEPm_QcObbSX,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Europe (EMEA),2013-08-26T03:57:13Z,80
+PLhr1KZpdzukc6THDn_areOqoCFB4ucFRI,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Latin America (LATAM),2013-08-19T16:39:10Z,19
+PLhr1KZpdzukdaUQTcNmura83FbM9bXiol,UCd6MoB9NC6uYN2grvUNT-Zg,Bangalore AWS Summit 2013 - Start-Up & Developer Track,2013-07-11T09:30:44Z,7
+PLhr1KZpdzukf3YMON3197mDFRtipWyN-9,UCd6MoB9NC6uYN2grvUNT-Zg,Deploy Microsoft SharePoint on AWS Cloud Video Series,2013-04-23T16:18:07Z,11
+PLhr1KZpdzukeUoelFoS68SRfY6pA_Ib6A,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Webinars,2013-04-22T01:10:01Z,371
+PLhr1KZpdzuke2RGqgUU6MKBUPeUf1R35v,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Summit Series 2013,2013-04-18T16:02:54Z,17
+PLhr1KZpdzuke4Vz7nLdyIscour4d9XkHw,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Partner Webinars,2013-01-24T23:19:26Z,123
+PLhr1KZpdzukecuKSZ9P_Zhj-hA3-rGl_y,UCd6MoB9NC6uYN2grvUNT-Zg,Start-Ups Built on AWS,2013-01-15T17:45:51Z,16
+PLhr1KZpdzukfvYvl3zkg-gRlKBLiLP6Px,UCd6MoB9NC6uYN2grvUNT-Zg,Featured AWS Videos,2012-12-14T17:22:50Z,10
+PLhr1KZpdzukef12JI6d6P0F4S5O76cEok,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent Keynotes,2012-11-15T00:23:15Z,8
+PLhr1KZpdzukchEQmvwyk_UT2rshhV0j2k,UCd6MoB9NC6uYN2grvUNT-Zg,AWS re:Invent | 2012,2012-09-17T20:11:37Z,24
+PL98F701F3E28B5038,UCd6MoB9NC6uYN2grvUNT-Zg,EC2 Feature Clips,2012-08-28T18:37:42Z,18
+PL0E09864A05AFB021,UCd6MoB9NC6uYN2grvUNT-Zg,Building Applications with DynamoDB,2012-08-13T19:26:24Z,8
+PLEBA4B8F48FEB0F2A,UCd6MoB9NC6uYN2grvUNT-Zg,Live Coverage from AWS re:Invent 2012,2012-07-16T22:18:30Z,12
+PL080E1DEBCE5388F3,UCd6MoB9NC6uYN2grvUNT-Zg,Elastic MapReduce series,2012-07-16T18:49:29Z,11
+PL96BBC925FCDEC62F,UCd6MoB9NC6uYN2grvUNT-Zg,Getting Started with Oracle Secure Backup and Amazon S3,2012-06-27T12:35:38Z,10
+PL941A98ADA8A833EB,UCd6MoB9NC6uYN2grvUNT-Zg,New York AWS Summit 2012,2012-06-13T17:58:46Z,19
+PLA055102BCA82F493,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Cloud Storage NY 2012 - Cloud Storage for the Enterprise,2012-06-13T17:58:19Z,12
+PLFEDFE56CEF6F35CE,UCd6MoB9NC6uYN2grvUNT-Zg,Web Application Hosting for Linux on AWS,2012-05-17T01:35:48Z,11
+PLC5C8DED7DFCFAABA,UCd6MoB9NC6uYN2grvUNT-Zg,Web Application Hosting for Windows on AWS,2012-05-16T23:25:13Z,13
+PL253659793558BD65,UCd6MoB9NC6uYN2grvUNT-Zg,The AWS Report,2012-04-02T22:24:11Z,102
+PL015041767CFA57C8,UCd6MoB9NC6uYN2grvUNT-Zg,Getting Started,2012-01-01T05:23:22Z,57
+PLFC4DF7286B2419F9,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Customer Success Stories,2011-09-06T17:43:18Z,1609
+PLC1EA73D8914686E5,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Products & Services,2011-08-22T20:20:03Z,1528
+PL75030280301B645F,UCd6MoB9NC6uYN2grvUNT-Zg,Architecture Guidance,2011-08-22T20:14:17Z,8
+PLB5E292665ECEAA1F,UCd6MoB9NC6uYN2grvUNT-Zg,Developer How To...,2011-08-22T20:12:39Z,45
+PL453CC460EA4FDE66,UCd6MoB9NC6uYN2grvUNT-Zg,AWS Executive Talks,2009-08-04T18:32:07Z,30
+PLcFwxJMrxygAismXmI7js9jeH1yPApphm,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Local Government: Public Safety and NetSuite for Government Solutions for Efficient Communities,2024-10-04T00:12:58Z,9
+PLcFwxJMrxygBzL0iwuLSCsO4BYz1Z-3cD,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Artificial Intelligence (AI),2024-10-03T17:27:09Z,41
+PLcFwxJMrxygA_C-gwx_zWQL9da5ZniC36,UCHCThmyZ-2yWkv0UVeBDdnQ,Learning Sessions | CloudWorld 2024,2024-10-01T16:37:15Z,1
+PLcFwxJMrxygC7ERe3Pli4O_TRur-O3vNd,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle TV Highlights: CloudWorld 2024,2024-09-05T20:58:18Z,34
+PLcFwxJMrxygCWmyru724CRt2e2nna1grC,UCHCThmyZ-2yWkv0UVeBDdnQ,Conference Highlights: SuiteWorld 2024,2024-09-05T20:57:48Z,0
+PLcFwxJMrxygC7V2hUmknAACJyFDYR8HyP,UCHCThmyZ-2yWkv0UVeBDdnQ,Conference Highlights: CloudWorld 2024,2024-09-05T20:57:28Z,6
+PLcFwxJMrxygBHieB1AURxjypotLp_lisX,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Health Inside Access Webcast Series,2024-06-13T21:22:03Z,7
+PLcFwxJMrxygALJRhZCbnjtDBYWCpWXPGz,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle DatabaseWorld AI Edition 2024,2024-05-16T20:53:55Z,19
+PLcFwxJMrxygBPIXuUkQZJw61viUMY3T5R,UCHCThmyZ-2yWkv0UVeBDdnQ,CloudWorld Tours 2024 Conference Highlights,2024-04-04T18:40:20Z,8
+PLcFwxJMrxygAJAH3n0h62C1WHjZE7MEXo,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Customer Success Services—Accelerating Your Success with Oracle Cloud,2024-03-27T17:00:30Z,27
+PLcFwxJMrxygDtdLKjZKb41VsOgp2tW0lk,UCHCThmyZ-2yWkv0UVeBDdnQ,GenAI in Fusion Cloud Applications,2024-02-12T20:21:26Z,7
+PLcFwxJMrxygChP4I6I7UpNeQML-y2hv0a,UCHCThmyZ-2yWkv0UVeBDdnQ,Built to Win: Oracle Red Bull Racing Leverages Oracle Technology to Drive Success,2024-02-07T21:14:07Z,4
+PLcFwxJMrxygCGkT184W89TdI-bv3z9Lf2,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Health—Advancing Healthcare,2024-01-11T20:17:59Z,17
+PLcFwxJMrxygA_S1Q_PO_guSWaDS6i0Fe6,UCHCThmyZ-2yWkv0UVeBDdnQ,What is Oracle? Oracle Products Explained,2024-01-05T18:31:33Z,41
+PLcFwxJMrxygCar5nRNXUPRJSknKu7lf0J,UCHCThmyZ-2yWkv0UVeBDdnQ,Solution Keynotes | CloudWorld 2023,2023-10-19T20:34:04Z,11
+PLcFwxJMrxygBXV_fbbyTCcy-imjkNg_zS,UCHCThmyZ-2yWkv0UVeBDdnQ,What's New in Oracle Tech Platform,2023-10-17T17:23:52Z,7
+PLcFwxJMrxygDB0Wx9cm0krxkRnEKBe4RB,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle TV Highlights | CloudWorld 2023,2023-09-20T17:30:28Z,19
+PLcFwxJMrxygBnrzmPhRXFXbYZWn7yB4Jq,UCHCThmyZ-2yWkv0UVeBDdnQ,Main Stage Keynotes | CloudWorld 2023,2023-09-19T16:45:09Z,6
+PLcFwxJMrxygCwXuRuzvW8kjCBEvl3RT1h,UCHCThmyZ-2yWkv0UVeBDdnQ,Conference Highlights | CloudWorld 2023,2023-09-19T05:01:09Z,6
+PLcFwxJMrxygBW486jQ1Bd0KItTIsJ7Zl8,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Industry Innovations,2023-07-20T18:23:17Z,5
+PLcFwxJMrxygAwpAWPmVqtpa6vS34i6uao,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle TV,2023-06-23T15:50:50Z,12
+PLcFwxJMrxygDgR9CkSOh__EvBpaHc-bak,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Payments Cloud Service,2023-05-09T17:50:16Z,13
+PLcFwxJMrxygD6Jit4ZiyiEIQCvH5PSjai,UCHCThmyZ-2yWkv0UVeBDdnQ,OCI First Principles: Inside OCI Engineering with Pradeep Vincent,2023-03-13T20:12:50Z,17
+PLcFwxJMrxygD5IC0c4CBh72giw9tzmOc6,UCHCThmyZ-2yWkv0UVeBDdnQ,Modernizing Data Management,2022-11-10T01:44:40Z,6
+PLcFwxJMrxygC_osDCLJvvQj4LIcejikdf,UCHCThmyZ-2yWkv0UVeBDdnQ,Modernizing Enterprises,2022-11-10T00:49:37Z,5
+PLcFwxJMrxygCqt6XLQrhSMsCvzf_gCIbJ,UCHCThmyZ-2yWkv0UVeBDdnQ,Main Stage Keynotes | CloudWorld 2022,2022-10-07T19:38:44Z,4
+PLcFwxJMrxygD1F2M7lOzGXHzsCW13c0_r,UCHCThmyZ-2yWkv0UVeBDdnQ,"Plan, Adopt, Innovate | CloudWorld 2022 Keynotes and Sessions",2022-10-07T19:38:07Z,10
+PLcFwxJMrxygB6G4mycKEizCX5GnieDbuu,UCHCThmyZ-2yWkv0UVeBDdnQ,Database | CloudWorld 2022 Keynotes and Sessions,2022-10-07T19:37:20Z,58
+PLcFwxJMrxygCZvOTMKX1Qn2qOFfHGtVjz,UCHCThmyZ-2yWkv0UVeBDdnQ,Sales and Service | CloudWorld 2022 Keynotes and Sessions,2022-10-07T19:36:38Z,3
+PLcFwxJMrxygBVqeRxAMPRtz1Afz3fj7L9,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud Infrastructure | CloudWorld 2022 Keynotes and Sessions,2022-10-07T19:35:35Z,50
+PLcFwxJMrxygA3tC1Xo7A-KhHebaNqVTwb,UCHCThmyZ-2yWkv0UVeBDdnQ,Finance | CloudWorld 2022 Keynotes and Sessions,2022-10-07T19:34:17Z,16
+PLcFwxJMrxygCF7JoUR8aQPCecd17yp62o,UCHCThmyZ-2yWkv0UVeBDdnQ,Supply Chain Management | CloudWorld 2022 Keynotes and Sessions,2022-10-07T19:33:26Z,15
+PLcFwxJMrxygCKUZkf5YzVK-UzO2wGUTwI,UCHCThmyZ-2yWkv0UVeBDdnQ,Human Resources | CloudWorld 2022 Keynotes and Sessions,2022-10-07T19:32:42Z,24
+PLcFwxJMrxygCEppGJZwXTBwjxMn3ejv4q,UCHCThmyZ-2yWkv0UVeBDdnQ,Cross Applications | CloudWorld 2022 Keynotes and Sessions,2022-10-07T19:31:32Z,10
+PLcFwxJMrxygBLuILd3B86EC7_vhVUxIc1,UCHCThmyZ-2yWkv0UVeBDdnQ,Marketing | CloudWorld 2022 Keynotes and Sessions,2022-10-07T19:30:35Z,6
+PLcFwxJMrxygCzLt6Ct-9fJjWWAfvIyBRM,UCHCThmyZ-2yWkv0UVeBDdnQ,Developer Technologies | CloudWorld 2022 Keynotes and Sessions,2022-10-07T19:27:15Z,50
+PLcFwxJMrxygCjFKnI7yigDwcsSNcB7epT,UCHCThmyZ-2yWkv0UVeBDdnQ,Industries | CloudWorld 2022 Keynotes and Sessions,2022-10-07T19:26:25Z,6
+PLcFwxJMrxygAmU11IxytfWyVLsDfFtrP8,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle ME Employee Experience Platform,2022-10-06T22:38:07Z,1
+PLcFwxJMrxygAVv2rSz-bOg3s_VyeP5G9x,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Professional Services,2022-08-08T22:16:11Z,2
+PLcFwxJMrxygDcGapmz7gsTPuvGOv2-nAH,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: The Future of CRM—Engineering Connected Sales Experiences,2022-07-22T21:55:42Z,9
+PLcFwxJMrxygBCavSn1moan2vbmzRC2cKb,UCHCThmyZ-2yWkv0UVeBDdnQ,Discover Financial Services,2022-07-22T16:45:21Z,5
+PLcFwxJMrxygArXtqH4VnEVIJ6le8ChrD0,UCHCThmyZ-2yWkv0UVeBDdnQ,Introducing Oracle Database Service for Microsoft Azure,2022-07-16T00:02:16Z,12
+PLcFwxJMrxygDlO2H1SHNqBKwVgRUZiLtv,UCHCThmyZ-2yWkv0UVeBDdnQ,"Oracle Live: Hybrid Cloud Redefined—New, Unmatched OCI Solutions for Customers",2022-06-17T19:42:59Z,5
+PLcFwxJMrxygAC_cwmUrV0VINal6DU3_Gr,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: The Future of Healthcare,2022-06-09T18:48:10Z,14
+PLcFwxJMrxygA7DDt90PDOr9wXr-U_O0Pt,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Trending Topics—Conversations to Drive Success,2022-06-03T00:23:40Z,13
+PLcFwxJMrxygB_YNzvOWojoVwhaaWxVy_W,UCHCThmyZ-2yWkv0UVeBDdnQ,What Matters? Oracle Cloud Virtual Summit: Employee Experience,2022-05-20T21:57:43Z,4
+PLcFwxJMrxygDJa4F9EKfDm_3UEA20Qpgp,UCHCThmyZ-2yWkv0UVeBDdnQ,Top Resources for CFOs—Delivered by Oracle,2022-05-16T21:53:47Z,4
+PLcFwxJMrxygBln5f-zfrzu-qkkIhXCd7s,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Customer Stories,2022-05-04T00:47:24Z,137
+PLcFwxJMrxygCu8t660kZNPcjs67Vh4Ocq,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Database World 2022,2022-04-20T18:35:10Z,19
+PLcFwxJMrxygBvZkgl7nUXat_I7lJoQBX-,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: The Future of Employee Experience Is ME,2022-04-12T18:28:42Z,9
+PLcFwxJMrxygCc03Gjb3aPv0SF_xJG1guF,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud Virtual Summit: Redefine Best in a World of Change,2022-04-08T19:01:46Z,10
+PLcFwxJMrxygCKR9e22ZVzuMMu_YoZZot0,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud Virtual Summit: Deliver Remarkable Experiences with Connected Field Service,2022-04-04T18:42:45Z,12
+PLcFwxJMrxygC11LN8Wa_i46NR6tYEg6-V,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle HCM Product Explainer Videos,2022-03-29T17:46:47Z,6
+PLcFwxJMrxygDtD3JGq4bFqGnYBKrU2BVR,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Customer Spotlight Featuring Oracle Red Bull Racing,2022-03-22T22:19:54Z,11
+PLcFwxJMrxygB4N5AcdWb4xMtlxQOd50AL,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: MySQL HeatWave—New Machine Learning Capabilities,2022-03-16T14:27:15Z,8
+PLcFwxJMrxygCVaQywFp0BG5k8i-7VPuwj,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Run Any Workload on OCI,2022-03-14T23:22:25Z,10
+PLcFwxJMrxygDAqiYOB_P9YVWJTFObmN71,UCHCThmyZ-2yWkv0UVeBDdnQ,"Oracle CloudWorld | October 17-20, Las Vegas",2022-03-01T23:14:40Z,13
+PLcFwxJMrxygBFR_cTivvQ_0Fw3flFA2Dp,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Applications: Redefine Best in a World of Change,2022-02-24T23:32:01Z,7
+PLcFwxJMrxygCbf5bAjQls--2xk0YHDBye,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Customer Spotlight Series,2022-02-10T17:43:48Z,41
+PLcFwxJMrxygDC4CHQ-ne-KeUREgLnFsVy,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle for Higher Education,2022-02-02T23:24:24Z,10
+PLcFwxJMrxygAY80qOhg-39Cv_yGAqPbRc,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Database World 2021,2022-01-27T23:00:34Z,38
+PLcFwxJMrxygD7PUDxWndQ6SnM67FVkLWy,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud Virtual Summit: Charting the Future of Higher Education,2022-01-12T17:29:57Z,9
+PLcFwxJMrxygCTOAN5l_B_Lw3In2sc3jLS,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle CX Virtual Summit: Deliver service that meets the moment,2021-12-22T20:11:22Z,13
+PLcFwxJMrxygCDwD3LznF_Fa5P4TZL43Zc,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle ERP: Business Growth and Pivoting Forward,2021-12-09T00:04:17Z,13
+PLcFwxJMrxygB6svOgnlh6a2QeAuhZL2rC,UCHCThmyZ-2yWkv0UVeBDdnQ,AI@Work: The Miniseries,2021-11-17T04:11:44Z,7
+PLcFwxJMrxygBy7RXeisPi8cNxJ358g39k,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Red Bull Racing,2021-11-17T00:26:31Z,11
+PLcFwxJMrxygD9o0g_DwDJbNrKqCM-z5fx,UCHCThmyZ-2yWkv0UVeBDdnQ,Zero Data Loss Recovery Appliance (ZDLRA),2021-11-12T21:00:51Z,4
+PLcFwxJMrxygAGv0AMlLKjs53KVnZcOt70,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Connect Your Enterprise with AI-Driven Analytics,2021-10-27T19:51:31Z,8
+PLcFwxJMrxygBrMxSiHiquXb5z5kGDiQxP,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: The Future of the Data Lakehouse,2021-10-19T16:36:37Z,9
+PLcFwxJMrxygDccOzjKIYfR9jNGFaz-CBZ,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud Virtual Summit: Boost Your Agility with Connected Planning,2021-10-15T20:05:34Z,5
+PLcFwxJMrxygCOOlGFiA-jux7GoPcxUFej,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Sports,2021-10-12T22:32:38Z,44
+PLcFwxJMrxygC4WvWZaSssBgaeXb-_6e0U,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle CX Virtual Summit: How Organizations Help Sellers Get Back to Selling,2021-10-08T19:59:48Z,7
+PLcFwxJMrxygAWcsoHoCIB7rRTQWM2txdw,UCHCThmyZ-2yWkv0UVeBDdnQ,Exadata Cloud at Customer,2021-09-29T23:38:56Z,10
+PLcFwxJMrxygBQe79pQWWlRGJyvms4lbMd,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud ERP Virtual Summit: Outpace Change with Continuous Innovation,2021-09-23T22:50:48Z,7
+PLcFwxJMrxygD-ExTQrsi9XQ3BCyTcZenK,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: The Future of CRM—Engineering Better Experiences,2021-09-20T16:58:08Z,7
+PLcFwxJMrxygD8hiTNd2N9o8wlffNFf-w4,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Virtual Road Trip 2021,2021-09-17T22:32:28Z,26
+PLcFwxJMrxygD3hVtm-QM9WR5A2fSvvGi2,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle HCM Skills Matter: Virtual Summit Highlights,2021-08-27T22:55:40Z,3
+PLcFwxJMrxygD14JtGH4-pS1XCTEgpB_rP,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Weekly Intern Report,2021-08-24T19:01:20Z,5
+PLcFwxJMrxygAzwEpoYvHO8F89Eg1_TSLG,UCHCThmyZ-2yWkv0UVeBDdnQ,High Availability and Scalability for Modern Database Architectures,2021-08-11T21:58:03Z,13
+PLcFwxJMrxygAfPh986IK2wl3S3cPZrZKx,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: MySQL Database Service—New HeatWave Innovations,2021-08-09T21:04:37Z,5
+PLcFwxJMrxygCoVAlWlnvW3cd5rhDGTnsV,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud SCM Virtual Summit: The Keys to Unlocking Continuous Innovation,2021-08-09T18:49:40Z,13
+PLcFwxJMrxygC3074KgSg2vkTkK7gliz8d,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Customer Experience (CX),2021-07-30T17:58:57Z,43
+PLcFwxJMrxygDDW3ffDWZhNC1pxxFpCFEI,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle HCM Skills Matter: What Your Organization Needs to Survive and Thrive,2021-07-26T23:44:04Z,4
+PLcFwxJMrxygCm7UlmquzXXoA0mbtDe_dc,UCHCThmyZ-2yWkv0UVeBDdnQ,Industry Transformation Trends,2021-07-14T22:53:41Z,17
+PLcFwxJMrxygAP7oWPFI5tWFWaP0HCSU1e,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Business Leaders Share—Why We Switched to Oracle Applications,2021-07-09T20:02:16Z,7
+PLcFwxJMrxygCvCiJN8eyHe-LXuSyQEptW,UCHCThmyZ-2yWkv0UVeBDdnQ,Did You Know?,2021-06-30T19:21:54Z,9
+PLcFwxJMrxygCoi-H7NRu-Vve_AoubBPHh,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Announcing Oracle Support Rewards,2021-06-22T01:59:55Z,7
+PLcFwxJMrxygDtyok1s1APDyarEnHaSmv3,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle@Oracle,2021-05-28T19:05:51Z,46
+PLcFwxJMrxygD0mAHWElaN0eKAKPMp-65m,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Advancing the Future of Cloud with Arm-Based Computing,2021-05-17T18:01:54Z,9
+PLcFwxJMrxygAqApIaR3geR45AX9-rbBKc,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: CX Innovations May 2021,2021-05-07T23:37:05Z,7
+PLcFwxJMrxygA03BLMvLEOuTRG_-IIdUHO,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Announcing New Oracle Analytics Cloud Innovations,2021-04-30T23:18:16Z,7
+PLcFwxJMrxygAutUzBPyPTA_voHObOo-jk,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Maximum Availability Architecture Series,2021-04-16T23:19:58Z,9
+PLcFwxJMrxygDLhn2PcbA7CRNLQwh_xlfX,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud CX Virtual Summit: High Tech & Manufacturing,2021-04-15T00:09:14Z,10
+PLcFwxJMrxygDQbAycir0-j6Dugqs9OjL7,UCHCThmyZ-2yWkv0UVeBDdnQ,Work Made Human: Innovation in the New Workplace,2021-04-12T18:52:46Z,8
+PLcFwxJMrxygBvI2fl5WByY55nbZ10aqhb,UCHCThmyZ-2yWkv0UVeBDdnQ,Must-See Oracle Videos,2021-03-30T17:03:03Z,149
+PLcFwxJMrxygB-I1Iqogi5e_aB42tPpfD_,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live:  Build the Future of Business with Oracle Cloud Applications,2021-03-24T00:05:20Z,13
+PLcFwxJMrxygA_liuh5VL4ub4m8doyYMKo,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Database Features,2021-03-22T21:03:27Z,6
+PLcFwxJMrxygB1b7nW9JYdrKmhOeQYjlWc,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: New Autonomous Data Warehouse Innovations,2021-03-17T00:24:36Z,4
+PLcFwxJMrxygCThL2ww6NQyL7w33rlHYbw,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Autonomous Database,2021-03-15T21:03:38Z,5
+PLcFwxJMrxygAdpPsUhGv-t1Kwdegipbll,UCHCThmyZ-2yWkv0UVeBDdnQ,Cloud Platform: Transform Your Data Center With Oracle's Dedicated Region,2021-03-10T00:36:46Z,6
+PLcFwxJMrxygAfnHBnZzJjqZuOVNWEd1Vq,UCHCThmyZ-2yWkv0UVeBDdnQ,Women's History Month,2021-03-03T14:38:49Z,11
+PLcFwxJMrxygCUrV3pAZ3YrPg6m6BEs8-3,UCHCThmyZ-2yWkv0UVeBDdnQ,Videopillole Oracle Cloud,2021-02-26T00:10:01Z,27
+PLcFwxJMrxygD6uq_qDHKJg6n_qsHcPCf2,UCHCThmyZ-2yWkv0UVeBDdnQ,HCM Virtual Summit: Addressing Diversity and Inclusion: Going Beyond the Benchmark,2021-02-19T01:44:29Z,3
+PLcFwxJMrxygAigsNA2EUScjBMdC-Yq633,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud SCM - Customer Videos,2021-02-17T21:19:23Z,52
+PLcFwxJMrxygAmdmBcSeW1k3M2dY2bSapX,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud HCM Product Essentials,2021-02-12T22:28:57Z,24
+PLcFwxJMrxygAQ2Ce8txkUHVgSIiHqlP5j,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Expanding the Possibilities of Hybrid Cloud,2021-02-09T18:33:01Z,4
+PLcFwxJMrxygBjRyFQYJGXyuUwBNVBFobC,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Quarterly Update on Innovations for CX,2021-02-08T20:12:25Z,5
+PLcFwxJMrxygCp4tCXd6abyt5H-um9hER1,UCHCThmyZ-2yWkv0UVeBDdnQ,Big Moves for Finance in 2021,2021-02-02T00:03:52Z,29
+PLcFwxJMrxygANiD5n2jwEGvEd_rVap4on,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Fusion Cloud Supply Chain & Manufacturing (SCM),2021-01-27T22:38:05Z,27
+PLcFwxJMrxygCABfZg_5imxbj_qGWQJAy1,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle HCM Cloud Virtual Summit: Uniting HR and Finance,2021-01-23T00:53:10Z,5
+PLcFwxJMrxygBCfodnQgvdgT839tJzAtsZ,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud's 360° Industry Innovation,2021-01-20T23:39:10Z,4
+PLcFwxJMrxygC8akCV4gjKC5R1zAjrjdzl,UCHCThmyZ-2yWkv0UVeBDdnQ,Cloud Platform Virtual Summit: Why Independent Software Vendors Run Their Applications on OCI,2021-01-16T00:50:28Z,6
+PLcFwxJMrxygCFBAPIEVNuDf2YeaXCkkkC,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Oracle Database Breakthrough Innovations,2021-01-12T21:40:10Z,5
+PLcFwxJMrxygA4yOgCB_UUGOdEaiMWI2Ij,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Financial Services: Transformative Finance Exchange Virtual Event,2021-01-07T22:48:02Z,13
+PLcFwxJMrxygCc6mM0QRgDop3jamzh-JV2,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud HCM Virtual Summit Highlights,2021-01-05T20:11:54Z,20
+PLcFwxJMrxygCfWwCzomOHkTIUhvfEBMm3,UCHCThmyZ-2yWkv0UVeBDdnQ,Inside Innovation,2020-12-17T22:23:33Z,8
+PLcFwxJMrxygBJnQfKOFoW_nDfhba3znhO,UCHCThmyZ-2yWkv0UVeBDdnQ,Cloud Platform Virtual Summit: Build Applications Faster with Low Code,2020-12-15T20:15:02Z,8
+PLcFwxJMrxygCe8JNR5PrSYRetDUVMNGxd,UCHCThmyZ-2yWkv0UVeBDdnQ,Santa's Cloud Workshop,2020-12-14T22:51:01Z,8
+PLcFwxJMrxygBS88QVhNIY4je4OqY3gGpI,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Exadata,2020-12-10T23:30:47Z,4
+PLcFwxJMrxygCYPk7QXnw2eMlzRXnCYSIJ,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle: Win with Data,2020-12-09T20:10:52Z,8
+PLcFwxJMrxygBfn1b7oCdR9nQWcf3NEGh2,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Taleo and Beyond: Recruiting in the New Workplace,2020-12-07T18:18:06Z,6
+PLcFwxJMrxygCM3ucQTG_p_B6y0ThgCGx0,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Announcing Breakthrough MySQL Innovation in the Cloud,2020-11-30T21:09:58Z,8
+PLcFwxJMrxygBVlRublsCJNNz1H3RLZ0bp,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud CX Virtual Summit,2020-11-06T01:19:55Z,6
+PLcFwxJMrxygDDNv20zoTwB-WEtHqkOFv2,UCHCThmyZ-2yWkv0UVeBDdnQ,Addressing Employee Mental Health in the New Workplace,2020-10-30T18:03:50Z,7
+PLcFwxJMrxygB-eWpwK0pYP_Ta90gO5d68,UCHCThmyZ-2yWkv0UVeBDdnQ,HPC in Industry,2020-10-29T20:36:38Z,3
+PLcFwxJMrxygDtkyz66FpvtzQUAxWkgnPf,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud SCM Virtual Summit,2020-10-21T19:31:33Z,9
+PLcFwxJMrxygBFSDL2zaeub4Rah-XdybjR,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: A New Platform for Multicloud Observability and Management,2020-10-06T00:26:31Z,5
+PLcFwxJMrxygDaY-jrFvIxc7s9DMYuoq5w,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Oracle Cloud Applications—The Time Is Now,2020-09-18T20:21:46Z,19
+PLcFwxJMrxygAEPRj9SYdMTkTuVZqzIAGO,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Breakthroughs in Cloud Infrastructure and High Performance Computing,2020-09-14T19:49:51Z,12
+PLcFwxJMrxygCwZeo76Wjp-j5iet2tGxhm,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Announcing New Oracle Cloud Infrastructure Security Services for Posture Management,2020-09-14T19:42:33Z,3
+PLcFwxJMrxygBlBOen-j7NOQN_VuykCbX7,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Live: Announcing New Autonomous Services,2020-09-14T19:33:48Z,5
+PLcFwxJMrxygBjybIXnzfRi5XwgW_xHnxB,UCHCThmyZ-2yWkv0UVeBDdnQ,Virtual Road Trip 2020,2020-08-18T15:39:32Z,31
+PLcFwxJMrxygCcU7EvsKB94sOLay5mDjwM,UCHCThmyZ-2yWkv0UVeBDdnQ,VMware to OCI Workshop,2020-07-29T19:01:38Z,4
+PLcFwxJMrxygDv4jmRK4AgwmM1e7KrXEL1,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle PaaS for SaaS,2020-05-21T21:43:52Z,4
+PLcFwxJMrxygD7XDHB6fZ0OvCY4OGN2slT,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle High Technology,2020-05-12T20:32:24Z,12
+PLcFwxJMrxygAdpFnuydzv4LJXEUPa311c,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Automotive,2020-05-11T17:25:30Z,7
+PLcFwxJMrxygAcGh1KXM3kMrbqA4XGK-qN,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Industrial Manufacturing,2020-05-06T22:49:49Z,13
+PLcFwxJMrxygCR2LVCf37QKCVOTcuWBgnY,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle OpenWorld 2020 London,2020-04-08T21:26:00Z,13
+PLcFwxJMrxygBVpIdZENlnaTtIddjY4f14,UCHCThmyZ-2yWkv0UVeBDdnQ,Sustainability at Oracle,2020-03-12T21:09:39Z,7
+PLcFwxJMrxygAU3pdjIoR8C8rKqCr6WHyd,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Sustainability Customer Success Stories,2020-03-12T21:02:30Z,15
+PLcFwxJMrxygD7f-G0ian9JwtoB16rsBC6,UCHCThmyZ-2yWkv0UVeBDdnQ,SailGP,2020-03-02T22:08:02Z,18
+PLcFwxJMrxygCdZoyjXtTtT-2shU7Otnhi,UCHCThmyZ-2yWkv0UVeBDdnQ,Customer Stories | Oracle ERP Cloud,2019-12-11T21:20:42Z,20
+PLcFwxJMrxygAS9Et7HyGtILH6EG4w4yK0,UCHCThmyZ-2yWkv0UVeBDdnQ,Customer Stories | Oracle Cloud Infrastructure,2019-12-11T21:19:53Z,3
+PLcFwxJMrxygAcIfK9QPl5ac2_nuJbn7Ck,UCHCThmyZ-2yWkv0UVeBDdnQ,Customer Stories | Oracle Autonomous Database,2019-12-11T21:19:37Z,2
+PLcFwxJMrxygAydYME9eYdo9Nv8ulW2imC,UCHCThmyZ-2yWkv0UVeBDdnQ,Customer Stories | Oracle Cloud HCM,2019-12-11T21:19:06Z,18
+PLcFwxJMrxygAUkT8useahvMsPtyieNsqE,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Retail,2019-11-21T23:34:43Z,99
+PLcFwxJMrxygCqsOunSK9aQlTvYZc-QnT0,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Financial Services,2019-11-21T23:29:52Z,106
+PLcFwxJMrxygDV-ev_-c49M_zS8IGEgU8t,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Restaurants,2019-11-21T23:26:22Z,104
+PLcFwxJMrxygBr3YmyYc9_fof4bNFOVNFl,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle for Insurance,2019-11-21T23:23:10Z,20
+PLcFwxJMrxygBftIw8dIq07Xum2eItEtcH,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Hospitality,2019-11-21T23:20:16Z,81
+PLcFwxJMrxygCz4F6kejz_dB-eWtP9kYce,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Communications,2019-11-21T23:14:08Z,30
+PLcFwxJMrxygAl7i9nIQXasLTMyJjSk8E1,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Construction and Engineering,2019-11-21T22:59:24Z,33
+PLcFwxJMrxygAkI4rpPP39zJDDryncB_yc,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Utilities,2019-11-21T22:54:57Z,51
+PLcFwxJMrxygDYQoU_LUw9M4fNYPD-a7zj,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Life Sciences,2019-11-13T17:11:45Z,52
+PLcFwxJMrxygABhuYAdJSL7OnPVzyTRVNG,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle OpenWorld 2019 General Sessions,2019-09-11T17:47:42Z,21
+PLcFwxJMrxygBKIT4JTOv68nzhm2tGIBjX,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle OpenWorld 2019 Keynotes,2019-09-03T23:54:13Z,15
+PLcFwxJMrxygAaqGSrlwp1Wm0IECiqPfas,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud Solution Hubs Demos: HCM Overview,2019-06-26T21:17:57Z,5
+PLcFwxJMrxygC7CXIjxAUgAyW5r4N1M83p,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud Solution Hubs Demos: HCM Executive Overview,2019-06-26T21:15:28Z,4
+PLcFwxJMrxygCm0az2q5jEVqpJcTQi44fb,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud Solution Hubs Demos: Talent Management,2019-06-26T21:10:17Z,6
+PLcFwxJMrxygAtYSwOtxpNVVL2sFKrRdtR,UCHCThmyZ-2yWkv0UVeBDdnQ,Cloud Talks with Steve Miranda,2019-04-22T20:46:38Z,15
+PLcFwxJMrxygBwXMZ3m4ddHRKVskxqM4GY,UCHCThmyZ-2yWkv0UVeBDdnQ,Future Talks: Oracle Cloud,2018-12-07T17:38:11Z,6
+PLcFwxJMrxygCqq9oXK0A_pJJWIVbOxe36,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle OpenWorld 2018 General Sessions,2018-11-02T19:25:39Z,19
+PLcFwxJMrxygCKSl3jKAfDbPz10Ez_aDPI,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle OpenWorld 2018 Keynotes,2018-10-17T22:26:20Z,12
+PLcFwxJMrxygAo63Rh0p7GuodoPkuGlfpK,UCHCThmyZ-2yWkv0UVeBDdnQ,Introducing Oracle Autonomous Transaction Processing,2018-08-09T17:28:33Z,4
+PLcFwxJMrxygD5n57vM30SGc66lfVT8du5,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Changing Lives,2018-08-03T22:10:08Z,8
+PLcFwxJMrxygA1q6pvmyPp2k4g-X35G3pe,UCHCThmyZ-2yWkv0UVeBDdnQ,Modern Supply Chain Experience 2018,2018-07-12T21:24:21Z,14
+PLcFwxJMrxygAWLVyh739PiJW1FGLh045W,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud HCM Product Videos,2018-06-21T22:20:21Z,6
+PLcFwxJMrxygBErzJbRpY7iBkW0jshtSHz,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Soar to the Cloud—The Last Upgrade You’ll Ever Do,2018-06-06T21:03:56Z,4
+PLcFwxJMrxygAHRrZOleU0bCb8a1lCC4e-,UCHCThmyZ-2yWkv0UVeBDdnQ,Modern Customer Experience 2018,2018-05-01T20:59:31Z,17
+PLcFwxJMrxygDfMagFAAvRiXwfickogwYs,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle HCM World 2018,2018-04-23T22:22:05Z,20
+PLcFwxJMrxygDpxZnDTVKzgq41ug-Bx2lk,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Autonomous Database Cloud,2018-03-26T22:07:16Z,5
+PLcFwxJMrxygDTozYyyc2-L36WcGJ2mH6j,UCHCThmyZ-2yWkv0UVeBDdnQ,Modern Finance Experience NYC 2018,2018-02-28T17:03:32Z,9
+PLcFwxJMrxygClQAJvx4Xgp4mP_0sw038Y,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Cloud HCM: GO Further. GO Faster,2017-11-01T18:40:04Z,0
+PLcFwxJMrxygDw6d71l_Fzqkacg-PFhSAt,UCHCThmyZ-2yWkv0UVeBDdnQ,Introducing Oracle Autonomous Database,2017-10-24T18:29:55Z,0
+PLcFwxJMrxygDKNTp92QCdTQGOq2aPBn7K,UCHCThmyZ-2yWkv0UVeBDdnQ,Journey To The Cloud,2017-10-18T23:16:47Z,0
+PLcFwxJMrxygAvZ_mQy8nJX_qGbIBgIxvQ,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle OpenWorld 2017 General Sessions,2017-09-29T19:00:03Z,0
+PLcFwxJMrxygD0GI4MK2-TfZqqhyVx6xkR,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle OpenWorld 2017 Keynotes,2017-09-29T18:58:51Z,0
+PLcFwxJMrxygCq33fJFNTNUxc3SjFGZD6U,UCHCThmyZ-2yWkv0UVeBDdnQ,Experience Inspiration Presented by Oracle,2017-09-21T22:14:58Z,4
+PLcFwxJMrxygAj6V7NLmb1_Te5X7PJrKlT,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Education Foundation,2017-08-01T18:35:59Z,8
+PLcFwxJMrxygDN3jfSbmHuWRfOhgTu0_Pb,UCHCThmyZ-2yWkv0UVeBDdnQ,"Bloodhound: The 1,000 Mph Car, Powered by Data",2017-07-25T18:41:16Z,0
+PLcFwxJMrxygDXkNw8AEO38swlnQQ_u6o2,UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle Blogs Spotlight,2017-05-24T21:42:34Z,28
+PLcFwxJMrxygDm5r613-tPamB6SyWDi_wA,UCHCThmyZ-2yWkv0UVeBDdnQ,Modern Business Experience London 2017,2017-03-21T21:39:04Z,0
+PLcFwxJMrxygAgyCfUGiKGlOC3p5x0MriV,UCHCThmyZ-2yWkv0UVeBDdnQ,Life at Oracle,2015-05-04T23:15:31Z,7
+PLLasX02E8BPC3IT2-3wpIrROswc0UX3fd,UC0m-80FnNY2Qb7obvTL_2fA,Oracle on Azure,2024-10-03T23:37:14Z,14
+PLLasX02E8BPAknoZu3oU_cKvPnQpFcRfv,UC0m-80FnNY2Qb7obvTL_2fA,Azure Essentials Show: Azure Pricing,2024-09-09T19:08:59Z,7
+PLLasX02E8BPCv2NNRdZ3F1TIBAchH0hxx,UC0m-80FnNY2Qb7obvTL_2fA,Marketplace,2024-09-04T09:34:05Z,10
+PLLasX02E8BPAZy4euhmo9DKApkVWk1mYF,UC0m-80FnNY2Qb7obvTL_2fA,Marketplace Mini,2024-04-25T13:51:55Z,8
+PLLasX02E8BPCS7VUimTKbEPOEllwrYn2D,UC0m-80FnNY2Qb7obvTL_2fA,Armchair Architects,2024-03-20T23:11:31Z,44
+PLLasX02E8BPCDnfGKvaimnQI0xGfTwFse,UC0m-80FnNY2Qb7obvTL_2fA,Azure Well-Architected,2024-03-20T22:42:50Z,78
+PLLasX02E8BPCXjr2ZdsUin5dPKN-8XeUd,UC0m-80FnNY2Qb7obvTL_2fA,Azure Skill-building Resources,2024-03-20T22:35:11Z,26
+PLLasX02E8BPCXVTGixrfU6p3b83qb7hxs,UC0m-80FnNY2Qb7obvTL_2fA,Cloud Adoption Framework for Azure,2024-03-20T22:16:56Z,33
+PLLasX02E8BPDq4wgAg5esVPC8_BI2wfpu,UC0m-80FnNY2Qb7obvTL_2fA,MWC Barcelona 2024,2024-02-23T13:50:16Z,18
+PLLasX02E8BPD9JlGzsmFEAncj6oJptiQ7,UC0m-80FnNY2Qb7obvTL_2fA,Azure Confidential Computing,2024-01-02T14:45:07Z,26
+PLLasX02E8BPBuCcfBJbK3jysv3xpRPu4f,UC0m-80FnNY2Qb7obvTL_2fA,Azure Space,2023-09-18T19:42:32Z,11
+PLLasX02E8BPBrExuOI979S-7MQiYkInow,UC0m-80FnNY2Qb7obvTL_2fA,Microsoft SaaS Stories,2023-07-17T19:51:33Z,12
+PLLasX02E8BPAGumBPYQOdXXcaKcBb9pxi,UC0m-80FnNY2Qb7obvTL_2fA,HPC Customers,2023-07-03T19:27:20Z,12
+PLLasX02E8BPBJNCNgO6A7_vaAH0C4ZzU7,UC0m-80FnNY2Qb7obvTL_2fA,HPC Partners,2023-05-02T20:16:01Z,9
+PLLasX02E8BPAgSR6phUyNP4fs11ESGUK0,UC0m-80FnNY2Qb7obvTL_2fA,HPC Events,2023-05-02T19:54:40Z,15
+PLLasX02E8BPAZcRyiyzBPjuamdQYBPOIn,UC0m-80FnNY2Qb7obvTL_2fA,HPC Deep Dives,2023-05-02T19:39:30Z,16
+PLLasX02E8BPBPmibH422zGNKPIMFR6Mcj,UC0m-80FnNY2Qb7obvTL_2fA,HPC Business Strategy,2023-05-02T19:30:44Z,8
+PLLasX02E8BPA-e83yoQwn5JxSwWTE6ECk,UC0m-80FnNY2Qb7obvTL_2fA,Business Continuity and Disaster Recovery (BCDR),2023-01-20T13:00:22Z,11
+PLLasX02E8BPAouP6iWCFcLN5B8fCqCzV0,UC0m-80FnNY2Qb7obvTL_2fA,Mobile and Voice Core,2022-06-29T18:16:55Z,8
+PLLasX02E8BPC41fIg4sK2kZz96MuNnGWS,UC0m-80FnNY2Qb7obvTL_2fA,Azure Public MEC,2022-06-22T18:24:58Z,15
+PLLasX02E8BPAL7aXdkhdEUzY3vrf76yiM,UC0m-80FnNY2Qb7obvTL_2fA,Azure Private MEC,2022-06-22T18:01:37Z,26
+PLLasX02E8BPC6ut-LWIUMmUlSGkShj1_D,UC0m-80FnNY2Qb7obvTL_2fA,Microsoft Build 2022,2022-06-14T18:39:25Z,6
+PLLasX02E8BPADO_R-D6ctSoV4EeE8ow9B,UC0m-80FnNY2Qb7obvTL_2fA,Deploy Node.js web apps to Azure App Service,2022-06-10T18:43:48Z,6
+PLLasX02E8BPBlrbSDYOJ99YB34tKekvoK,UC0m-80FnNY2Qb7obvTL_2fA,Azure HPC+AI Day 2022,2022-06-10T18:03:55Z,6
+PLLasX02E8BPAz6LBe9IRY3kKfbck8BQIw,UC0m-80FnNY2Qb7obvTL_2fA,Azure for Operators MWC Barcelona 2022,2022-02-28T02:08:01Z,16
+PLLasX02E8BPCWilPWpE50YGNEHEJilZnF,UC0m-80FnNY2Qb7obvTL_2fA,The DevOps Lab,2022-02-04T17:24:46Z,55
+PLLasX02E8BPCuSwSV4RQGzPveSR_03ZbM,UC0m-80FnNY2Qb7obvTL_2fA,Microsoft Azure technologies for AWS architects,2021-11-20T00:34:51Z,5
+PLLasX02E8BPCL-L2V134pSGgzAHk9-8Tq,UC0m-80FnNY2Qb7obvTL_2fA,Azure Administration for AWS SysOps,2021-11-20T00:23:24Z,5
+PLLasX02E8BPDd2fKwLCHnmWoyo4bL-oKr,UC0m-80FnNY2Qb7obvTL_2fA,Azure Cosmos DB Essentials Series,2021-11-15T17:14:27Z,12
+PLLasX02E8BPB5wFYs-DDkV18WZ_hY91O4,UC0m-80FnNY2Qb7obvTL_2fA,FastTrack for Azure - ISVs & Startups,2021-08-25T15:04:33Z,15
+PLLasX02E8BPBqFHrRKhQsU1uk_dqA0k4j,UC0m-80FnNY2Qb7obvTL_2fA,Azure Storage Day 2021,2021-07-02T18:46:12Z,4
+PLLasX02E8BPAwt4JXK_zk1sx54zWP5jWi,UC0m-80FnNY2Qb7obvTL_2fA,.NET Apps and Data on Azure,2021-06-09T21:38:37Z,6
+PLLasX02E8BPBOBF8Hl0iWap7Uxy6Anmes,UC0m-80FnNY2Qb7obvTL_2fA,Microsoft Build 2021,2021-05-20T13:02:38Z,2
+PLLasX02E8BPDcVxhGBYun8KCaBG0t7V4Y,UC0m-80FnNY2Qb7obvTL_2fA,Analytics,2021-04-29T15:23:21Z,6
+PLLasX02E8BPCmm3cKLxBcXsAW1YSk464I,UC0m-80FnNY2Qb7obvTL_2fA,Microsoft Ignite 2021,2021-03-15T22:18:11Z,30
+PLLasX02E8BPAc_-mz6MCyo7NTZHUMxAuo,UC0m-80FnNY2Qb7obvTL_2fA,Ignite 2021,2021-03-02T16:16:54Z,4
+PLLasX02E8BPCdLJT8GAWkYCFxzm3evzt0,UC0m-80FnNY2Qb7obvTL_2fA,Azure Disk Storage,2021-02-18T23:45:44Z,16
+PLLasX02E8BPA275Hk3QlsRib6cmaYhc4h,UC0m-80FnNY2Qb7obvTL_2fA,Troubleshooting and Self-Serve Diagnostics on Azure,2021-02-11T23:04:32Z,7
+PLLasX02E8BPCL966bJ00oIeOhm7w5ejvt,UC0m-80FnNY2Qb7obvTL_2fA,Machine Learning Essentials,2021-01-21T12:53:37Z,11
+PLLasX02E8BPA3zv2MsiT9-UXa2xa_0OyC,UC0m-80FnNY2Qb7obvTL_2fA,Azure Storage,2021-01-19T22:32:16Z,12
+PLLasX02E8BPCpQSJnxxc17H9YniYD1dqj,UC0m-80FnNY2Qb7obvTL_2fA,Windows Virtual Desktop,2020-12-23T09:12:39Z,13
+PLLasX02E8BPAdlJA3WkKG-1_qQNy4Y9YV,UC0m-80FnNY2Qb7obvTL_2fA,Linux on Azure,2020-11-23T23:16:49Z,6
+PLLasX02E8BPBP3Z3i91Pwf6iwrLe-daym,UC0m-80FnNY2Qb7obvTL_2fA,Windows Server,2020-11-23T23:16:33Z,11
+PLLasX02E8BPCh9wsStUr4JYKITfeQv4iZ,UC0m-80FnNY2Qb7obvTL_2fA,Azure Infrastructure,2020-11-23T23:15:32Z,19
+PLLasX02E8BPA5V-waZPcelhg9l3IkeUQo,UC0m-80FnNY2Qb7obvTL_2fA,Azure Networking,2020-11-20T20:06:00Z,18
+PLLasX02E8BPB7lXtxV82Y2UdPBphmulXV,UC0m-80FnNY2Qb7obvTL_2fA,Data Exposed,2020-11-16T22:04:01Z,275
+PLLasX02E8BPArtrhIH0FP8bJU2odUbNR7,UC0m-80FnNY2Qb7obvTL_2fA,Azure SQL for beginners,2020-10-12T18:26:02Z,61
+PLLasX02E8BPAwfSMUkiqAeq8e10ouDjoV,UC0m-80FnNY2Qb7obvTL_2fA,Azure for Operators,2020-09-19T03:49:48Z,41
+PLLasX02E8BPBmSOdP76oJPvLND9995ftv,UC0m-80FnNY2Qb7obvTL_2fA,Microsoft Ignite 2020,2020-09-15T19:36:08Z,20
+PLLasX02E8BPBB0WnvX5UWz-7y4udUNgdF,UC0m-80FnNY2Qb7obvTL_2fA,Cloud Native Applications on Azure,2020-06-26T22:27:44Z,20
+PLLasX02E8BPD4FUsaPUx3ZF8w3WMugnB0,UC0m-80FnNY2Qb7obvTL_2fA,Microsoft Build 2020,2020-06-16T18:35:44Z,30
+PLLasX02E8BPBi2rm-fxTAc44UDS5VjP-8,UC0m-80FnNY2Qb7obvTL_2fA,Customer Stories,2020-06-02T18:11:44Z,54
+PLLasX02E8BPCbUWI7Ij4mgFpQY9yLVPHv,UC0m-80FnNY2Qb7obvTL_2fA,SAP on Azure,2020-06-02T18:07:42Z,6
+PLLasX02E8BPBxGouWlJV-u-XZWOc2RkiX,UC0m-80FnNY2Qb7obvTL_2fA,Identity for Developers,2020-05-12T00:22:47Z,7
+PLLasX02E8BPCHVcT5DnGpjUIDT5-9ewne,UC0m-80FnNY2Qb7obvTL_2fA,Go Serverless,2020-04-06T18:46:59Z,6
+PLLasX02E8BPCkqipgpNf9wHM07Kl1-Y8a,UC0m-80FnNY2Qb7obvTL_2fA,Identity Architecture Series,2020-03-11T00:22:51Z,16
+PLLasX02E8BPD5vC2XHS_oHaMVmaeHHPLy,UC0m-80FnNY2Qb7obvTL_2fA,Microsoft Entra ID Authentication Fundamentals,2020-01-29T17:44:20Z,6
+PLLasX02E8BPDFs2P3LlUQ1CEDd7Rg-j75,UC0m-80FnNY2Qb7obvTL_2fA,Python for Beginners,2019-12-11T16:06:01Z,42
+PLLasX02E8BPCmXg3ULpaZRneCH2O9QMt4,UC0m-80FnNY2Qb7obvTL_2fA,Azure Arc,2019-11-19T17:40:11Z,6
+PLLasX02E8BPCZvTqDoDCA2_csHR5FCnhC,UC0m-80FnNY2Qb7obvTL_2fA,Azure Developer Streams,2019-10-30T21:36:02Z,63
+PLLasX02E8BPBaw6G5qd3riTPHu0wxkqwF,UC0m-80FnNY2Qb7obvTL_2fA,Microsoft Build 2019,2019-06-11T19:25:23Z,11
+PLLasX02E8BPBeUs0as1Bhy9t3WtUmtLwE,UC0m-80FnNY2Qb7obvTL_2fA,Azure Stack,2019-05-31T20:55:27Z,24
+PLLasX02E8BPBJW49E5_sHgbgvztb4oz6D,UC0m-80FnNY2Qb7obvTL_2fA,Azure Cost Management,2019-04-18T21:13:37Z,11
+PLLasX02E8BPCkCMbNDPT-hUfNsnP_RSBm,UC0m-80FnNY2Qb7obvTL_2fA,One Dev Question on Azure,2019-03-26T17:11:22Z,65
+PLLasX02E8BPBBSqygdRvlTnHfp1POwE8K,UC0m-80FnNY2Qb7obvTL_2fA,Maintenance and Resilience in Azure,2019-03-14T15:16:55Z,8
+PLLasX02E8BPAOVJt2cpN8Hw2BZgscgD6c,UC0m-80FnNY2Qb7obvTL_2fA,Mixed Reality,2019-02-23T20:38:18Z,5
+PLLasX02E8BPDY8lteNSno4etuLx-6bALf,UC0m-80FnNY2Qb7obvTL_2fA,Azure Hybrid Virtual Event,2019-02-20T00:15:12Z,31
+PLLasX02E8BPCrIhFrc_ZiINhbRkYMKdPT,UC0m-80FnNY2Qb7obvTL_2fA,Kubernetes Basics,2019-02-11T23:44:09Z,20
+PLLasX02E8BPBKgXP4oflOL29TtqTzwhxR,UC0m-80FnNY2Qb7obvTL_2fA,Azure Portal “How To” Series,2019-01-22T20:10:47Z,14
+PLLasX02E8BPBNNE8C5TbRvUMUGP0-0-XU,UC0m-80FnNY2Qb7obvTL_2fA,Quantum,2018-12-06T16:57:19Z,22
+PLLasX02E8BPCeGEZ0FqHV0t9wR0M9vB7c,UC0m-80FnNY2Qb7obvTL_2fA,Azure Migration and Modernization,2018-08-28T21:42:25Z,67
+PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC,UC0m-80FnNY2Qb7obvTL_2fA,Azure Tips and Tricks,2018-07-27T18:43:35Z,179
+PLLasX02E8BPCCsHzNLJjcElCwF52rnh6t,UC0m-80FnNY2Qb7obvTL_2fA,Azure Monitor,2018-07-20T17:34:33Z,22
+PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0,UC0m-80FnNY2Qb7obvTL_2fA,Azure Active Directory,2018-04-27T17:33:11Z,106
+PLLasX02E8BPCRLOzJHUO39cSR_Bn6cvw8,UC0m-80FnNY2Qb7obvTL_2fA,AI,2018-03-22T18:33:12Z,176
+PLLasX02E8BPBiliYBObbMkj0Cd2QlF-5e,UC0m-80FnNY2Qb7obvTL_2fA,Azure Security,2018-03-12T20:18:07Z,6
+PLLasX02E8BPA5IgCPjqWms5ne5h4briK7,UC0m-80FnNY2Qb7obvTL_2fA,Azure Government,2017-11-14T16:32:06Z,37
+PLLasX02E8BPAZSRAR5IYS62CGQsfvcubW,UC0m-80FnNY2Qb7obvTL_2fA,React & Azure Cosmos DB,2017-10-02T17:22:50Z,7
+PLLasX02E8BPD5GMzwf3Gu4DF039jVSsHS,UC0m-80FnNY2Qb7obvTL_2fA,Open Source Success Stories,2017-08-04T16:54:34Z,7
+PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6,UC0m-80FnNY2Qb7obvTL_2fA,Azure Friday,2017-07-31T19:02:27Z,253
+PLLasX02E8BPBwEIf0SimIjqOIvpKQFtrG,UC0m-80FnNY2Qb7obvTL_2fA,Recent Announcements,2016-12-30T20:46:42Z,14
+PLLasX02E8BPCsnETz0XAMfpLR1LIBqpgs,UC0m-80FnNY2Qb7obvTL_2fA,Virtual Machines,2016-09-12T00:14:29Z,19
+PLLasX02E8BPBgWVG_bS-b6EvUZDo-KIFO,UC0m-80FnNY2Qb7obvTL_2fA,Kubernetes on Azure,2016-09-11T23:37:58Z,7
+PLLasX02E8BPCv62WEjAxRMQ50JssWyD60,UC0m-80FnNY2Qb7obvTL_2fA,Innovate with Azure,2016-08-16T23:58:05Z,6
+PLLasX02E8BPBsxTwjnhjcPYHWAbzUZvf7,UC0m-80FnNY2Qb7obvTL_2fA,Azure Dev: Demos,2015-10-14T02:37:57Z,6
+PLLasX02E8BPBCI6f6nOa4hKwOQ1hKKD-8,UC0m-80FnNY2Qb7obvTL_2fA,Azure App Service,2015-06-24T03:11:02Z,21
+PLF2845DC0A749E450,UC0m-80FnNY2Qb7obvTL_2fA,Azure SQL,2011-06-30T18:14:26Z,7
