@@ -49,16 +49,24 @@ def fetch_channel_data(channel_ids):
     for channel_id in channel_ids:
         youtube = get_youtube_service()  # Fresh API client per call
         try:
-            response = youtube.channels().list(part="snippet,statistics", id=channel_id).execute()
+            response = youtube.channels().list(part="snippet,statistics,brandingSettings", id=channel_id).execute()
             for item in response['items']:
+                branding_settings = item.get('brandingSettings', {}).get('channel', {})
+                country = item['snippet'].get('country', 'N/A')
+                language = branding_settings.get('defaultLanguage', 'N/A')
+                
                 channels.append({
                     'channel_id': item['id'],
                     'title': item['snippet'].get('title', ''),
+                    'description': item['snippet'].get('description', ''),
                     'creation_date': datetime.strptime(item['snippet']['publishedAt'], '%Y-%m-%dT%H:%M:%SZ').date(),
                     'subscriber_count': item['statistics'].get('subscriberCount', 'N/A'),
                     'total_views': item['statistics'].get('viewCount', 'N/A'),
                     'total_videos': item['statistics'].get('videoCount', 'N/A'),
-                    'country': item['snippet'].get('country', 'N/A')
+                    'country': country,
+                    'language': language,
+                    'created_at': datetime.now().isoformat(),
+                    'updated_at': datetime.now().isoformat(),
                 })
         except HttpError as e:
             logging.error(f"HTTP error fetching data for channel {channel_id}: {e}")
@@ -83,8 +91,11 @@ def fetch_playlist_data(channel_id):
                 'playlist_id': item['id'],
                 'channel_id': channel_id,
                 'title': item['snippet'].get('title', ''),
-                'creation_date': item['snippet'].get('publishedAt', ''),
-                'total_videos': item['contentDetails']['itemCount']
+                'description': item['snippet'].get('description', ''),
+                'creation_date': datetime.strptime(item['snippet']['publishedAt'], '%Y-%m-%dT%H:%M:%SZ').date(),
+                'total_videos': item['contentDetails']['itemCount'],
+                'created_at': datetime.now().isoformat(),
+                'updated_at': datetime.now().isoformat(),
             } for item in response['items']])
 
             next_page_token = response.get('nextPageToken')
@@ -121,10 +132,15 @@ def fetch_video_data(playlist_id):
                     'created_at': datetime.now().isoformat(),  # Current timestamp
                     'updated_at': datetime.now().isoformat(),  # Same for now
                     'title': video['title'],
+                    'description': video['description'],
+                    'thumbnail_url': video['thumbnail_url'],
+                    'publish_date': video['publish_date'],
                     'view_count': video['view_count'],
                     'like_count': video['like_count'],
                     'comment_count': video['comment_count'],
+                    'dislike_count': video['dislike_count'],
                     'duration': video['duration'],
+                    'tags': video['tags'],
                 })
                 video_order += 1
 
@@ -150,11 +166,15 @@ def fetch_video_details(video_ids):
         videos.extend([{
             'video_id': item['id'],
             'title': item['snippet'].get('title', ''),
+            'description': item['snippet'].get('description', ''),
+            'thumbnail_url': item['snippet'].get('thumbnails', {}).get('high', {}).get('url', ''),
             'publish_date': item['snippet'].get('publishedAt', ''),
             'view_count': item['statistics'].get('viewCount', 'N/A'),
             'like_count': item['statistics'].get('likeCount', 'N/A'),
+            'dislike_count': item['statistics'].get('dislikeCount', 'N/A'),
             'comment_count': item['statistics'].get('commentCount', 'N/A'),
-            'duration': isodate.parse_duration(item['contentDetails']['duration']).total_seconds()
+            'duration': isodate.parse_duration(item['contentDetails']['duration']).total_seconds(),
+            'tags': ','.join(item['snippet'].get('tags', []))  # Combine tags into a comma-separated string
         } for item in response['items']])
     except HttpError as e:
         logging.error(f"HTTP error fetching video details: {e}")

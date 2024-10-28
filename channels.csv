@@ -1,6 +1,36 @@
-channel_id,title,creation_date,subscriber_count,total_views,total_videos,country
-UCakdSIPsJqiOLqylgoYmwQg,itversity,2014-03-07,67700,9738774,3507,US
-UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Web Services,2009-04-08,770000,188399540,16930,US
-UCz9g1Uhx8FunUEWeRpaj85w,Databricks,2011-07-21,18,0,0,N/A
-UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle,2005-11-12,140000,37640023,4559,N/A
-UC0m-80FnNY2Qb7obvTL_2fA,Microsoft Azure,2008-11-21,323000,23550709,1395,US
+channel_id,title,description,creation_date,subscriber_count,total_views,total_videos,country,language,created_at,updated_at
+UCakdSIPsJqiOLqylgoYmwQg,itversity,"🚨 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 𝘁𝗼 𝗹𝗲𝗮𝗿𝗻 𝗗𝗔𝗧𝗔 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗼𝗻 𝗖𝗟𝗢𝗨𝗗 🎯
+
+A free one-stop shop to learn all tips and techniques about all technologies catering to a wide array of IT professionals or aspirants. At this time focused on Data Engineering on the cloud (Azure, AWS, and GCP)
+Our Offering:
+* Training Services
+* Engineering Services
+* Managed Services
+* Staffing Services
+
+#DataEngineering #CloudComputing #AWS #Azure #GCP #devops
+",2014-03-07,67700,9738774,3507,US,N/A,2024-10-17T11:46:56.538529,2024-10-17T11:46:56.538529
+UCd6MoB9NC6uYN2grvUNT-Zg,Amazon Web Services,"The official YouTube channel for Amazon Web Services (AWS). 
+
+Amazon Web Services offers a complete set of infrastructure and application services that enable you to run virtually everything in the cloud: from enterprise applications and big data projects to social games and mobile apps. Explore how millions of customers — including the fastest-growing startups, largest enterprises, and leading government agencies — are using AWS to lower costs, become more agile, and innovate faster. 
+",2009-04-08,770000,188426435,16936,US,N/A,2024-10-17T11:46:56.806889,2024-10-17T11:46:56.806889
+UCz9g1Uhx8FunUEWeRpaj85w,Databricks,,2011-07-21,18,0,0,N/A,N/A,2024-10-17T11:46:57.089437,2024-10-17T11:46:57.089437
+UCHCThmyZ-2yWkv0UVeBDdnQ,Oracle,"We’re a cloud technology company that provides organizations around the world with computing infrastructure and software to help them innovate, unlock efficiencies and become more effective. We also created the world’s first–and only–autonomous database to help organize and secure our customers’ data. From nonprofits to companies of all sizes, millions of people use our tools to streamline supply chains, make HR more human, quickly pivot to a new financial plan, and connect data and people around the world.  
+ 
+Contact Oracle Sales - https://social.ora.cl/6004zuD5G
+Oracle - https://social.ora.cl/600258yuQ
+Join us at Oracle CloudWorld - https://social.ora.cl/6009ejskz
+Try Oracle Cloud for free: https://social.ora.cl/6002ejsxs
+Oracle Events: https://social.ora.cl/60075XCsd
+Oracle Support: https://social.ora.cl/600458GnE
+Oracle's Communities: https://social.ora.cl/60035BCrX
+
+",2005-11-12,140000,37650506,4560,N/A,N/A,2024-10-17T11:46:57.341876,2024-10-17T11:46:57.341876
+UC0m-80FnNY2Qb7obvTL_2fA,Microsoft Azure,"Welcome to the official Microsoft Azure channel. Subscribe and be the first to learn about the latest solutions, watch training demos, and be empowered to deliver limitless innovation. 
+
+Microsoft YouTube Community Guidelines:  
+1. Avoid explicit and inflammatory language.  
+2. Do not post repetitively nor spam our comment section. 
+3. Avoid posting personal information, such as email, physical address, personal phone number, credit card information, or your site password. 
+4. Please report posts that violate community guidelines using the spam button or YouTube’s Reporting and Enforcement Center. 
+",2008-11-21,323000,23562453,1395,US,N/A,2024-10-17T11:46:57.575021,2024-10-17T11:46:57.575021
